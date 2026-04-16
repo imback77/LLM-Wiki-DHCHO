@@ -56,3 +56,16 @@ created: 2026-04-16
   - `wiki/요약_2026-04-16_시민개발자 구씨 LLM Wiki GitHub Repo.md`
   - `wiki/시민개발자 구씨.md`
 - **핵심**: 카파시의 LLM Wiki 아이디어를 대중이 실전에서 구현할 수 있도록 만든 실무 강의 영상 및 실습 파일.
+
+## [2026-04-16] fetch + ingest | AI 업계 동향 10개 기사 (4개 사이트)
+- **소스**: `raw/articles/2026-04-16_*.md` (10개)
+- **출처**: The Rundown AI(4) · Anthropic(2) · Google DeepMind(2) · AI Magazine(2)
+- **생성된 페이지** (13개):
+  - 요약 10개 (OpenAI, AI리테일, Perplexity, Meta, Glasswing, LTBT, Gemma4, SIMA2, OpenAI UK, Andy Jassy)
+  - 신규 엔티티 3개: `Perplexity.md`, `Meta Superintelligence Labs.md`, `Google DeepMind.md`
+- **핵심 이슈**: OpenAI GPT-5.4-Cyber vs Mythos 전략 대비 / Meta AGI 참전 / Gemma 4 오픈소스 / Project Glasswing 보안 대연합
+- **후니님 follow-up 메모**:
+  - Gemini Chrome 자동화 실습 → raw/notes 추가 예정
+  - Perplexity 에이전트 + Notion 자동화 → raw/notes 추가 예정
+  - 한국 AI 규제 현황 → raw/research 추가 예정
+  - Gemma 4 로컬 활용 방법 탐구 예정

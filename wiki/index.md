@@ -28,6 +28,9 @@ updated: 2026-04-16
 | [[Andrej Karpathy]] | AI 연구자. LLM Wiki 패턴 제안자. 전 OpenAI·Tesla AI 디렉터 | 2026-04-16 |
 | [[Claude Mythos]] | Anthropic의 사이버보안 특화 AI 모델. 27년된 OpenBSD 버그 발견으로 전 세계적 주목 | 2026-04-16 |
 | [[시민개발자 구씨]] | AI 자동화, 노코드 실무 강의 유튜버. LLM Wiki 구축 실전 가이드 제공 | 2026-04-16 |
+| [[Perplexity]] | AI 검색 → 에이전트 플랫폼으로 피벗한 AI 스타트업 | 2026-04-16 |
+| [[Meta Superintelligence Labs]] | Meta의 초지능 연구 전담 조직. 2026년 첫 모델 공개, AGI 경쟁 공식 참전 | 2026-04-16 |
+| [[Google DeepMind]] | Google AI 연구 총괄. Gemini, Gemma 4, SIMA 2, AlphaFold 등 개발 | 2026-04-16 |
 
 ## 요약 (Summaries)
 
@@ -37,6 +40,16 @@ updated: 2026-04-16
 | [[요약_2026-04-16_미소스(Claude Mythos)가 무서운 이유]] | raw/articles · AI타임스 | 2026-04-16 |
 | [[요약_2026-04-16_시민개발자 구씨의 클로드코드 LLM Wiki 정리]] | raw/videos · 시민개발자 구씨 유튜브 | 2026-04-16 |
 | [[요약_2026-04-16_시민개발자 구씨 LLM Wiki GitHub Repo]] | raw/courses · GitHub (citizendev9c) | 2026-04-16 |
+| [[요약_2026-04-16_OpenAI GPT-5.4-Cyber Mythos 전략 비교]] | raw/articles · The Rundown AI | 2026-04-16 |
+| [[요약_2026-04-16_AI 소매 매장 운영 실험]] | raw/articles · The Rundown AI | 2026-04-16 |
+| [[요약_2026-04-16_Perplexity 에이전트 플랫폼 피벗]] | raw/articles · The Rundown AI | 2026-04-16 |
+| [[요약_2026-04-16_Meta Superintelligence Labs 첫 모델]] | raw/articles · The Rundown AI | 2026-04-16 |
+| [[요약_2026-04-16_Project Glasswing 보안 대연합]] | raw/articles · Anthropic | 2026-04-16 |
+| [[요약_2026-04-16_Anthropic LTBT 이사회 노바티스 CEO 선임]] | raw/articles · Anthropic | 2026-04-16 |
+| [[요약_2026-04-16_Google Gemma 4 오픈소스 모델]] | raw/articles · Google DeepMind | 2026-04-16 |
+| [[요약_2026-04-16_Google DeepMind SIMA 2 에이전트]] | raw/articles · Google DeepMind | 2026-04-16 |
+| [[요약_2026-04-16_OpenAI 영국 확장 전략]] | raw/articles · AI Magazine | 2026-04-16 |
+| [[요약_2026-04-16_Amazon CEO 앤디재시 AI 6가지 핵심 원칙]] | raw/articles · AI Magazine | 2026-04-16 |
 
 ## 비교 (Comparisons)
 
@@ -52,4 +65,4 @@ updated: 2026-04-16
 
 ---
 
-> **통계**: 총 11개 페이지 | 마지막 업데이트: 2026-04-16
+> **통계**: 총 27개 페이지 | 마지막 업데이트: 2026-04-16
