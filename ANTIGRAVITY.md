@@ -10,6 +10,7 @@
 
 | 스킬 | 파일 | 트리거 | 설명 |
 |------|------|--------|------|
+| `/fetch` | `skills/fetch.md` | `/fetch`, "최신 정보 가져와", "검색해줘" | 외부 웹 스크래핑을 통해 최신 기사 10개를 검색하고 raw/articles에 자동 적재 |
 | `/ingest` | `skills/ingest.md` | `/ingest`, "인제스트해줘", "새로 클리핑한 거 정리해줘" | raw/에 새로 들어온 파일을 wiki로 소화 |
 | `/query` | `skills/query.md` | `/query 질문`, "wiki에서 찾아줘", "내 위키 기반으로 답해줘" | wiki/ 문서를 직접 읽고 질문에 답변 |
 | `/lint` | `skills/lint.md` | `/lint`, "위키 점검해줘", "위키 정리해줘" | wiki 전체 건강 점검 — 깨진 링크·고아 페이지·모순·최신화 |
