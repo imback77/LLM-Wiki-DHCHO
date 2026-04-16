@@ -1,0 +1,56 @@
+{
+	"schemaVersion": "0.1.0",
+	"name": "🎓 강의 클리퍼 (raw/courses)",
+	"behavior": "create",
+	"noteContentFormat": "## 강의 개요\n{{description}}\n\n---\n\n## 주요 학습 내용\n(강의의 핵심 내용을 섹션별로 정리하세요)\n\n### 1. \n\n### 2. \n\n### 3. \n\n---\n\n## 핵심 개념 정리\n(새로 배운 용어나 개념을 적어주세요)\n\n## 질문·복습 포인트\n(이해가 부족하거나 더 공부해야 할 부분)\n\n## 관련 키워드\n(wiki 연결에 활용할 키워드)",
+	"properties": [
+		{
+			"name": "type",
+			"value": "course-note",
+			"type": "text"
+		},
+		{
+			"name": "title",
+			"value": "{{title}}",
+			"type": "text"
+		},
+		{
+			"name": "source",
+			"value": "{{url}}",
+			"type": "text"
+		},
+		{
+			"name": "instructor",
+			"value": "{{author}}",
+			"type": "text"
+		},
+		{
+			"name": "course_name",
+			"value": "",
+			"type": "text"
+		},
+		{
+			"name": "created",
+			"value": "{{date}}",
+			"type": "date"
+		},
+		{
+			"name": "description",
+			"value": "{{description}}",
+			"type": "text"
+		},
+		{
+			"name": "tags",
+			"value": "raw/courses",
+			"type": "multitext"
+		},
+		{
+			"name": "wiki_status",
+			"value": "미처리",
+			"type": "text"
+		}
+	],
+	"triggers": [],
+	"noteNameFormat": "{{date:YYYY-MM-DD}}_{{title}}",
+	"path": "raw/courses"
+}

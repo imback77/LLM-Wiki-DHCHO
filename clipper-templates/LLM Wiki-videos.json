@@ -1,0 +1,59 @@
+{
+	"schemaVersion": "0.1.0",
+	"name": "🎬 유튜브 클리퍼 (raw/videos)",
+	"behavior": "create",
+	"noteContentFormat": "## 핵심 요약\n(영상을 보고 2~5줄로 핵심 내용을 요약해주세요)\n\n---\n\n## 주요 내용 (타임스탬프)\n- [00:00] \n- [00:00] \n- [00:00] \n\n---\n\n## 나의 생각·코멘트\n(이 영상에서 얻은 나만의 인사이트를 적어주세요)\n\n## 관련 키워드\n(wiki 연결에 활용할 키워드)",
+	"properties": [
+		{
+			"name": "type",
+			"value": "video-note",
+			"type": "text"
+		},
+		{
+			"name": "title",
+			"value": "{{title}}",
+			"type": "text"
+		},
+		{
+			"name": "url",
+			"value": "{{url}}",
+			"type": "text"
+		},
+		{
+			"name": "channel",
+			"value": "{{author}}",
+			"type": "text"
+		},
+		{
+			"name": "published",
+			"value": "{{published}}",
+			"type": "date"
+		},
+		{
+			"name": "created",
+			"value": "{{date}}",
+			"type": "date"
+		},
+		{
+			"name": "description",
+			"value": "{{description}}",
+			"type": "text"
+		},
+		{
+			"name": "tags",
+			"value": "raw/videos",
+			"type": "multitext"
+		},
+		{
+			"name": "wiki_status",
+			"value": "미처리",
+			"type": "text"
+		}
+	],
+	"triggers": [
+		"youtube.com",
+		"youtu.be"
+	],
+	"noteNameFormat": "{{date:YYYY-MM-DD}}_{{title}}_{{author}}",
+	"path": "raw/videos"
+}

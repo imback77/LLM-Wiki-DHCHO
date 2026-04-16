@@ -1,0 +1,55 @@
+{
+	"schemaVersion": "0.1.0",
+	"name": "💬 AI 대화 클리퍼 (raw/conversations)",
+	"behavior": "create",
+	"noteContentFormat": "## 대화 주제\n(이 대화에서 다룬 핵심 주제를 한 줄로 적어주세요)\n\n---\n\n## 핵심 답변·인사이트\n(AI가 알려준 가장 중요한 내용을 정리하세요)\n\n---\n\n## 대화 내용\n{{content}}\n\n---\n\n## 나의 코멘트\n(이 대화에서 내가 새로 깨달은 것)\n\n## 관련 키워드\n(wiki 연결에 활용할 키워드)\n\n## 후속 질문\n(이 대화 이후 더 알고 싶은 것)",
+	"properties": [
+		{
+			"name": "type",
+			"value": "conversation",
+			"type": "text"
+		},
+		{
+			"name": "title",
+			"value": "{{title}}",
+			"type": "text"
+		},
+		{
+			"name": "source",
+			"value": "{{url}}",
+			"type": "text"
+		},
+		{
+			"name": "ai_tool",
+			"value": "Claude|ChatGPT|Gemini",
+			"type": "text"
+		},
+		{
+			"name": "created",
+			"value": "{{date}}",
+			"type": "date"
+		},
+		{
+			"name": "topic",
+			"value": "",
+			"type": "text"
+		},
+		{
+			"name": "tags",
+			"value": "raw/conversations",
+			"type": "multitext"
+		},
+		{
+			"name": "wiki_status",
+			"value": "미처리",
+			"type": "text"
+		}
+	],
+	"triggers": [
+		"claude.ai",
+		"chatgpt.com",
+		"gemini.google.com"
+	],
+	"noteNameFormat": "{{date:YYYY-MM-DD}}_{{title}}",
+	"path": "raw/conversations"
+}

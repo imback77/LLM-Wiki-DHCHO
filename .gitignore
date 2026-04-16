@@ -1,0 +1,25 @@
+# OS / IDE
+.DS_Store
+Thumbs.db
+.obsidian/workspace
+.obsidian/workspace.json
+.vscode/
+
+# Python & AI Agents
+__pycache__/
+*.pyc
+
+# Graphify Temp Files
+# We want to keep graph.html, GRAPH_REPORT.md, and graph.json (the persistent graph)
+# But exclude the intermediate parsing caches
+graphify-out/.graphify_*
+graphify-out/obsidian/
+graphify-out/cost.json
+
+# Logs (if you don't want to track Antigravity execution logs, though mostly stored centrally)
+.log/
+
+# Private or sensitive data (Placeholder for future)
+*.env
+.env
+secret/
