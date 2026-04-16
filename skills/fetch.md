@@ -8,9 +8,17 @@
 ## 1. 검색 및 타겟 설정
 
 1. **타겟 기사 수**: 요청 당일 작성된 기사 중 **최신 10개**를 타겟으로 합니다.
-2. **검색 소스 안내**: 현 단계에서는 일반 구글 검색 최상단 기사를 우선 가져옵니다. 
-   > *💡 사용자가 검색 사이트 5개를 특정하는 경우 해당 도메인 위주로 쿼리를 보냅니다.*
-3. 안티그래비티는 `search_web` 툴을 사용해 적절한 URL 10개를 획득합니다. (한 번에 못 찾을 시 2~3회 추가 검색 가능)
+2. **우선 검색 소스 (지정 5개 사이트)**: 아래 도메인을 1순위로 검색한다. 10개를 채우지 못할 경우 일반 AI 뉴스 검색으로 보완합니다.
+
+   | # | 사이트 | URL | 특징 |
+   |---|--------|-----|------|
+   | 1 | The Rundown AI | `https://www.therundown.ai/` | AI 업계 데일리 뉴스 요약 |
+   | 2 | AI Magazine | `https://aimagazine.com/` | 기업 AI 도입 사례·인사이트 |
+   | 3 | OpenAI 공식 블로그 | `https://openai.com/blog/` | OpenAI 제품·연구 1차 발표 |
+   | 4 | Google DeepMind 블로그 | `https://deepmind.google/discover/blog/` | Gemini·DeepMind 연구 발표 |
+   | 5 | Anthropic 공식 블로그 | `https://www.anthropic.com/news` | Claude·AI 안전성 공식 발표 |
+
+3. `search_web` 툴 사용 시 각 사이트에 대해 `site:도메인 AI 최신 뉴스` 형태로 쿼리를 날려 해당일 발행 기사를 우선 확보합니다. (한 번에 못 찾을 시 2~3회 추가 검색 가능)
 
 ---
 
