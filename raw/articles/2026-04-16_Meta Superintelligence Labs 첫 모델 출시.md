@@ -24,7 +24,7 @@ Meta는 사내 초지능 연구 부문인 'Superintelligence Labs'를 통해 첫
 ---
 
 ## 나의 생각·코멘트
-(이 글에서 얻은 나만의 인사이트를 적어주세요)
+Meta의 AGI 경쟁 참전은 AI 산업을 더욱 발전시킬 것이다. 어떻게 변화해갈지 지켜볼 노릇이다.
 
 ## 관련 키워드
 Meta, 초지능, SuperintelligenceLabs, AGI, LLM, AI경쟁, 광고자동화

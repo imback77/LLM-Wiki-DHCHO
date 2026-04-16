@@ -69,3 +69,12 @@ created: 2026-04-16
   - Perplexity 에이전트 + Notion 자동화 → raw/notes 추가 예정
   - 한국 AI 규제 현황 → raw/research 추가 예정
   - Gemma 4 로컬 활용 방법 탐구 예정
+
+## [2026-04-16] ingest | Claude 실전 가이드 & 프로젝트 관리 & 스킬 구축
+- **소스**: `raw/videos/_클로드 초보...`, `raw/research/_프로젝트...`, `raw/courses/_The-Complete-Guide...`
+- **타입**: video / research / course
+- **생성된 페이지** (5개):
+  - 요약 3개 (실전 가이드, 프로젝트 관리, 스킬 구축)
+  - 신규 개념 2개: `Claude Projects.md`, `AI 스킬 자산화.md`
+- **핵심**: Claude 3.5 Sonnet 활용 기법, 프로젝트 지식 기반 관리법, 그리고 워크플로우를 '스킬'로 자산화하는 에이전트 설계 전략.
+- **후니님 맥락**: "AI 업황 및 도구 정보 자동 연결" 규칙에 따라 사후 질문 없이 자동 반영함.
