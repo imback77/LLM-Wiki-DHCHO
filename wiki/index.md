@@ -23,6 +23,9 @@ updated: 2026-04-16
 | [[Claude Projects]] | Anthropic의 컨텍스트 및 지식 관리 기능. 자동 RAG 및 협업 지원 | 2026-04-16 |
 | [[AI 스킬 자산화]] | AI 워크플로우를 파일로 구축하여 영구적인 능력으로 보관하는 방법 | 2026-04-16 |
 | [[RAG (Retrieval-Augmented Generation)]] | 외부 데이터 검색을 통한 AI 답변 정확도 향상 기술 | 2026-04-16 |
+| [[피지컬 AI]] | 로보틱스, 자율주행 등 물리적 현실 세계에서 동작하는 AI 지식 노드 | 2026-04-17 |
+| [[AI 바이오 혁신과 투자 기회]] | AI로 인한 신약 파이프라인 가속화와 투자 시장의 거시적 변화 탐색 | 2026-04-17 |
+| [[AI 윤리와 의식]] | AGI 도래에 대비한 AI 체계의 윤리적 문제와 기계 의식 고찰 | 2026-04-17 |
 
 ## 엔티티 (Entities)
 
@@ -34,6 +37,8 @@ updated: 2026-04-16
 | [[Perplexity]] | AI 검색 → 에이전트 플랫폼으로 피벗한 AI 스타트업 | 2026-04-16 |
 | [[Meta Superintelligence Labs]] | Meta의 초지능 연구 전담 조직. 2026년 첫 모델 공개, AGI 경쟁 공식 참전 | 2026-04-16 |
 | [[Google DeepMind]] | Google AI 연구 총괄. Gemini, Gemma 4, SIMA 2, AlphaFold 등 개발 | 2026-04-16 |
+| [[Claude Opus 4.7]] | 최고의 코딩 및 문서 추론 능력을 갖춘 Anthropic의 범용 플래그십 AI 기능 | 2026-04-17 |
+| [[GPT-Rosalind]] | 분자 생물학, 신약 파이프라인 구축에 특화된 OpenAI의 생명과학 전용 파운데이션 모델 | 2026-04-17 |
 
 ## 요약 (Summaries)
 
@@ -57,6 +62,10 @@ updated: 2026-04-16
 | [[요약_2026-04-16_Claude 프로젝트 생성 및 관리 가이드]] | raw/research · Anthropic 공식문서 | 2026-04-16 |
 | [[요약_2026-04-16_Claude 스킬 구축 가이드]] | raw/courses · Gist (YangSiJun528) | 2026-04-16 |
 | [[요약_2026-04-16_그린코끼리 AI 클로드 초보자 가이드]] | raw/videos · 그린코끼리 AI 유튜브 | 2026-04-16 |
+| [[요약_2026-04-17_Anthropic_Claude_Opus_4.7_Mythos]] | raw/articles · Anthropic 공식 뉴스 | 2026-04-17 |
+| [[요약_2026-04-17_OpenAI_GPT-Rosalind_Cyber]] | raw/articles · OpenAI 공식 뉴스 | 2026-04-17 |
+| [[요약_2026-04-17_Google_DeepMind_Robotics_Philosopher]] | raw/articles · Google DeepMind 공식 뉴스 | 2026-04-17 |
+| [[요약_2026-04-17_The_Rundown_AI_Briefs]] | raw/articles · The Rundown AI | 2026-04-17 |
 
 ## 비교 (Comparisons)
 
@@ -72,4 +81,4 @@ updated: 2026-04-16
 
 ---
 
-> **통계**: 총 33개 페이지 | 마지막 업데이트: 2026-04-16
+> **통계**: 총 42개 페이지 | 마지막 업데이트: 2026-04-17
