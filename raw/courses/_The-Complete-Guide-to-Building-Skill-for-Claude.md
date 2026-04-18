@@ -1,4 +1,4 @@
----
+﻿---
 type: "course-note"
 title: "The-Complete-Guide-to-Building-Skill-for-Claude.md"
 source: "https://gist.github.com/YangSiJun528/fa5d9cd0eb41d6f545c78121d620080c"
@@ -8,7 +8,7 @@ created: 2026-04-16
 description: "The-Complete-Guide-to-Building-Skill-for-Claude.md - The-Complete-Guide-to-Building-Skill-for-Claude.md"
 tags:
   - "raw/courses"
-wiki_status: "미처리"
+wiki_status: "완료"
 ---
 ## 강의 개요
 The-Complete-Guide-to-Building-Skill-for-Claude.md - The-Complete-Guide-to-Building-Skill-for-Claude.md

@@ -1,4 +1,4 @@
----
+﻿---
 type: "article"
 title: "SIMA 2: An agent that plays, reasons, and learns with you in virtual 3D worlds"
 source: "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/"
@@ -7,7 +7,7 @@ published: 2026-04-16
 created: 2026-04-16
 description: "Google DeepMind의 SIMA 2는 3D 가상 세계에서 인간과 함께 플레이하고, 추론하고, 학습하는 범용 AI 에이전트. 게임·시뮬레이션 환경에서의 AI 에이전트 역량이 대폭 향상됨."
 tags: ["raw/articles"]
-wiki_status: "미처리"
+wiki_status: "완료"
 ---
 ## 핵심 요약
 Google DeepMind의 SIMA 2(Scalable Instructable Multiworld Agent 2)는 3D 가상 환경에서 자연어 지시를 이해하고 인간과 협력하여 목표를 달성하는 범용 AI 에이전트. 게임, 시뮬레이션, 가상 세계 훈련을 통해 현실 세계 적용 가능성을 높이는 연구 방향.

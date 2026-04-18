@@ -1,4 +1,4 @@
----
+﻿---
 type: "article"
 title: "Perplexity's agent pivot is on the money"
 source: "https://www.therundown.ai/p/perplexity-agent-pivot-is-on-the-money"
@@ -7,7 +7,7 @@ published: 2026-04-16
 created: 2026-04-16
 description: "Perplexity AI가 검색 엔진에서 에이전트 플랫폼으로 전략적 피벗을 단행했으며, 이것이 수익 모델 측면에서 올바른 선택임을 분석. Notion 에이전트 자동화 활용법도 병행 소개."
 tags: ["raw/articles"]
-wiki_status: "미처리"
+wiki_status: "완료"
 ---
 ## 핵심 요약
 Perplexity AI가 검색 중심에서 에이전트 중심으로 전략 전환. 단순 검색을 넘어 워크플로우 자동화와 멀티스텝 태스크 수행이 가능한 에이전트 플랫폼으로 진화 중. AI 검색 시장의 경쟁 구도가 에이전트 역량으로 재편되는 흐름.

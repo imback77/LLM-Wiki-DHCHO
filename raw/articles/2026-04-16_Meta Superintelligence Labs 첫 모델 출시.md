@@ -1,4 +1,4 @@
----
+﻿---
 type: "article"
 title: "Meta Superintelligence Labs ships its first model"
 source: "https://www.therundown.ai/p/meta-superintelligence-labs-ships-its-first-model"
@@ -7,7 +7,7 @@ published: 2026-04-16
 created: 2026-04-16
 description: "Meta가 '초지능 연구소(Superintelligence Labs)'에서 첫 번째 모델을 출시했다. Meta의 AGI 경쟁 참가를 공식화하는 중요한 이정표이며, 자동화 광고 생성 도구도 함께 소개."
 tags: ["raw/articles"]
-wiki_status: "미처리"
+wiki_status: "완료"
 ---
 ## 핵심 요약
 Meta의 Superintelligence Labs가 첫 번째 AI 모델을 출시하며 초지능(superintelligence) 경쟁에 본격 참전. OpenAI, Google, Anthropic에 이어 Meta가 AGI를 향한 여정을 구체화하고 있음. Meta의 AI 전략이 개방형 오픈소스에서 최전선 연구로 확장되는 분기점.

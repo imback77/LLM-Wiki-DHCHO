@@ -1,4 +1,4 @@
----
+﻿---
 type: "article"
 title: "OpenAI 생명과학 특화 모델 GPT-Rosalind 및 보안 모델 출시"
 source: "https://www.openai.com"
@@ -7,7 +7,7 @@ published: 2026-04-16
 created: 2026-04-17
 description: "생명과학 분야 혁신을 위한 GPT-Rosalind와 인프라 방어용 GPT-5.4-Cyber 출시, 그리고 소비자용 프로젝트 Sora의 우선순위 조정 소식."
 tags: ["raw/articles"]
-wiki_status: "미처리"
+wiki_status: "완료"
 ---
 ## 핵심 요약
 OpenAI가 생화학 및 약물 발견 등 생명과학 연구에 특화된 'GPT-Rosalind'와 사이버 보안 방어 전용 모델 'GPT-5.4-Cyber'를 공개했습니다. 이는 OpenAI가 범용 AI를 넘어 고부가가치 전문 산업 분야와 비즈니스 시장으로 핵심 전략을 전환하고 있음을 보여줍니다.

@@ -1,4 +1,4 @@
----
+﻿---
 type: "article"
 title: "Project Glasswing — Anthropic leads critical software security initiative"
 source: "https://www.anthropic.com/glasswing"
@@ -7,7 +7,7 @@ published: 2026-04-07
 created: 2026-04-16
 description: "Anthropic이 주도하는 Project Glasswing은 AWS, Apple, Microsoft, Google, NVIDIA 등 빅테크와 함께 세계 핵심 소프트웨어 보안을 강화하기 위한 대규모 연합 이니셔티브."
 tags: ["raw/articles"]
-wiki_status: "미처리"
+wiki_status: "완료"
 ---
 ## 핵심 요약
 Anthropic이 주도하는 'Project Glasswing'은 AWS, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, Linux Foundation, Microsoft, NVIDIA, Palo Alto Networks 등 12개 주요 기업이 참여하는 사이버보안 연합 이니셔티브. Claude Mythos 발표 이후 AI의 보안 취약점 발견 능력이 주목받는 가운데, 방어 측의 연대를 강화하는 움직임.

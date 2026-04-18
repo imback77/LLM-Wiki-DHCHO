@@ -1,4 +1,4 @@
----
+﻿---
 type: index
 created: 2026-04-16
 updated: 2026-04-16
@@ -29,7 +29,7 @@ updated: 2026-04-16
 | [[코드 기반 디자인]] | 그래픽 툴이 아닌 코드 시스템 토큰 기반으로 배포 가능한 UI를 설계하는 방식 | 2026-04-17 |
 | [[AI 투자 자동화]] | AI 플랫폼과 API를 연동하여 전문 퀀트 알고리즘과 카피 트레이딩을 봇으로 구현 | 2026-04-17 |
 | [[휠 전략 (Wheel Strategy)]] | 풋 매도와 콜 매도를 결합하여 지속적인 현금 흐름을 창출하는 옵션 사이클 | 2026-04-17 |
-
+| [[협업형 AI]] | 단순 질의응답을 넘어 인간과 주도적으로 다단계 의사결정을 협업하는 AI 파트너 | 2026-04-18 |
 ## 엔티티 (Entities)
 
 | 페이지 | 요약 | 생성일 |
@@ -72,7 +72,7 @@ updated: 2026-04-16
 | [[wiki/2026-04-17_The_Rundown_AI_Briefs]] | raw/articles · The Rundown AI | 2026-04-17 |
 | [[2026-04-17_Claude Code Design just became UNSTOPPABLE]] | raw/videos · Jack Roberts 유튜브 | 2026-04-17 |
 | [[2026-04-17_Claude Just Changed the Stock Market Forever]] | raw/videos · Samin Yasar 유튜브 | 2026-04-17 |
-
+| [[2026-04-18_협업형 AI로의 전환]] | raw/articles · The Rundown AI | 2026-04-18 |
 ## 비교 (Comparisons)
 
 | 페이지 | 요약 | 생성일 |
@@ -87,4 +87,5 @@ updated: 2026-04-16
 
 ---
 
-> **통계**: 총 49개 페이지 | 마지막 업데이트: 2026-04-17
+> **통계**: 총 51개 페이지 | 마지막 업데이트: 2026-04-18
+
