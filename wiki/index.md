@@ -56,6 +56,8 @@ tags: ["auto-fixed"]
 | [[Claude Opus 4.7]] | 최고의 코딩 및 문서 추론 능력을 갖춘 Anthropic의 범용 플래그십 AI 기능 | 2026-04-17 |
 | [[GPT-Rosalind]] | 분자 생물학, 신약 파이프라인 구축에 특화된 OpenAI의 생명과학 전용 파운데이션 모델 | 2026-04-17 |
 | [[Firecrawl]] | 실시간 웹 데이터 스크래핑을 위해 AI와 연동되는 강력한 클로링 도구(MCP) | 2026-04-17 |
+| [[Claude Design]] | Anthropic Labs의 시각 결과물(디자인, 프로토타입) 생성 및 Handoff 전문 도구 | 2026-04-18 |
+| [[Anthropic Labs]] | Anthropic의 차세대 제품 연구 및 실험적 기능 출시를 담당하는 산하 조직 | 2026-04-18 |
 
 ## 요약 (Summaries)
 
@@ -93,6 +95,7 @@ tags: ["auto-fixed"]
 | [[2026-04-18_AI Trading Team with Claude Code]] | raw/videos · Zubair Trabzada 유튜브 | 2026-04-18 |
 | [[2026-04-18_클로드 디자인 튜토리얼]] | raw/videos · 코드팩토리 유튜브 | 2026-04-18 |
 | [[2026-04-18_클로드 생산성 극대화 방법]] | raw/videos · 로사장 유튜브 | 2026-04-18 |
+| [[2026-04-18_Claude Design Anthropic Labs 출시 요약]] | raw/articles · Anthropic News | 2026-04-18 |
 
 ## 투자 (Investment)
 

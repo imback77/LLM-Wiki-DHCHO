@@ -161,9 +161,3 @@ tags: ["auto-fixed"]
 - **타입**: article
 - **생성된 페이지** (3개): `wiki/2026-04-18_Claude Design Anthropic Labs 출시 요약.md`, `wiki/Claude Design.md`, `wiki/Anthropic Labs.md`
 - **후니님 맥락**: 1인 기업 창업가로서 기획-디자인-개발의 허들을 없애주는 핵심 도구로 인식. LLM Wiki 스타일 가이드 학습과 Handoff 기능 테스트 예정.
-
-## [2026-04-18] ingest | Claude Design Anthropic Labs 출시
-- **소스**: `raw/articles/2026-04-18_Claude Design Anthropic Labs 출시.md`
-- **타입**: article
-- **생성된 페이지** (3개): `wiki/2026-04-18_Claude Design Anthropic Labs 출시 요약.md`, `wiki/Claude Design.md`, `wiki/Anthropic Labs.md`
-- **후니님 맥락**: 1인 기업 창업가로서 기획-디자인-개발의 허들을 없애주는 핵심 도구로 인식. LLM Wiki 스타일 가이드 학습과 Handoff 기능 테스트 예정.
