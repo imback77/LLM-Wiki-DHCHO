@@ -1,9 +1,16 @@
-﻿---
+---
 type: stub
 created: 2026-04-18
 updated: 2026-04-18
 tags: ["stub"]
 note: "연구 도중 연결된 개념입니다. 추후 내용을 채워주세요."
 ---
+---
+type: concept
+created: 2026-04-18
+updated: 2026-04-18
+tags: ["investment", "energy", "nuclear"]
+---
+
 # SMR
 > 📌 이 페이지는 아직 내용이 없습니다. 관련 자료를 수집하거나 직접 작성해 주세요.

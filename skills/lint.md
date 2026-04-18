@@ -19,22 +19,14 @@
 
 ## 실행 절차
 
-### STEP 1. 전체 파일 목록 수집
+### STEP 1. 로컬 도구 실행 (Token Diet)
 
-`wiki/` 폴더의 모든 `.md` 파일을 읽어 목록을 만듭니다.
-(`ANTIGRAVITY.md` 제외)
-
-현황을 먼저 보고합니다:
-```
-🔍 lint 시작 — wiki 현황
-  총 페이지: N개
-  개념(concept): N개 | 엔티티(entity): N개
-  요약(summary): N개 | 비교(comparison): N개 | 인사이트(insight): N개
-```
+`node tools/lint.js` 명령을 실행하여 위키 건강 상태 리포트를 생성합니다.
+Antigravity는 모든 파일을 직접 열어보지 않고, 이 스크립트의 출력 결과만 먼저 읽습니다.
 
 ---
 
-### STEP 2. 7가지 점검 항목 (순서대로 실행)
+### STEP 2. 리포트 분석 및 대응
 
 ---
 

@@ -47,7 +47,7 @@ LLM Wiki의 차별점:
 ## 관련 도구 (후니님 세팅)
 
 - [[Obsidian]] — IDE (위키를 브라우징하는 공간)
-- [[Antigravity]] — LLM (프로그래머 역할, Claude Code 대체)
+- [[ANTIGRAVITY]] — LLM (프로그래머 역할, Claude Code 대체)
 - [[Graphify]] — 그래프 시각화 (예정)
 
 ---
