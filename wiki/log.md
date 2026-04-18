@@ -95,3 +95,12 @@ created: 2026-04-16
   - 신규 엔티티/개념 5개: `Claude Opus 4.7.md`, `GPT-Rosalind.md`, `피지컬 AI.md`, `AI 바이오 혁신과 투자 기회.md`, `AI 윤리와 의식.md`
 - **핵심**: 유저의 각 4개 아티클별 코멘트·인사이트를 기반으로 물리적 AI 도래, 바이오 제약 혁신 투자, 기계 의식, 방어용 AI 모델 활용 등의 연결 지점을 위키에 구조화함.
 - **후니님 맥락**: "제약 신규개발 바이오 기회, 피지컬 AI 패러다임 전환, AI 윤리 및 의식 발달 등"의 주요 인사이트를 즉각적으로 위키 내 개별 지식 노드로 치환함.
+
+## [2026-04-17] ingest | Claude 기반 코딩 디자인 & AI 자동화 투자 봇 구축
+- **소스**: `raw/videos/_Claude Code Design...`, `raw/videos/_Claude Just Changed the Stock Market...`
+- **타입**: video-note
+- **생성된 페이지** (5개):
+  - 요약 2개: `요약_2026-04-17_Claude Code Design just became UNSTOPPABLE.md`, `요약_2026-04-17_Claude Just Changed the Stock Market Forever.md`
+  - 신규 개념/엔티티 3개: `코드 기반 디자인.md`, `Firecrawl.md`, `AI 투자 자동화.md`, `휠 전략 (Wheel Strategy).md`
+- **핵심**: 코드 기반 디자인 패러다임 전환 및 Firecrawl MCP 활용. 트레이딩 API(Alpaca)와 Claude 연동을 통한 기관급 투자 전략 개인화.
+- **후니님 맥락**: 최근 관심사인 디자인 시스템 파이프라인(AI 스킬 자산화 연계)과 AI를 활용한 시장 모니터링/수익 창출 모델(투자 자동화) 지식을 확보함.

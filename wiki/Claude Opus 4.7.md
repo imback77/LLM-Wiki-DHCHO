@@ -33,4 +33,4 @@ Claude Opus 4.7은 기존 모델과 차원이 다른 지능을 보장하므로, 
 ## 관련 문서
 
 - [[Anthropic]]
-- [[요약_2026-04-17_Anthropic_Claude_Opus_4.7_Mythos]]
+- [[wiki/2026-04-17_Anthropic_Claude_Opus_4.7_Mythos]]

@@ -8,7 +8,7 @@ created: 2026-04-17
 description: Claude Code와 오픈 소스 디자인 시스템을 결합하여 고품질 디자인을 자동화하는 전략
 tags:
   - raw/videos
-wiki_status: 미처리
+wiki_status: 완료
 ---
 ## 핵심 요약
 

@@ -34,5 +34,5 @@ tags: [조직, 연구소, Google]
 
 ## 관련 페이지
 
-- [[요약_2026-04-16_Google Gemma 4 오픈소스 모델]]
-- [[요약_2026-04-16_Google DeepMind SIMA 2 에이전트]]
+- [[2026-04-16_Google Gemma 4 오픈소스 모델]]
+- [[2026-04-16_Google DeepMind SIMA 2 에이전트]]

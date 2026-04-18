@@ -28,6 +28,6 @@ tags: [피지컬AI, 로보틱스, 자율주행, 휴머노이드]
 
 ## 관련 문서
 
-- [[요약_2026-04-17_The_Rundown_AI_Briefs]]
-- [[요약_2026-04-17_Google_DeepMind_Robotics_Philosopher]]
+- [[wiki/2026-04-17_The_Rundown_AI_Briefs]]
+- [[wiki/2026-04-17_Google_DeepMind_Robotics_Philosopher]]
 - [[Google DeepMind]]

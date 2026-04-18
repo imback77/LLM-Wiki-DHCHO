@@ -8,7 +8,7 @@ created: 2026-04-17
 description: "💰Turn every Claude tutorial into real AI co-workers that save you 10–20 hours every week 👉 https://www.skool.com/claudeMy Resource Hub: https://www.skool.com/aianswersIf you like this video pleas"
 tags:
   - "raw/videos"
-wiki_status: "미처리"
+wiki_status: "완료"
 ---
 # 🎬 유튜브 클리퍼 (raw/videos)
 

@@ -26,4 +26,4 @@ tags: [ai, functionality, productivity]
 - [[RAG (Retrieval-Augmented Generation)]]
 
 ---
-> 출처: [[요약_2026-04-16_Claude 프로젝트 생성 및 관리 가이드]]
+> 출처: [[2026-04-16_Claude 프로젝트 생성 및 관리 가이드]]

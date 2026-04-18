@@ -27,4 +27,4 @@ tags: [ai, prompt-engineering, automation]
 - [[LLM Wiki 패턴]]
 
 ---
-> 출처: [[요약_2026-04-16_Claude 스킬 구축 가이드]]
+> 출처: [[2026-04-16_Claude 스킬 구축 가이드]]

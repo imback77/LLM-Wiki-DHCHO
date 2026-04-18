@@ -30,4 +30,4 @@ source_url: "https://github.com/citizendev9c/yt-assets/blob/main/automation/clau
 ---
 
 ## 관련 링크
-- 관련 영상 요약: [[요약_2026-04-16_시민개발자 구씨의 클로드코드 LLM Wiki 정리]]
+- 관련 영상 요약: [[2026-04-16_시민개발자 구씨의 클로드코드 LLM Wiki 정리]]

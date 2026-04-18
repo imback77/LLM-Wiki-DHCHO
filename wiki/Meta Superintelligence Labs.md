@@ -22,4 +22,4 @@ tags: [조직, AGI, Meta]
 
 ## 관련 페이지
 
-- [[요약_2026-04-16_Meta Superintelligence Labs 첫 모델]]
+- [[2026-04-16_Meta Superintelligence Labs 첫 모델]]
