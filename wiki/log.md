@@ -155,3 +155,15 @@ tags: ["auto-fixed"]
 ## [2026-04-18] query (insight 저장) | 2026 AI 전력 공급 가능성 충격
 - **트리거**: "Keep going" 과정에서 AI가 분석 가치가 높다고 판단하여 자동 생성
 - **내용**: 칩 수량보다 전력망 연결 쿼타를 선점하는 것이 승부처가 된다는 전략적 분석 저장.
+
+## [2026-04-18] ingest | Claude Design Anthropic Labs 출시
+- **소스**: `raw/articles/2026-04-18_Claude Design Anthropic Labs 출시.md`
+- **타입**: article
+- **생성된 페이지** (3개): `wiki/2026-04-18_Claude Design Anthropic Labs 출시 요약.md`, `wiki/Claude Design.md`, `wiki/Anthropic Labs.md`
+- **후니님 맥락**: 1인 기업 창업가로서 기획-디자인-개발의 허들을 없애주는 핵심 도구로 인식. LLM Wiki 스타일 가이드 학습과 Handoff 기능 테스트 예정.
+
+## [2026-04-18] ingest | Claude Design Anthropic Labs 출시
+- **소스**: `raw/articles/2026-04-18_Claude Design Anthropic Labs 출시.md`
+- **타입**: article
+- **생성된 페이지** (3개): `wiki/2026-04-18_Claude Design Anthropic Labs 출시 요약.md`, `wiki/Claude Design.md`, `wiki/Anthropic Labs.md`
+- **후니님 맥락**: 1인 기업 창업가로서 기획-디자인-개발의 허들을 없애주는 핵심 도구로 인식. LLM Wiki 스타일 가이드 학습과 Handoff 기능 테스트 예정.
