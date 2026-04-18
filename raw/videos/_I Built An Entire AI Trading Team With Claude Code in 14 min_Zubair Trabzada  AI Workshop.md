@@ -1,4 +1,4 @@
----
+﻿---
 type: video-note
 title: I Built An Entire AI Trading Team With Claude Code in 14 min
 url: https://www.youtube.com/watch?v=HfEu7XPUnAU&t=97s
@@ -8,7 +8,7 @@ created: 2026-04-17
 description: Claude Code와 5개의 병렬 에이전트를 사용하여 전문적인 주식 투자 분석 리포트를 자동 생성하는 시스템 구축 가이드
 tags:
   - raw/videos
-wiki_status: 미처리
+wiki_status: "완료"
 ---
 ## 핵심 요약
 

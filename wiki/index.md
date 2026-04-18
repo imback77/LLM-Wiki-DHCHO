@@ -1,7 +1,8 @@
-﻿---
+---
 type: index
 created: 2026-04-16
 updated: 2026-04-16
+tags: ["auto-fixed"]
 ---
 
 # 📚 위키 인덱스 (Wiki Index)
@@ -30,6 +31,16 @@ updated: 2026-04-16
 | [[AI 투자 자동화]] | AI 플랫폼과 API를 연동하여 전문 퀀트 알고리즘과 카피 트레이딩을 봇으로 구현 | 2026-04-17 |
 | [[휠 전략 (Wheel Strategy)]] | 풋 매도와 콜 매도를 결합하여 지속적인 현금 흐름을 창출하는 옵션 사이클 | 2026-04-17 |
 | [[협업형 AI]] | 단순 질의응답을 넘어 인간과 주도적으로 다단계 의사결정을 협업하는 AI 파트너 | 2026-04-18 |
+| [[AI 인프라 레이스]] | 거대 자본 및 서버/전력 등을 선점하는 물리적 인프라 확보 경쟁 | 2026-04-18 |
+| [[AI 파일럿 트랩]] | AI를 제한적으로 실험만 반복하다 ROI가 악화되는 기업 정체 상태 | 2026-04-18 |
+| [[위험 임계점(Danger Threshold)]] | AI 능력이 인류에 통제하기 어려운 위험 수준에 다다른 기준선 | 2026-04-18 |
+| [[하이브리드 양자-AI]] | 양자 컴퓨팅 오류를 점검하고 상호 시너지를 내는 융합 기술 생태계 | 2026-04-18 |
+| [[AI 투자 팀]] | 다수의 특화 AI 에이전트 협업 투자 의사결정 시스템 | 2026-04-18 |
+| [[자동화 투자 분석]] | 뉴스 및 시장 데이터를 파싱하여 투자 논거를 자동 도출하는 파이프라인 | 2026-04-18 |
+| [[코드 기반 UI 생성]] | 언어모델로 실제 동작하는 프론트엔드 코드 기반 디자인 추출 | 2026-04-18 |
+| [[AI 디자인 자동화]] | 앱 기획에서 UI 레이아웃 구현까지 전 과정 단축 프로세스 | 2026-04-18 |
+| [[Claude 커스텀 인스트럭션]] | AI에게 고정된 사용자의 페르소나 및 일관된 응답 포맷을 주입하는 기능 | 2026-04-18 |
+
 ## 엔티티 (Entities)
 
 | 페이지 | 요약 | 생성일 |
@@ -66,18 +77,48 @@ updated: 2026-04-16
 | [[2026-04-16_Claude 프로젝트 생성 및 관리 가이드]] | raw/research · Anthropic 공식문서 | 2026-04-16 |
 | [[2026-04-16_Claude 스킬 구축 가이드]] | raw/courses · Gist (YangSiJun528) | 2026-04-16 |
 | [[2026-04-16_그린코끼리 AI 클로드 초보자 가이드]] | raw/videos · 그린코끼리 AI 유튜브 | 2026-04-16 |
-| [[wiki/2026-04-17_Anthropic_Claude_Opus_4.7_Mythos]] | raw/articles · Anthropic 공식 뉴스 | 2026-04-17 |
-| [[wiki/2026-04-17_OpenAI_GPT-Rosalind_Cyber]] | raw/articles · OpenAI 공식 뉴스 | 2026-04-17 |
-| [[wiki/2026-04-17_Google_DeepMind_Robotics_Philosopher]] | raw/articles · Google DeepMind 공식 뉴스 | 2026-04-17 |
-| [[wiki/2026-04-17_The_Rundown_AI_Briefs]] | raw/articles · The Rundown AI | 2026-04-17 |
+| [[2026-04-17_Anthropic_Claude_Opus_4.7_Mythos]] | raw/articles · Anthropic 공식 뉴스 | 2026-04-17 |
+| [[2026-04-17_OpenAI_GPT-Rosalind_Cyber]] | raw/articles · OpenAI 공식 뉴스 | 2026-04-17 |
+| [[2026-04-17_Google_DeepMind_Robotics_Philosopher]] | raw/articles · Google DeepMind 공식 뉴스 | 2026-04-17 |
+| [[2026-04-17_The_Rundown_AI_Briefs]] | raw/articles · The Rundown AI | 2026-04-17 |
 | [[2026-04-17_Claude Code Design just became UNSTOPPABLE]] | raw/videos · Jack Roberts 유튜브 | 2026-04-17 |
 | [[2026-04-17_Claude Just Changed the Stock Market Forever]] | raw/videos · Samin Yasar 유튜브 | 2026-04-17 |
 | [[2026-04-18_협업형 AI로의 전환]] | raw/articles · The Rundown AI | 2026-04-18 |
-## 비교 (Comparisons)
+| [[2026-04-18_AI 인프라와 물리적 한계]] | raw/articles · AI Magazine | 2026-04-18 |
+| [[2026-04-18_AI 도입에 따른 기업 양극화]] | raw/articles · WSJ News | 2026-04-18 |
+| [[2026-04-18_사이버 보안과 위험 임계점]] | raw/articles · Anthropic 공식 블로그 | 2026-04-18 |
+| [[2026-04-18_양자 컴퓨팅과 AI의 융합]] | raw/articles · Google DeepMind 블로그 | 2026-04-18 |
+| [[2026-04-18_AI Trading Team with Claude Code]] | raw/videos · Zubair Trabzada 유튜브 | 2026-04-18 |
+| [[2026-04-18_클로드 디자인 튜토리얼]] | raw/videos · 코드팩토리 유튜브 | 2026-04-18 |
+| [[2026-04-18_클로드 생산성 극대화 방법]] | raw/videos · 로사장 유튜브 | 2026-04-18 |
+
+## 투자 (Investment)
+
+### 종목 분석
+
+| 페이지 | 섹터 | 확인일 |
+|--------|------|--------|
+| _아직 없음_ | — | — |
+
+### 투자 전략
 
 | 페이지 | 요약 | 생성일 |
 |--------|------|--------|
 | _아직 없음_ | — | — |
+
+### 거시경제 (Macro)
+
+| 페이지 | 요약 | 생성일 |
+|--------|------|--------|
+| _아직 없음_ | — | — |
+
+### 투자 테시스 (Thesis)
+
+| 페이지 | 요약 | 생성일 |
+|--------|------|--------|
+| _아직 없음_ | — | — |
+
+## 비교 (Comparisons)
 
 ## 인사이트 (Insights)
 
@@ -87,5 +128,5 @@ updated: 2026-04-16
 
 ---
 
-> **통계**: 총 51개 페이지 | 마지막 업데이트: 2026-04-18
+> **통계**: 총 67개 페이지 | 마지막 업데이트: 2026-04-18
 

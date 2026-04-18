@@ -9,11 +9,12 @@
 > 후니님이 `/스킬명` 으로 호출하면, `skills/` 폴더의 해당 파일을 읽고 실행합니다.
 
 | 스킬 | 파일 | 트리거 | 설명 |
-|------|------|--------|------|
-| `/fetch` | `skills/fetch.md` | `/fetch`, "최신 정보 가져와", "검색해줘" | 외부 웹 스크래핑을 통해 최신 기사 10개를 검색하고 raw/articles에 자동 적재 |
-| `/ingest` | `skills/ingest.md` | `/ingest`, "인제스트해줘", "새로 클리핑한 거 정리해줘" | raw/에 새로 들어온 파일을 wiki로 소화 |
-| `/query` | `skills/query.md` | `/query 질문`, "wiki에서 찾아줘", "내 위키 기반으로 답해줘" | wiki/ 문서를 직접 읽고 질문에 답변 |
-| `/lint` | `skills/lint.md` | `/lint`, "위키 점검해줘", "위키 정리해줘" | wiki 전체 건강 점검 — 깨진 링크·고아 페이지·모순·최신화 |
+| `/fetch` | `skills/fetch.md` | `/fetch`, "최신 정보 가져와", "검색해줘" | 외부 웹 스크래핑을 통해 기사를 가져와 raw/에 저장 |
+| `/ingest` | `skills/ingest.md` | `/ingest`, "인제스트해줘", "기록 정리해줘" | raw/ 파일을 wiki 지식으로 변환/통합 |
+| `/query` | `skills/query.md` | `/query 질문`, "wiki 찾아줘" | wiki 문서를 직접 읽고 답변 및 지식 융합 |
+| `/lint` | `skills/lint.md` | `/lint`, "위키 점검해줘", "건강 체크" | wiki 전체 건강 점검 — 무결성, 모순, 스텁 관리 |
+| `/research` | `skills/research.md` | `/research`, "종목 분석해줘" | 투자/종목 리서치를 수행하고 raw와 wiki에 즉시 반영 |
+| `/export` | `skills/export.md` | `/export`, "블로그 글 써줘" | wiki 지식을 활용해 blog, report 등 결과물 파일 생성 |
 
 
 

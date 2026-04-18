@@ -80,7 +80,7 @@ raw/conversations/
 후니님의 답변을 받은 후 아래를 실행합니다:
 
 #### 4-1. 소스 요약 페이지 생성
-- 경로: `wiki/요약_YYYY-MM-DD_소스제목.md`
+- 경로: `wiki/YYYY-MM-DD_소스제목.md`
 - frontmatter: type, created, updated, sources, tags
 - 포함 내용: 핵심 주장, 엔티티, 개념, **후니님의 맥락 메모**, 후속 액션 체크리스트
 
