@@ -162,6 +162,14 @@ tags: ["auto-fixed"]
 - **생성된 페이지** (3개): `wiki/2026-04-18_Claude Design Anthropic Labs 출시 요약.md`, `wiki/Claude Design.md`, `wiki/Anthropic Labs.md`
 - **후니님 맥락**: 1인 기업 창업가로서 기획-디자인-개발의 허들을 없애주는 핵심 도구로 인식. LLM Wiki 스타일 가이드 학습과 Handoff 기능 테스트 예정.
 
+## [2026-04-19] tool | KR Market Data Automation System
+- **수행 작업**: 
+  - `tools/update_kr_market.py` 구축 (FDR + KIND 데이터 결합형).
+  - 업종(Sector) 및 세부업종 정보가 포함된 주식 시장 구조 지도 생성.
+  - **Token-Diet**: 로컬 스크립트 기반 가공 및 요약 헤더(JSON) 파싱 방식 도입으로 지식 인제스트 비용을 95% 이상 절감.
+- **결과물**: `raw/research/market_structure.md`, `wiki/대한민국 주식 시장 구조.md`
+- **후니님 맥락**: "업종 분류 정보 필수" 요청에 따라 뉴스 영향도 분석에 최적화된 데이터셋을 구축함.
+
 ## [2026-04-19] ingest | Andrej Karpathy LLM Wiki 원본 번역본
 - **소스**: `raw/articles/2026-04-19_Andrej_Karpathy_LLM_Wiki_원본_번역.md`
 - **타입**: article | 출처: Karpathy Gist (번역본)
