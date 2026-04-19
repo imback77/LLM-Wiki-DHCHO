@@ -16,7 +16,8 @@
   - `articles/` — 웹 클리핑, 언론 뉴스, AI 업계 동향
   - `videos/` — 유튜브, 영상 강의 학습 기록 (노트)
   - `courses/` — 대학교 학업, 온/오프라인 강의 자료
-  - `research/` — 경제/투자 분석 리포트, 리서치 자료
+  - `research/` — 경제/투자 분석 리포트, 리서치 자료 (`market_structure.md` 포함)
+  - `research/trends/` — [New] 일일 시장 자금 동향(Dynamic Trend) 스냅샷 보관소
   - `notes/` — 개인적인 스크래치 메모, 아이디어
   - `conversations/` — AI와의 심도있는 단발성 대화 기록
   - `assets/` — 이미지, PDF 등 각종 정적 미디어 변환물
@@ -42,7 +43,10 @@
 
 - **`clipper-templates/`**: 웹 및 자료 수집 시 정해진 메타데이터 양식(Frontmatter 구조)에 맞춰 빠르게 입력할 수 있도록 구성된 JSON 기반 템플릿 모음.
 - **`skills/`**: AI 워크플로우를 자동화한 자산(AI 기반 스크립트). `/ingest`, `/lint`, `/query`, `/fetch`, `/research`, `/export` 등 AI를 조종하는 커스텀 명령어가 포함됩니다.
-- **`tools/`**: 리포지토리 관리를 위한 헬퍼 스크립트 (`lint.js`, `archive-log.js` 등) 모음. 지식의 정합성 검사 및 로그 관리를 자동화합니다.
+- **`tools/`**: 리포지토리 관리를 위한 헬퍼 스크립트 모음.
+  - `lint.js`, `archive-log.js`: 지식 정합성 및 로그 관리.
+  - `update_kr_market.py`: [New] KOSPI 200 / KOSDAQ 150 기반 시장 구조 자동 업데이트 도구.
+  - `update_dynamic_trend.py`: [New] 실시간 자금 흐름(Flow) 및 거래대금 기반 트렌드 추출 도구.
 - **`graphify-out/`**: 현재 마크다운 지식 노드들의 매핑 상태를 HTML 및 데이터시트 형태로 렌더링하기 위한 산출물 경로.
 - **`script.ps1`**: **토큰 다이어트(Token Diet)** 및 시스템 헬스 체크를 실행하는 메인 파워쉘 스크립트. 시스템의 운영 효율을 극대화합니다.
 
