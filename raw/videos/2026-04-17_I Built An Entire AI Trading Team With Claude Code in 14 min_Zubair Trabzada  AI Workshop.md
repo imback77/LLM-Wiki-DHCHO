@@ -1,4 +1,4 @@
-﻿---
+---
 type: video-note
 title: I Built An Entire AI Trading Team With Claude Code in 14 min
 url: https://www.youtube.com/watch?v=HfEu7XPUnAU&t=97s

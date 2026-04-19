@@ -1,4 +1,4 @@
-﻿---
+---
 type: "course-note"
 title: "The-Complete-Guide-to-Building-Skill-for-Claude.md"
 source: "https://gist.github.com/YangSiJun528/fa5d9cd0eb41d6f545c78121d620080c"

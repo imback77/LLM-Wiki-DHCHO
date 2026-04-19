@@ -1,4 +1,4 @@
-﻿---
+---
 type: "video-note"
 title: "카파시의 LLM Wiki로 나만의 AI 세컨드 브레인 만들기, 이것만 보세요— 클로드 코드 × 옵시디언 × Graphify"
 url: "https://www.youtube.com/watch?v=cNlvrU-KcRg&t=1968s"
