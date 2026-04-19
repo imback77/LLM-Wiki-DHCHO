@@ -25,6 +25,7 @@ tags: [인물, AI연구자, OpenAI, Tesla]
 
 - 후니님이 구축 중인 [[LLM Wiki 패턴]]의 원 아이디어를 제안한 인물
 - Karpathy의 Gist 문서: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+- **한글 번역본**: [[2026-04-19_Andrej_Karpathy_LLM_Wiki_원본_번역]]
 
 ---
 

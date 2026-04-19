@@ -158,6 +158,15 @@ tags: ["auto-fixed"]
 
 ## [2026-04-18] ingest | Claude Design Anthropic Labs 출시
 - **소스**: `raw/articles/2026-04-18_Claude Design Anthropic Labs 출시.md`
-- **타입**: article
+- **타입**: article | 출처: Anthropic News
 - **생성된 페이지** (3개): `wiki/2026-04-18_Claude Design Anthropic Labs 출시 요약.md`, `wiki/Claude Design.md`, `wiki/Anthropic Labs.md`
 - **후니님 맥락**: 1인 기업 창업가로서 기획-디자인-개발의 허들을 없애주는 핵심 도구로 인식. LLM Wiki 스타일 가이드 학습과 Handoff 기능 테스트 예정.
+
+## [2026-04-19] ingest | Andrej Karpathy LLM Wiki 원본 번역본
+- **소스**: `raw/articles/2026-04-19_Andrej_Karpathy_LLM_Wiki_원본_번역.md`
+- **타입**: article | 출처: Karpathy Gist (번역본)
+- **수행 작업**: 
+  - 루트의 `llm-wiki.md`를 `raw/` 폴더로 이동하여 원본성 확보.
+  - `wiki/LLM Wiki 패턴.md` 및 `wiki/Andrej Karpathy.md`에 링크 연결.
+- **핵심**: 카파시가 제안한 LLM Wiki의 철학과 RAG와의 차이점, Obsidian을 IDE로 활용하는 기법 등을 한국어로 완벽히 정리함.
+- **후니님 맥락**: "원본을 보관하면서 Wiki에 녹아들게 하라"는 요청에 따라 시스템의 핵심 레퍼런스(Primary Source)로 격상함.

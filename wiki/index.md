@@ -138,6 +138,7 @@ tags: ["auto-fixed"]
 | [[2026-04-18_클로드 디자인 튜토리얼]] | raw/videos · 코드팩토리 유튜브 | 2026-04-18 |
 | [[2026-04-18_클로드 생산성 극대화 방법]] | raw/videos · 로사장 유튜브 | 2026-04-18 |
 | [[2026-04-18_Claude Design Anthropic Labs 출시 요약]] | raw/articles · Anthropic News | 2026-04-18 |
+| [[2026-04-19_Andrej_Karpathy_LLM_Wiki_원본_번역]] | raw/articles · Karpathy Gist (번역) | 2026-04-19 |
 
 ## 투자 (Investment)
 
@@ -176,5 +177,5 @@ tags: ["auto-fixed"]
 
 ---
 
-> **통계**: 총 108개 페이지 | 마지막 업데이트: 2026-04-18
+> **통계**: 총 109개 페이지 | 마지막 업데이트: 2026-04-19
 

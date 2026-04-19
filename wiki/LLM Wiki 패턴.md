@@ -2,7 +2,7 @@
 type: concept
 created: 2026-04-16
 updated: 2026-04-16
-sources: ["raw/videos/_카파시의 LLM Wiki...브레인 트리니티.md"]
+sources: ["raw/videos/_카파시의 LLM Wiki...브레인 트리니티.md", "raw/articles/2026-04-19_Andrej_Karpathy_LLM_Wiki_원본_번역.md"]
 tags: [LLM-Wiki, Karpathy, 지식관리, 세컨드브레인]
 ---
 
@@ -57,4 +57,5 @@ LLM Wiki의 차별점:
 - [[AI 세컨드 브레인]]
 - [[개인지식관리 (PKM)]]
 - [[Andrej Karpathy]]
+- [[2026-04-19_Andrej_Karpathy_LLM_Wiki_원본_번역]]
 - [[2026-04-16_카파시의 LLM Wiki로 나만의 AI 세컨드 브레인 만들기]]
