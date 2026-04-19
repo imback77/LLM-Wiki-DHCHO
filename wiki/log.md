@@ -185,3 +185,11 @@ tags: ["auto-fixed"]
   - 날짜별 자금 흐름 스냅샷 자동 생성 기능 구현 (`raw/research/trends/`).
 - **결과물**: `raw/research/trends/2026-04-19_dynamic_trend.md`, `wiki/시장 주도 테마 히스토리.md`
 - **후니님 맥락**: "자금의 흐름을 지식에 쌓고 싶다"는 요청에 따라 시계열 히스토리 관리 체계 도입. 자산화의 기틀을 마련함.
+
+## [2026-04-19] ingest | 미처리 지식 대규모 인제스트 (Batch Ingest)
+- **수집 클러스터**:
+  1. **사이버 보안 & 미소스**: `Claude Mythos`, `Bugmageddon`, `Project Glasswing`, `제로데이 시계` 등 4월 중순의 보안 대란 관련 지식 체계화.
+  2. **AI 모델 및 연구소**: `Gemma 4`, `SIMA 2`, `Meta Superintelligence Labs` 등 최신 기술 동향 반영.
+  3. **AI 경제 및 전략**: `AI 양극화`, `협업형 AI`, `아마존 AI 전략` 등 매크로 관점의 변화 기록.
+- **결과물**: 신규 위키 페이지 14개 생성 및 기존 지식망 연결 완료.
+- **핵심**: 파편화되어 있던 `raw/`의 뉴스들을 '지식(Entity/Concept)' 단위로 승화시켜 위키의 완결성을 높임.

@@ -1,25 +1,24 @@
 ---
 type: entity
 created: 2026-04-16
-updated: 2026-04-16
-sources: ["raw/articles/2026-04-16_Meta Superintelligence Labs 첫 모델 출시.md"]
-tags: [조직, AGI, Meta]
+updated: 2026-04-19
+status: active
+tags: ["메타", "AGI", "연구소", "Superintelligence"]
 ---
+# Meta Superintelligence Labs (메타 초지능 연구소)
 
-# Meta Superintelligence Labs
+**Meta Superintelligence Labs**는 2026년 초 [[Meta]]가 초지능(Superintelligence) 및 범용 인공지능([[AGI]]) 달성을 위해 설립한 특수 연구 부서입니다. 기존의 [[Llama]] 팀이 상용 모델 개발에 집중하는 것과 달리, 이 연구소는 기술적 특이점을 돌파하기 위한 기초 연구와 파괴적 혁신에 초점을 맞춥니다.
 
-> Meta(구 Facebook)의 초지능(superintelligence) 연구 전담 조직. 2026년 첫 모델을 공개하며 AGI 경쟁에 본격 참전.
+## 📌 주요 특징
+- **AGI 집중 연구**: 데이터 효율성, 자율적 추론, 장기 기억력 등 AGI로 가기 위한 핵심 난제들을 해결하는 것이 주된 임무입니다.
+- **오픈소스 전략**: 메타의 전통을 따라 연구 성과와 초기 모델들을 오픈소스로 공개하여 생태계 주도권을 확보하려 합니다.
+- **특이점 대비**: 인간의 지능을 능가하는 초지능 모델의 안전한 정렬(Alignment)과 통제 기술을 병행 연구합니다.
 
----
+## 🚀 2026년 4월 첫 모델 출시
+- 2026년 4월 16일, 연구소 설립 이후 첫 번째 기술 시연 모델을 출시했습니다. 이 모델은 기존 [[Llama]] 시리즈보다 **계획 수립(Planning)** 및 **추상적 개념 추론** 능력이 대폭 강화된 것으로 알려졌습니다.
 
-## 주요 내용
-
-- 기존 **Llama** 오픈소스 시리즈와 별도로 개발되는 최전선 연구 조직
-- Meta가 오픈소스 AI 보급을 넘어 **AGI 개발 경쟁**에서도 독자적 역량을 보유하고 있음을 공식화
-- [[OpenAI]], Google, [[Anthropic]]에 이은 4번째 초지능 경쟁 주요 플레이어
-
----
-
-## 관련 페이지
-
-- [[2026-04-16_Meta Superintelligence Labs 첫 모델]]
+## 관련 문서
+- [[Meta]]
+- [[Llama]]
+- [[AGI]]
+- [[에이전틱 AI]]
