@@ -178,3 +178,10 @@ tags: ["auto-fixed"]
   - `wiki/LLM Wiki 패턴.md` 및 `wiki/Andrej Karpathy.md`에 링크 연결.
 - **핵심**: 카파시가 제안한 LLM Wiki의 철학과 RAG와의 차이점, Obsidian을 IDE로 활용하는 기법 등을 한국어로 완벽히 정리함.
 - **후니님 맥락**: "원본을 보관하면서 Wiki에 녹아들게 하라"는 요청에 따라 시스템의 핵심 레퍼런스(Primary Source)로 격상함.
+
+## [2026-04-19] tool | Daily Dynamic Trend Tracking System
+- **수행 작업**: 
+  - `tools/update_dynamic_trend.py` 구축 (거래대금 500억/상승률 5% 필터링 + KIND 섹터 결합).
+  - 날짜별 자금 흐름 스냅샷 자동 생성 기능 구현 (`raw/research/trends/`).
+- **결과물**: `raw/research/trends/2026-04-19_dynamic_trend.md`, `wiki/시장 주도 테마 히스토리.md`
+- **후니님 맥락**: "자금의 흐름을 지식에 쌓고 싶다"는 요청에 따라 시계열 히스토리 관리 체계 도입. 자산화의 기틀을 마련함.
