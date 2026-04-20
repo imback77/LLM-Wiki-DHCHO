@@ -7,7 +7,7 @@ note: "이 페이지는 다른 페이지에서 링크만 된 상태입니다. in
 ---
 
 ## 🛠️ 실전 활용 스킬 (Skills)
-- **5대 핵심 스킬 ([[Matt Pocock]] 제안)**: [[요약_2026-04-19_5_Claude_Code_Skills_Matt_Pocock]]
+- **5대 핵심 스킬 ([[Matt Pocock]] 제안)**: [[2026-04-19_5_Claude_Code_Skills_Matt_Pocock]]
     1. **Grill me**: 요구사항의 모호함을 AI의 역질문으로 해결.
     2. **Write a PRD**: 상세 요구사항 문서를 AI와 공동 작성.
     3. **PRD to Issues**: 이슈를 관리 가능한 작은 단위로 분할.
