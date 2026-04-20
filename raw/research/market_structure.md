@@ -1,4 +1,8 @@
 # KOSPI 200 & KOSDAQ 150 구조화 데이터
+---
+wiki_status: "완료"
+---
+
 
 <!-- AI_SUMMARY_START
 {

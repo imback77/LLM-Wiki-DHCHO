@@ -1,29 +1,25 @@
 ---
-type: concept
-created: 2026-04-16
-updated: 2026-04-16
-tags: [ai, functionality, productivity]
+type: "concept"
+created: 2026-04-19
+updated: 2026-04-19
+tags: ["claude", "knowledge-management", "workflow"]
 ---
 
 # Claude Projects
 
-**Claude Projects**는 Anthropic의 [[Claude]] 플랫폼에서 제공하는 컨텍스트 관리 및 지식 베이스 기능입니다. 사용자나 팀이 특정 주제나 업무에 필요한 모든 지식을 한곳에 모아 AI와 상호작용할 수 있도록 설계되었습니다.
+## 정의
+Claude.ai에서 제공하는 작업 단위별 관리 시스템으로, 특정 주제나 업무에 관련된 문서, 코드, 지침을 한데 모아 Claude와 협업할 수 있는 전용 공간입니다.
 
-## 🌟 핵심 기능
-- **지식 기반 (Knowledge Base)**: PDF, 텍스트, 코드 파일 등을 업로드하여 해당 프로젝트 내의 모든 채팅에서 공통 컨텍스트로 활용합니다.
-- **맞춤형 지침 (Custom Instructions)**: 프로젝트마다 별도의 시스템 프롬프트를 설정하여 AI의 스타일, 역할, 금기사항 등을 개별화할 수 있습니다.
-- **자동 [[RAG (Retrieval-Augmented Generation)]]**: 정보량이 많아져 컨텍스트 윈도우를 초과할 경우, 유료 사용자에 한해 고도화된 검색 기술이 자동 활성화됩니다.
-- **협업 인프라**: Team 및 Enterprise 플랜에서는 팀 단위로 프로젝트를 공유하고 권한을 관리할 수 있습니다.
+## 핵심 구성 요소
+1. **프로젝트 지식 (Project Knowledge)**: 업로드된 문서나 텍스트 데이터. 해당 프로젝트 내 모든 채팅의 컨텍스트로 사용됨.
+2. **프로젝트 지침 (Custom Instructions)**: Claude가 해당 프로젝트에서 어떻게 행동하고 응답해야 하는지에 대한 가이드라인.
+3. **독립된 메모리**: 프로젝트별로 요약된 맥락이 저장되어 다른 대화와 정보가 섞이지 않음.
 
-## 💡 활용 시나리오
-1. **코드 베이스 관리**: 특정 프로젝트의 전체 소스 코드를 업로드하여 전체적인 아키텍처 상담.
-2. **투자 리서치**: 특정 기업의 연간 보고서와 시장 분석 자료들을 모아 통합 인사이트 도출.
-3. **가이드라인 준수**: 사내 규정이나 스타일 가이드를 넣어 일관된 콘텐츠 생성.
+## 위키 내 맥락
+- 현재 구축 중인 [[LLM Wiki]]도 일종의 '메타 프로젝트'로서 동작함.
+- **RAG 활용**: 문서가 많아지면 Claude가 자동으로 [[RAG (Retrieval-Augmented Generation)]] 시스템을 가동하여 대규모 문서를 처리함.
 
-## 🔗 관련 항목
-- [[Anthropic]]
-- [[프롬프트 엔지니어링]]
-- [[RAG (Retrieval-Augmented Generation)]]
-
----
-> 출처: [[2026-04-16_Claude 프로젝트 생성 및 관리 가이드]]
+## 관련 페이지
+- [[Claude.ai]]
+- [[Summary_Claude_Projects_Guide]]
+- [[지식 복리 (Knowledge Compounding)]]

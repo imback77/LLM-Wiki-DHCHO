@@ -7,7 +7,7 @@ published: 2026-04-19
 created: 2026-04-19
 description: "고등 교육과 직업 현장 사이의 괴리를 분석한 결과, 단순히 기술 부족이 아닌 속도, 연결성, 역량 등 6가지 시스템적 마찰이 성장을 저해하고 있음을 발견"
 tags: ["raw/articles"]
-wiki_status: "미처리"
+wiki_status: "완료"
 ---
 ## 핵심 요약
 Amazon Web Services(AWS)와 Pearson이 공동으로 발표한 "AI Readiness: Building the Bridge from Higher Education to Work" 보고서에 따르면, 졸업생들의 AI 숙련도와 기업의 기대치 사이에 심각한 시스템적 균열이 존재합니다. 조사 결과 졸업생의 14%만이 실제 전문적인 워크플로우에 AI를 적용할 수 있는 수준이며, 기업의 53%는 적합한 AI 기술을 가진 인재를 찾는 데 어려움을 겪고 있습니다. 보고서는 이를 유발하는 6가지 마찰 요인을 정의하고 대학과 기업의 공동 대응을 촉구했습니다.

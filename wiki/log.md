@@ -193,3 +193,43 @@ tags: ["auto-fixed"]
   3. **AI 경제 및 전략**: `AI 양극화`, `협업형 AI`, `아마존 AI 전략` 등 매크로 관점의 변화 기록.
 - **결과물**: 신규 위키 페이지 14개 생성 및 기존 지식망 연결 완료.
 - **핵심**: 파편화되어 있던 `raw/`의 뉴스들을 '지식(Entity/Concept)' 단위로 승화시켜 위키의 완결성을 높임.
+
+## [2026-04-19] ingest | 미처리 지식 인제스트 (Batch 1: 최신 뉴스 5건)
+- **소스**: raw/articles/2026-04-19_*.md (5건)
+- **목록**: Zebra Technologies, Lumen CEO, TSMC Arizona, PwC AI Performance, AWS/Pearson Report
+- **생성된 페이지** (15개):
+  - 요약 5개: [[2026-04-19_Zebra_Aiva_AI_Nurse_Assistant]], [[2026-04-19_Lumen_AI_Network_Open_Letter]], [[2026-04-19_TSMC_Arizona_Investment_Expansion]], [[2026-04-19_PwC_AI_Performance_Gap_Study]], [[2026-04-19_AWS_Pearson_AI_Readiness_Education_Gap]]
+  - 신규 엔티티/개념 10개: [[Zebra Technologies]], [[Aiva Health]], [[ANA (AI-powered Nurse Assistant)]], [[Lumen Technologies]], [[디지털 신경계]], [[AI 트래픽]], [[TSMC]], [[NVIDIA]], [[최첨단 패키징]], [[문화적 부채]], [[Pearson]], [[AI Readiness]]
+- **핵심**: AI 인프라(네트워크, 칩), 조직 역량(문화적 부채, 스킬 갭), 그리고 실질적 적용(의료 에이전트)에 걸친 입체적 지식망 구축.
+- **후니님 맥락**: "언젠가는 다 해야 한다"는 방향성에 따라 5개 단위 배치 처리의 첫 발을 뗌.
+
+## [2026-04-19] ingest | 미처리 지식 인제스트 (Batch 2: 최신 뉴스 5건)
+- **소스**: raw/articles/2026-04-19_*.md (5건)
+- **목록**: Samsung Edison Awards, Anthropic Claude Mythos, Agentic AI Levels, US Tech ROI Anxiety, AI Regulation War
+- **생성 및 갱신된 페이지** (18개):
+  - 요약 5개: [[2026-04-19_Samsung_Edison_Awards_AI_Awards]], [[2026-04-19_Anthropic_Claude_Mythos_Security_Strategy]], [[2026-04-19_Agentic_AI_Autonomy_Levels_Analysis]], [[2026-04-19_US_Tech_AI_ROI_Anxiety_Analysis]], [[2026-04-19_US_AI_Regulation_Fed_vs_State_Conflict]]
+  - 신규 엔티티/개념 13개: [[삼성전자]], [[비전 AI 컴패니언]], [[공간 지능화]], [[에이전틱 AI 자율성 5단계]], [[멀티 에이전트 오케스트레이션]], [[하이퍼스케일러]], [[ROI Gap]], [[트럼프 행정부]], [[AI 거버넌스]] 갱신 등
+- **핵심**: AI 기술의 수용성(가전/인터페이스), 인프라의 수익성(ROI Gap), 거버넌스의 복잡성(Fed vs State), 보안의 임계점(Mythos)을 아우르는 지식 연결망 확장.
+- **후니님 맥락**: 기술은 자율성을 향해 가고($레벨 3 \to 4$), 정치는 규제를 향해 가며, 시장은 수익성을 증명하라고 압박하는 2026년의 입체적 지형도를 위키에 구축함.
+
+## [2026-04-19] ingest | 미처리 지식 인제스트 (Batch 4: 지식 복리 및 코어 컨셉)
+- **소스**: raw/articles/*, raw/research/* (5건)
+- **목록**: Andrej Karpathy LLM Wiki Manifesto, Market Structure Data, Dynamic Trend Flow, AI Infrastructure & Energy, Claude Projects Guide
+- **생성/업데이트된 페이지** (15개 이상):
+  - 요약: [[2026-04-19_Andrej_Karpathy_LLM_Wiki_Manifesto]], [[Status_KR_Market_Structure_2026]], [[Trend_Market_Flow_2026-04-19]], [[Summary_AI_Infrastructure_and_Energy_2026]], [[Summary_Claude_Projects_Guide]]
+  - 엔티티: [[Andrej Karpathy]], [[와이제이링크]]
+  - 개념: [[지식 복리 (Knowledge Compounding)]], [[LLM Wiki]], [[KOSPI 200]], [[KOSDAQ 150]], [[섹터 분석 (Sector Analysis)]], [[스마트 공정 (Smart Process)]], [[자금 흐름 분석 (Money Flow Analysis)]], [[SMR (Small Modular Reactor)]], [[Claude Projects]]
+- **핵심**: 위키의 근간이 되는 '지식 복리' 철학을 명문화하고, 한국 시장의 구조(KOSPI/KOSDAQ)와 최신 필드 트렌드(SMR, 스마트 팩토리)를 유기적으로 연결함.
+- **후니님 맥락**: "언젠가는 다 해야 한다"는 방향성에 따라 20번째 파일까지 인제스트 완료. 남은 미처리 파일들도 순차적으로 처리 예정.
+
+| 2026-04-20 | Market | 주식 시장 데일리 리캡 | [Link](2026-04-20_Market_Recap.md) | 완료 |
+
+## [2026-04-20] ingest | 미처리 지식 인제스트 (Batch 3: 에이전틱 코딩 & 국가 전략)
+- **소스**: raw/videos/*, raw/articles/* (3건)
+- **목록**: Matt Pocock (5 Claude Code Skills), Gemma 4 Cloud Run Deployment, 대한민국 인공지능 행동계획(안)
+- **생성 및 갱신된 페이지** (12개):
+  - 요약 3개: [[요약_2026-04-19_5_Claude_Code_Skills_Matt_Pocock]], [[요약_2026-04-20_Self_Host_Gemma_4_Cloud_Run]], [[요약_2026-04-19_대한민국_인공지능_행동계획]]
+  - 신규 엔티티/개념 7개: [[Matt Pocock]], [[국가인공지능전략위원회]], [[Gemma]], [[Gemma 4]], [[Ollama]], [[vLLM]], [[TDD]], [[PRD]]
+  - 기존 갱신: [[Claude Code]], [[index.md]]
+- **핵심**: AI 에이전트의 실전 협업 스킬(Matt Pocock)과 클라우드 배포 전략(Gemma 4)을 구체화하고, 대한민국의 AI G3 도약 로드맵을 위키에 내재화함.
+- **후니님 맥락**: "언젠가는 다 해야 한다"는 지식 복리 원칙에 따라 미처리 18건 중 18건(Batch 1, 2, 3, 4) 모두 처리 완료.

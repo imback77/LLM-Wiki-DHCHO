@@ -7,7 +7,7 @@ published: 2026-04-19
 created: 2026-04-19
 description: "Vision AI Companion, Bespoke AI Laundry Combo 등 차세대 인공지능 기술력을 인정받아 금상 2개, 은상 2개 수상"
 tags: ["raw/articles"]
-wiki_status: "미처리"
+wiki_status: "완료"
 ---
 ## 핵심 요약
 삼성전자가 2026년 4월 15~16일 미국 플로리다에서 열린 세계적 권위의 혁신상 '2026 에디슨 어워드(Edison Awards)'에서 금상 2개와 은상 2개를 수상했습니다. 삼성의 스마트 모듈러 하우스, 비전 AI 컴패니언(Vision AI Companion)이 금상을 차지했고, 공간 전광판(Spatial Signage)과 비스포크 AI 콤보 세탁건조기가 은상을 수상하며 가전 및 디스플레이 시장에서 삼성의 AI 리더십을 공인받았습니다.

@@ -9,7 +9,7 @@ created: "2026-04-18"
 description: "Anthropic Labs에서 Claude와 협력하여 디자인, 프로토타입, 슬라이드 등 시각 결과물을 생성할 수 있는 새로운 제품인 Claude Design을 공식 출시했습니다."
 tags:
   - raw/articles
-wiki_status: "미처리"
+wiki_status: "완료"
 ---
 ## 핵심 요약
 Anthropic Labs에서 Claude와 협력하여 전문적인 시각적 작업물(디자인, 웹 프로토타입, PPT 슬라이드 등)을 생성해 내는 'Claude Design'을 출시했습니다. 이 제품은 최고 성능의 비전 모델인 Claude Opus 4.7을 기반으로, 사용자의 코드베이스와 디자인 시스템을 학습해 일관된 결과물을 도출하며, 최종 디자인을 Claude Code에 곧바로 넘겨주는(Handoff) 통합 기능까지 갖추고 있습니다.

@@ -1,20 +1,22 @@
 ---
-type: entity
-created: 2026-04-18
-updated: 2026-04-18
-tags: ["entity", "organization", "anthropic"]
+type: "entity"
+created: 2026-04-19
+updated: 2026-04-19
+tags: ["organization", "anthropic", "r&d"]
 ---
 
-# Anthropic Labs
+# Anthropic Labs (앤스로픽 랩스)
 
-Anthropic 내에서 **실험적인 AI 제품 개발 및 미래 기술 연구**를 전담하는 특별 조직입니다.
+## 개요
+[[Anthropic]] 내에서 초기 연구 단계의 모델이나 실험적인 AI 제품을 대중에게 빠르게 선보이기 위해 구성된 전담 리서치 및 제품 개발 조직입니다.
 
-## 역할 및 특징
-- **프론티어 기술 상용화**: 연구실 단계의 고성능 멀티모달 모델(예: Claude Opus 4.7)을 실제 사용자가 체감할 수 있는 제품 경험으로 변환.
-- **에이전틱 워크플로우 설계**: 인간과 AI가 복합적인 작업(디자인, 코딩 등)을 심리스하게 수행할 수 있는 인터페이스 연구.
-- **주요 출시 제품**:
-  - [[Claude Design]] (2026년 4월)
-  - 기타 리서치 프리뷰 및 특화 모델 릴리즈 담당.
+## 주요 출시 제품 (2026)
+- [[Claude Design]]: AI 협업 기반의 시각적 디자인 도구.
+- **Claude Artifacts** (초기 버전): 사용자와 상호작용하는 코드 및 콘텐츠 미리보기 환경 개발 주도.
 
----
-[[Anthropic]], [[Claude Design]], [[Claude Code]]
+## 특징
+- 기존 [[Claude]] 서비스의 안정적인 운영과는 별개로, 더 공격적이고 파격적인 에이전틱 기능들을 '리서치 프리뷰' 형태로 테스트하는 역할을 수행함.
+
+## 관련 페이지
+- [[Anthropic]]
+- [[Claude Design]]

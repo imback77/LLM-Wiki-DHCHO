@@ -7,7 +7,7 @@ published: 2026-04-19
 created: 2026-04-19
 description: "Zebra의 의료용 모바일 기기와 Aiva의 AI 간호 보조원(ANA) 연동을 통해 간호사의 행정 부담을 줄이고 환자 케어에 집중할 수 있는 환경 구축"
 tags: ["raw/articles"]
-wiki_status: "미처리"
+wiki_status: "완료"
 ---
 ## 핵심 요약
 Zebra Technologies와 Aiva Health는 업계 최초의 'AI 기반 음성 간호 보조원(ANA)'을 Zebra의 의료 전용 모바일 컴퓨터 및 웨어러블 배지에 통합하는 전략적 파트너십을 체결했습니다. 이를 통해 간호사들은 복잡한 메뉴 조작 없이 음성만으로 병상 호출 응답, 팀원 협업, 임상 워크플로우 기록 등을 수행할 수 있게 되어, 가중되는 업무 부담을 획기적으로 줄일 수 있을 것으로 기대됩니다.

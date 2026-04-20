@@ -1,4 +1,8 @@
 # 2026-04-19 주식 시장 자금 동향 (Dynamic Trend)
+---
+wiki_status: "완료"
+---
+
 
 <!-- AI_FLOW_SUMMARY
 {

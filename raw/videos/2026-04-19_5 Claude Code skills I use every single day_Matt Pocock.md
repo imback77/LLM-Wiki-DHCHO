@@ -8,7 +8,7 @@ created: 2026-04-19
 description: AI 에이전트(Claude Code)의 코드 품질을 높이기 위해 매일 사용하는 5가지 핵심 스킬(프롬프트 워크플로) 소개
 tags:
   - raw/videos
-wiki_status: 미처리
+wiki_status: 완료
 ---
 ---
 
