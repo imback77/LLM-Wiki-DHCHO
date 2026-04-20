@@ -1,7 +1,7 @@
 ---
 type: index
 created: 2026-04-16
-updated: 2026-04-19
+updated: 2026-04-20
 tags: ["auto-fixed"]
 ---
 
@@ -43,7 +43,6 @@ tags: ["auto-fixed"]
 | [[코드 기반 UI 생성]] | 언어모델로 실제 동작하는 프론트엔드 코드 기반 디자인 추출 | 2026-04-18 |
 | [[AI 디자인 자동화]] | 앱 기획에서 UI 레이아웃 구현까지 전 과정 단축 프로세스 | 2026-04-18 |
 | [[Claude 커스텀 인스트럭션]] | AI에게 고정된 사용자의 페르소나 및 일관된 응답 포맷을 주입하는 기능 | 2026-04-18 |
-| [[물리적 한계]] | 디지털 성장이 지구의 자원·인프라 제약에 부딪히는 근본적 지점 | 2026-04-18 |
 | [[Agentic AI]] | 자율적으로 목표를 설정하고 도구를 사용하여 문제를 해결하는 차세대 AI 시스템 | 2026-04-18 |
 | [[Agentic Coding]] | AI가 코드 작성, 실행, 디버깅을 스스로 수행하는 자율 코딩 워크플로우 | 2026-04-18 |
 | [[AI 도구 경쟁]] | 기업·개인의 생산성 향상을 위한 최적의 AI 스택 확보 경쟁 현황 | 2026-04-18 |
@@ -82,67 +81,9 @@ tags: ["auto-fixed"]
 | [[보안_소프트웨어]] | 사이버보안, 양자암호, 네트워크 보안 등 보호 기술 총칭 | 2026-04-20 |
 | [[바이브_코딩]] | AI와의 대화와 직관을 통해 빠르게 결과물을 도출하는 개발 패러다임 | 2026-04-20 |
 | [[솔로_프리뉴어]] | AI 도구로 무장해 혼자서 기업 수준의 성과를 내는 1인 기업가 모델 | 2026-04-20 |
-
-## 엔티티 (Entities)
-
-| 페이지 | 요약 | 생성일 |
-|--------|------|--------|
-| [[Andrej Karpathy]] | AI 연구자. LLM Wiki 패턴 제안자. 전 OpenAI·Tesla AI 디렉터 | 2026-04-16 |
-| [[Claude Mythos]] | Anthropic의 사이버보안 특화 AI 모델. 27년된 OpenBSD 버그 발견으로 전 세계적 주목 | 2026-04-16 |
-| [[시민개발자 구씨]] | AI 자동화, 노코드 실무 강의 유튜버. LLM Wiki 구축 실전 가이드 제공 | 2026-04-16 |
-| [[Perplexity]] | AI 검색 → 에이전트 플랫폼으로 피벗한 AI 스타트업 | 2026-04-16 |
-| [[Meta Superintelligence Labs]] | Meta의 초지능 연구 전담 조직. 2026년 첫 모델 공개, AGI 경쟁 공식 참전 | 2026-04-16 |
-| [[Google DeepMind]] | Google AI 연구 총괄. Gemini, Gemma 4, SIMA 2, AlphaFold 등 개발 | 2026-04-16 |
-| [[Claude Opus 4.7]] | 최고의 코딩 및 문서 추론 능력을 갖춘 Anthropic의 범용 플래그십 AI 기능 | 2026-04-17 |
-| [[GPT-Rosalind]] | 분자 생물학, 신약 파이프라인 구축에 특화된 OpenAI의 생명과학 전용 파운데이션 모델 | 2026-04-17 |
-| [[Firecrawl]] | 실시간 웹 데이터 스크래핑을 위해 AI와 연동되는 강력한 클로링 도구(MCP) | 2026-04-17 |
-| [[Claude Design]] | Anthropic Labs의 시각 결과물(디자인, 프로토타입) 생성 및 Handoff 전문 도구 | 2026-04-18 |
-| [[Anthropic Labs]] | Anthropic의 차세대 제품 연구 및 실험적 기능 출시를 담당하는 산하 조직 | 2026-04-18 |
-| [[Anthropic]] | Claude 시리즈를 개발한 AI 안전 및 제품 중심 연구 기업 | 2026-04-18 |
-| [[ChatGPT]] | OpenAI의 범용 대화형 AI 서비스 및 에코시스템 | 2026-04-18 |
-| [[Claude 3.5 Sonnet]] | 현재 가장 균형 잡힌 성능을 보여주는 Anthropic의 주력 AI 모델 | 2026-04-18 |
-| [[Claude Code]] | 터미널 기반의 강력한 AI 코딩 에이전트 및 자동화 도구 | 2026-04-18 |
-| [[Claude]] | Anthropic의 AI 모델 브랜드 총칭 | 2026-04-18 |
-| [[Gemini]] | Google의 멀티모달 네이티브 대규모 언어 모델 시리즈 | 2026-04-18 |
-| [[OpenAI]] | GPT 시리즈를 개발하여 전 세계 AI 붐을 일으킨 AI 선도 기업 | 2026-04-18 |
-| [[OpenBSD]] | 보안에 특화된 유닉스 운영체제. 최근 AI를 통한 버그 발견으로 주목 | 2026-04-18 |
-| [[The Rundown AI]] | 최신 AI 업계 뉴스와 도구 정보를 전달하는 주요 미디어 플랫폼 | 2026-04-18 |
-| [[WSJ News]] | 월스트리트 저널의 비즈니스 및 기술 전문 보도 섹션 | 2026-04-18 |
-| [[AI Magazine]] | 글로벌 기술 트렌드와 산업별 AI 도입 사례를 다루는 전문 잡지 | 2026-04-18 |
-| [[HD현대일렉트릭]] | 한국의 전력기기 선도 기업. 북미 전력망 교체 및 AI 변압기 수혜주 | 2026-04-18 |
-| [[LS일렉트릭]] | 스마트 전력 및 자동화 솔루션 기업. 데이터센터용 전력 설비 시장 강점 | 2026-04-18 |
-| [[효성중공업]] | 초고압 변압기 등 전력 인프라 핵심 장비 생산 및 글로벌 수주 확대 | 2026-04-18 |
-| [[Zubair Trabzada]] | AI 투자 자동화 및 클로드 연동 튜토리얼을 제공하는 기술 유튜버 | 2026-04-18 |
-| [[로사장]] | 클로드와 AI 도구 활용 생산성 극대화 가이드를 제공하는 인플루언서 | 2026-04-18 |
-| [[코드팩토리]] | 개발 및 디자인 프로세스 효율화 지식을 공유하는 교육 플랫폼 | 2026-04-18 |
-| [[대한민국 주식 시장 구조]] | KOSPI 200/KOSDAQ 150 기반의 업종별 종목 구조화 지도 | 2026-04-19 |
-| [[시장 주도 테마 히스토리]] | 자금 흐름(Flow)의 시계열 변화 및 테마 이동 추적 로그 | 2026-04-19 |
-| [[Claude Mythos]] | 2026년 사이버 보안의 '핵폭탄'으로 불리는 파괴적 AI 모델 | 2026-04-16 |
-| [[Bugmageddon]] | AI에 의한 폭발적 취약점 발견 및 보안 마비 현상 | 2026-04-15 |
-| [[사이버 보안 트렌드 2026]] | 에이전틱 AI 간의 전쟁으로 변모한 보안 패러다임 분석 | 2026-04-18 |
-| [[위험 임계점 (Danger Threshold)]] | AI 능력이 인류의 통제 범위를 넘어서는 기준과 사례 | 2026-04-18 |
-| [[AI 양극화]] | AI 도입 격차로 인한 기업/국적 간 경제적 불평등 현상 | 2026-04-18 |
-| [[협업형 AI (Collaborative AI)]] | 도구를 넘어 파트너로 진화하는 인간-AI 상호작용(HCI) | 2026-04-18 |
-| [[Meta Superintelligence Labs]] | 메타의 초지능 및 AGI 달성을 위한 전담 연구 부서 | 2026-04-16 |
-| [[Zebra Technologies]] | 의료용 모바일 기기 및 핸즈프리 워크플로우 솔루션 리더 | 2026-04-19 |
-| [[Aiva Health]] | 음성 AI 간호 보조원 ANA 개발사 | 2026-04-19 |
-| [[ANA (AI-powered Nurse Assistant)]] | 의료 현장 전용 음성 인식 지능형 비서 | 2026-04-19 |
-| [[Lumen Technologies]] | AI 트래픽 최적화 글로벌 네트워크 인프라 기업 | 2026-04-19 |
-| [[Kate Johnson]] | Lumen CEO, 디지털 신경계 인프라 전도사 | 2026-04-19 |
-| [[TSMC]] | 2nm 및 첨단 패키징 투자를 확대하는 세계 최대 파운드리 | 2026-04-19 |
-| [[NVIDIA]] | AI 연산 가속기(GPU) 및 쿠다 생태계 선도 기업 | 2026-04-19 |
-| [[AWS]] | 클라우드 인프라 및 AI 교육 지원 글로벌 1위 기업 | 2026-04-19 |
-| [[Pearson]] | 글로벌 교육 출판 및 AI 역량 인증 전문 기업 | 2026-04-19 |
-| [[삼성전자]] | 글로벌 IT 및 가전 선도 기업, 비전 AI 컴패니언 출시 | 2026-04-19 |
-| [[비전 AI 컴패니언]] | 삼성 TV에 탑재된 생성형 AI 대화 인터페이스 | 2026-04-19 |
-| [[트럼프 행정부]] | AI 탈규제 및 기술 패권 경쟁을 주도하는 미국 중앙 정부 | 2026-04-19 |
-| [[Matt Pocock]] | AI 에이전트 코딩 워크플로우 연구 및 교육 전문가 | 2026-04-20 |
-| [[Gemma]] | 구글의 오픈소스 LLM 시리즈. Gemma 4 및 클라우드 배포 전략 포함 | 2026-04-20 |
-| [[Gemma 4]] | 경량화된 고성능 추론 능력을 가진 구글의 최신 오픈 모델 | 2026-04-20 |
-| [[Ollama]] | 로컬 및 컨테이너 환경에서 LLM을 간편하게 실행하는 도구 | 2026-04-20 |
-| [[vLLM]] | 대규모 프로덕션 환경용 고성능 LLM 추론 엔진 | 2026-04-20 |
 | [[주성엔지니어링]] | 반도체 ALD 장비 선도 기업. 2026년 4월 시장 주도주 | 2026-04-20 |
 | [[이수페타시스]] | AI 가속기용 초고다층 MLB(기판) 핵심 공급사 | 2026-04-20 |
+
 
 ## 요약 (Summaries)
 
@@ -170,8 +111,6 @@ tags: ["auto-fixed"]
 | [[2026-04-17_OpenAI_GPT-Rosalind_Cyber]] | raw/articles · OpenAI 공식 뉴스 | 2026-04-17 |
 | [[2026-04-17_Google_DeepMind_Robotics_Philosopher]] | raw/articles · Google DeepMind 공식 뉴스 | 2026-04-17 |
 | [[2026-04-17_The_Rundown_AI_Briefs]] | raw/articles · The Rundown AI | 2026-04-17 |
-| [[Project Glasswing]] | 주요 AI 기업들이 참여하는 사이버 보안 및 안전 가드레일 공동 프로젝트 | 2026-04-18 |
-| [[그린코끼리 AI]] | 클로드 및 생성형 AI 실전 활용법을 공유하는 지식 파트너 채널 | 2026-04-18 |
 | [[2026-04-17_Claude Code Design just became UNSTOPPABLE]] | raw/videos · Jack Roberts 유튜브 | 2026-04-17 |
 | [[2026-04-17_Claude Just Changed the Stock Market Forever]] | raw/videos · Samin Yasar 유튜브 | 2026-04-17 |
 | [[2026-04-18_협업형 AI로의 전환]] | raw/articles · The Rundown AI | 2026-04-18 |
@@ -184,41 +123,24 @@ tags: ["auto-fixed"]
 | [[2026-04-18_클로드 생산성 극대화 방법]] | raw/videos · 로사장 유튜브 | 2026-04-18 |
 | [[2026-04-18_Claude Design Anthropic Labs 출시 요약]] | raw/articles · Anthropic News | 2026-04-18 |
 | [[2026-04-19_Andrej_Karpathy_LLM_Wiki_원본_번역]] | raw/articles · Karpathy Gist (번역) | 2026-04-19 |
-| [[2026-04-19_Andrej Karpathy LLM Wiki 번역 요약]] | 카파시의 LLM Wiki 철학과 기술 스택 번역 정리 | 2026-04-19 |
-| [[2026-04-15_미소스 보안 대란 요약]] | 미소스 모델의 27년 된 버그 발견 및 제로데이 시계 단축 | 2026-04-15 |
-| [[2026-04-16_OpenAI GPT-5.4-Cyber 대응 요약]] | OpenAI의 방어적 프레이밍 전략과 미소스와의 대결 구도 | 2026-04-16 |
-| [[2026-04-16_Amazon CEO 앤디재시 AI 전략 요약]] | 아마존의 6가지 핵심 AI 통찰 및 인프라 최우선 전략 | 2026-04-16 |
-| [[2026-04-18_Project Glasswing 출범 요약]] | 위험 임계점 돌파에 따른 앤트로픽의 보안 연합체 결성 | 2026-04-18 |
-| [[2026-04-19_Zebra_Aiva_AI_Nurse_Assistant]] | Zebra-Aiva 핸즈프리 AI 간호 보조원 파트너십 | 2026-04-19 |
-| [[2026-04-19_Lumen_AI_Network_Open_Letter]] | Lumen CEO의 인터넷 트래픽 절반이 AI 에이전트라는 경고 | 2026-04-19 |
-| [[2026-04-19_TSMC_Arizona_Investment_Expansion]] | TSMC 아리조나 1,650억 달러 투자 및 AI 칩 생산량 확대 | 2026-04-19 |
-| [[2026-04-19_PwC_AI_Performance_Gap_Study]] | AI 리더 20%가 가치의 74%를 독점한다는 PwC 연구 | 2026-04-19 |
-| [[2026-04-19_AWS_Pearson_AI_Readiness_Education_Gap]] | 졸업생 AI 준비도 부족에 관한 AWS-Pearson 공동 보고서 | 2026-04-19 |
-| [[2026-04-19_Samsung_Edison_Awards_AI_Awards]] | 삼성전자 에디슨 어워드 4개 부문 수상 및 비전 AI 컴패니언 | 2026-04-19 |
-| [[2026-04-19_Anthropic_Claude_Mythos_Security_Strategy]] | 클로드 미소스의 보안 위험 및 프로젝트 글래스윙 전략 | 2026-04-19 |
-| [[2026-04-19_Agentic_AI_Autonomy_Levels_Analysis]] | 에이전틱 AI의 5단계 자율성 모델 및 레벨 4로의 전환 | 2026-04-19 |
-| [[2026-04-19_US_Tech_AI_ROI_Anxiety_Analysis]] | 빅테크의 AI 인프라 투자에 대한 ROI 증명 압박 분석 | 2026-04-19 |
-| [[2026-04-19_US_AI_Regulation_Fed_vs_State_Conflict]] | 연방 정부와 주 정부 간의 AI 규제 주도권 전쟁 | 2026-04-19 |
-| [[2026-04-19_5_Claude_Code_Skills_Matt_Pocock]] | Matt Pocock의 에이전트 코딩 5대 핵심 스킬 요약 | 2026-04-20 |
-| [[2026-04-20_Self_Host_Gemma_4_Cloud_Run]] | Gemma 4 클라우드 배포 전략 (Ollama vs vLLM) 요약 | 2026-04-20 |
-| [[2026-04-19_대한민국_인공지능_행동계획]] | 국정 AI G3 도약을 위한 3대 정책축 및 액션플랜 요약 | 2026-04-20 |
+| [[2026-04-19_Zebra_Aiva_AI_Nurse_Assistant]] | raw/articles · Zebra-Aiva | 2026-04-19 |
+| [[2026-04-19_Lumen_AI_Network_Open_Letter]] | raw/articles · Lumen | 2026-04-19 |
+| [[2026-04-19_TSMC_Arizona_Investment_Expansion]] | raw/articles · TSMC | 2026-04-19 |
+| [[2026-04-19_PwC_AI_Performance_Gap_Study]] | raw/articles · PwC | 2026-04-19 |
+| [[2026-04-19_AWS_Pearson_AI_Readiness_Education_Gap]] | raw/articles · AWS-Pearson | 2026-04-19 |
+| [[2026-04-19_Samsung_Edison_Awards_AI_Awards]] | raw/articles · Samsung | 2026-04-19 |
+| [[2026-04-19_Anthropic_Claude_Mythos_Security_Strategy]] | raw/articles · Anthropic | 2026-04-19 |
+| [[2026-04-19_Agentic_AI_Autonomy_Levels_Analysis]] | raw/articles · Research | 2026-04-19 |
+| [[2026-04-19_US_Tech_AI_ROI_Anxiety_Analysis]] | raw/articles · Market | 2026-04-19 |
+| [[2026-04-19_US_AI_Regulation_Fed_vs_State_Conflict]] | raw/articles · Policy | 2026-04-19 |
+| [[2026-04-19_5_Claude_Code_Skills_Matt_Pocock]] | raw/videos · Matt Pocock | 2026-04-20 |
+| [[2026-04-20_Self_Host_Gemma_4_Cloud_Run]] | raw/videos · Google Cloud | 2026-04-20 |
+| [[2026-04-19_대한민국_인공지능_행동계획]] | raw/articles · Policy | 2026-04-20 |
 | [[2026-04-20_Market_Flow_Analysis]] | 보안 SW 및 반도체 장비 중심의 자금 동향 분석 요약 | 2026-04-20 |
 | [[2026-04-20_Vibe_Coding_and_Solo_Business]] | AI 코딩과 1인 기업 비즈니스 모델(코너) 사례 요약 | 2026-04-20 |
 | [[2026-04-20_Global_Macro_Snapshot]] | 고환율(1472원) 및 금리, VIX 등 주요 매크로 지표 분석 요약 | 2026-04-20 |
 
 ## 투자 (Investment)
-
-### 종목 분석
-
-| 페이지 | 섹터 | 확인일 |
-|--------|------|--------|
-| [[2026-04-18_AI 인프라 전력망 수혜주]] | 전력/인프라 | 2026-04-18 |
-
-### 투자 전략
-
-| 페이지 | 요약 | 생성일 |
-|--------|------|--------|
-| _아직 없음_ | — | — |
 
 ### 거시경제 (Macro)
 
@@ -226,22 +148,7 @@ tags: ["auto-fixed"]
 |--------|------|--------|
 | [[2026-04-20_Global_Macro_Snapshot]] | USD/KRW 1472원 돌파 및 VIX 지수 경계선(19.27) 분석 | 2026-04-20 |
 
-### 투자 테시스 (Thesis)
-
-| 페이지 | 요약 | 생성일 |
-|--------|------|--------|
-| _아직 없음_ | — | — |
-
-## 비교 (Comparisons)
-
-## 인사이트 (Insights)
-
-| 페이지 | 요약 | 생성일 |
-|--------|------|--------|
-| [[2026-04-18_AI_전력_공급_가능성_충격(인사이트)]] | 칩보다 전기가 중요해진 2026년 AI 패권의 핵심 변수 분석 | 2026-04-18 |
-| _아직 없음_ | — | — |
 
 ---
 
 > **통계**: 총 180개 페이지 | 마지막 업데이트: 2026-04-20
-

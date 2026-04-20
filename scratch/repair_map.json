@@ -1,0 +1,1016 @@
+{
+  "wiki": [
+    {
+      "current": "2026-04-15_미소스 보안 대란 요약.md",
+      "intended": "2026-04-15 [요약] '미소스'가 무서운 이유 27년 도안 숨어있던 문제의 탄로.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-15_미소스 보안 대란 요약.md"
+    },
+    {
+      "current": "2026-04-16_AI 소매 매장 운영 실험.md",
+      "intended": "요약  AI가 소매 매장 전체를 운영하면 어떤 일이 벌어질까.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-16_AI 소매 매장 운영 실험.md"
+    },
+    {
+      "current": "2026-04-16_Amazon CEO 앤디재시 AI 6가지 핵심 원칙.md",
+      "intended": "요약  Amazon CEO 앤디 재시의 AI 6가지 핵심 진실.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-16_Amazon CEO 앤디재시 AI 6가지 핵심 원칙.md"
+    },
+    {
+      "current": "2026-04-16_Amazon CEO 앤디재시 AI 전략 요약.md",
+      "intended": "2026-04-16 [요약] 아마존 CEO 앤디재시의 AI 6가지 핵심 진실.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-16_Amazon CEO 앤디재시 AI 전략 요약.md"
+    },
+    {
+      "current": "2026-04-16_Anthropic LTBT 이사회 노바티스 CEO 선임.md",
+      "intended": "요약  Anthropic 장기이익신탁(LTBT), 노바티스 CEO 이사회 선임.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-16_Anthropic LTBT 이사회 노바티스 CEO 선임.md"
+    },
+    {
+      "current": "2026-04-16_Claude 스킬 구축 가이드.md",
+      "intended": "요약 Claude 스킬 구축 가이드 (AntigravityClaude Code).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-16_Claude 스킬 구축 가이드.md"
+    },
+    {
+      "current": "2026-04-16_Claude 프로젝트 생성 및 관리 가이드.md",
+      "intended": "요약 Claude 프로젝트 생성 및 관리 가이드 (공식).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-16_Claude 프로젝트 생성 및 관리 가이드.md"
+    },
+    {
+      "current": "2026-04-16_Google DeepMind SIMA 2 에이전트.md",
+      "intended": "요약  SIMA 2 — 게임 속에서 인간과 함께 추론하고 배우는 AI 에이전트.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-16_Google DeepMind SIMA 2 에이전트.md"
+    },
+    {
+      "current": "2026-04-16_Google Gemma 4 오픈소스 모델.md",
+      "intended": "요약  Gemma 4 — 동급 최강의 오픈소스 AI 모델.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-16_Google Gemma 4 오픈소스 모델.md"
+    },
+    {
+      "current": "2026-04-16_Meta Superintelligence Labs 첫 모델.md",
+      "intended": "요약  Meta Superintelligence Labs, 첫 번째 모델 출시.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-16_Meta Superintelligence Labs 첫 모델.md"
+    },
+    {
+      "current": "2026-04-16_OpenAI GPT-5.4-Cyber Mythos 전략 비교.md",
+      "intended": "요약  OpenAI GPT-5.4-Cyber, Mythos와 다른 길을 간다.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-16_OpenAI GPT-5.4-Cyber Mythos 전략 비교.md"
+    },
+    {
+      "current": "2026-04-16_OpenAI GPT-5.4-Cyber 대응 요약.md",
+      "intended": "2026-04-16 [요약] OpenAI GPT-5.4-Cyber의 전략 미소스와 다른 길.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-16_OpenAI GPT-5.4-Cyber 대응 요약.md"
+    },
+    {
+      "current": "2026-04-16_OpenAI 영국 확장 전략.md",
+      "intended": "요약  OpenAI, 영국 런던에서 대규모 사업 확장.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-16_OpenAI 영국 확장 전략.md"
+    },
+    {
+      "current": "2026-04-16_Perplexity 에이전트 플랫폼 피벗.md",
+      "intended": "요약  Perplexity, 검색엔진에서 AI 에이전트 플랫폼으로 피벗.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-16_Perplexity 에이전트 플랫폼 피벗.md"
+    },
+    {
+      "current": "2026-04-16_Project Glasswing 보안 대연합.md",
+      "intended": "요약  Project Glasswing — Anthropic 주도 소프트웨어 보안 대연합.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-16_Project Glasswing 보안 대연합.md"
+    },
+    {
+      "current": "2026-04-16_그린코끼리 AI 클로드 초보자 가이드.md",
+      "intended": "요약 클로드 초보자 가이드 2026 (그린코끼리 AI).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-16_그린코끼리 AI 클로드 초보자 가이드.md"
+    },
+    {
+      "current": "2026-04-16_미소스(Claude Mythos)가 무서운 이유.md",
+      "intended": "요약  미소스(Claude Mythos)가 무서운 이유 — AI와 사이버보안의 새 국면.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-16_미소스(Claude Mythos)가 무서운 이유.md"
+    },
+    {
+      "current": "2026-04-16_시민개발자 구씨 LLM Wiki GitHub Repo.md",
+      "intended": "요약  시민개발자 구씨 LLM Wiki GitHub Repo.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-16_시민개발자 구씨 LLM Wiki GitHub Repo.md"
+    },
+    {
+      "current": "2026-04-16_시민개발자 구씨의 클로드코드 LLM Wiki 정리.md",
+      "intended": "요약  시민개발자 구씨의 클로드코드 LLM Wiki 가이드.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-16_시민개발자 구씨의 클로드코드 LLM Wiki 정리.md"
+    },
+    {
+      "current": "2026-04-16_카파시의 LLM Wiki로 나만의 AI 세컨드 브레인 만들기.md",
+      "intended": "요약  카파시의 LLM Wiki로 나만의 AI 세컨드 브레인 만들기.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-16_카파시의 LLM Wiki로 나만의 AI 세컨드 브레인 만들기.md"
+    },
+    {
+      "current": "2026-04-16_클로드 초보 사용법 2026 실전 가이드.md",
+      "intended": "요약 2026 클로드 실전 가이드 (초보용).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-16_클로드 초보 사용법 2026 실전 가이드.md"
+    },
+    {
+      "current": "2026-04-17_Anthropic_Claude_Opus_4.7_Mythos.md",
+      "intended": "요약 2026-04-17_Anthropic_Claude_Opus_4.7_Mythos.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-17_Anthropic_Claude_Opus_4.7_Mythos.md"
+    },
+    {
+      "current": "2026-04-17_Claude Code Design just became UNSTOPPABLE.md",
+      "intended": "요약 Claude Code Design just became UNSTOPPABLE.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-17_Claude Code Design just became UNSTOPPABLE.md"
+    },
+    {
+      "current": "2026-04-17_Claude Just Changed the Stock Market Forever.md",
+      "intended": "요약 Claude Just Changed the Stock Market Forever! (Tutorial).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-17_Claude Just Changed the Stock Market Forever.md"
+    },
+    {
+      "current": "2026-04-17_Google_DeepMind_Robotics_Philosopher.md",
+      "intended": "요약 2026-04-17_Google_DeepMind_Robotics_Philosopher.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-17_Google_DeepMind_Robotics_Philosopher.md"
+    },
+    {
+      "current": "2026-04-17_OpenAI_GPT-Rosalind_Cyber.md",
+      "intended": "요약 2026-04-17_OpenAI_GPT-Rosalind_Cyber.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-17_OpenAI_GPT-Rosalind_Cyber.md"
+    },
+    {
+      "current": "2026-04-17_The_Rundown_AI_Briefs.md",
+      "intended": "요약 2026-04-17_The_Rundown_AI_Briefs.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-17_The_Rundown_AI_Briefs.md"
+    },
+    {
+      "current": "2026-04-18_AI Trading Team with Claude Code.md",
+      "intended": "요약 Claude Code로 14분 만에 AI 트레이딩 팀 구축하기.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-18_AI Trading Team with Claude Code.md"
+    },
+    {
+      "current": "2026-04-18_AI 도입에 따른 기업 양극화.md",
+      "intended": "요약 AI 도입에 따른 기업 양극화.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-18_AI 도입에 따른 기업 양극화.md"
+    },
+    {
+      "current": "2026-04-18_AI 인프라 전력망 수혜주.md",
+      "intended": "AI 인프라 전력망 수혜주.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-18_AI 인프라 전력망 수혜주.md"
+    },
+    {
+      "current": "2026-04-18_AI 인프라와 물리적 한계.md",
+      "intended": "요약 AI 인프라와 물리적 한계.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-18_AI 인프라와 물리적 한계.md"
+    },
+    {
+      "current": "2026-04-18_AI_전력_공급_가능성_충격(인사이트).md",
+      "intended": "2026 AI 전력 공급 가능성 충격 (Power Availability Shock).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-18_AI_전력_공급_가능성_충격(인사이트).md"
+    },
+    {
+      "current": "2026-04-18_Claude Design Anthropic Labs 출시 요약.md",
+      "intended": "요약 2026-04-18 Claude Design Anthropic Labs 출시.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-18_Claude Design Anthropic Labs 출시 요약.md"
+    },
+    {
+      "current": "2026-04-18_Claude_Design_Release_Analysis.md",
+      "intended": "2026-04-18_Claude_Design_Release_Analysis.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-18_Claude_Design_Release_Analysis.md"
+    },
+    {
+      "current": "2026-04-18_KR_Power_Grid_Stocks_Analysis.md",
+      "intended": "2026-04-18_KR_Power_Grid_Stocks_Analysis.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-18_KR_Power_Grid_Stocks_Analysis.md"
+    },
+    {
+      "current": "2026-04-18_Project Glasswing 출범 요약.md",
+      "intended": "2026-04-18 [요약] 사이버 보안과 '위험 임계점' Project Glasswing 출범.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-18_Project Glasswing 출범 요약.md"
+    },
+    {
+      "current": "2026-04-18_사이버 보안과 위험 임계점.md",
+      "intended": "요약 사이버 보안과 위험 임계점.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-18_사이버 보안과 위험 임계점.md"
+    },
+    {
+      "current": "2026-04-18_양자 컴퓨팅과 AI의 융합.md",
+      "intended": "요약 양자 컴퓨팅과 AI의 융합.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-18_양자 컴퓨팅과 AI의 융합.md"
+    },
+    {
+      "current": "2026-04-18_클로드 디자인 튜토리얼.md",
+      "intended": "요약 클로드 디자인 자동화 튜토리얼 (코드팩토리).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-18_클로드 디자인 튜토리얼.md"
+    },
+    {
+      "current": "2026-04-18_클로드 생산성 극대화 방법.md",
+      "intended": "요약 클로드로 업무 생산성 20배 올리기 (로사장).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-18_클로드 생산성 극대화 방법.md"
+    },
+    {
+      "current": "2026-04-18_협업형 AI로의 전환.md",
+      "intended": "요약 협업형 AI로의 전환.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-18_협업형 AI로의 전환.md"
+    },
+    {
+      "current": "2026-04-19_5_Claude_Code_Skills_Matt_Pocock.md",
+      "intended": "📝 요약 Claude Code 5대 실전 스킬 (Matt Pocock).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-19_5_Claude_Code_Skills_Matt_Pocock.md"
+    },
+    {
+      "current": "2026-04-19_Agentic_AI_Autonomy_Levels_Analysis.md",
+      "intended": "2026-04-19_Agentic_AI_Autonomy_Levels_Analysis.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-19_Agentic_AI_Autonomy_Levels_Analysis.md"
+    },
+    {
+      "current": "2026-04-19_Andrej_Karpathy_LLM_Wiki_Manifesto.md",
+      "intended": "2026-04-19_Andrej_Karpathy_LLM_Wiki_Manifesto.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-19_Andrej_Karpathy_LLM_Wiki_Manifesto.md"
+    },
+    {
+      "current": "2026-04-19_Anthropic_Claude_Mythos_Security_Strategy.md",
+      "intended": "2026-04-19_Anthropic_Claude_Mythos_Security_Strategy.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-19_Anthropic_Claude_Mythos_Security_Strategy.md"
+    },
+    {
+      "current": "2026-04-19_AWS_Pearson_AI_Readiness_Education_Gap.md",
+      "intended": "2026-04-19_AWS_Pearson_AI_Readiness_Education_Gap.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-19_AWS_Pearson_AI_Readiness_Education_Gap.md"
+    },
+    {
+      "current": "2026-04-19_KR_National_AI_Action_Plan.md",
+      "intended": "2026-04-19_KR_National_AI_Action_Plan.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-19_KR_National_AI_Action_Plan.md"
+    },
+    {
+      "current": "2026-04-19_Lumen_AI_Network_Open_Letter.md",
+      "intended": "2026-04-19_Lumen_AI_Network_Open_Letter.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-19_Lumen_AI_Network_Open_Letter.md"
+    },
+    {
+      "current": "2026-04-19_Matt_Pocock_Claude_Code_Skills.md",
+      "intended": "2026-04-19_Matt_Pocock_Claude_Code_Skills.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-19_Matt_Pocock_Claude_Code_Skills.md"
+    },
+    {
+      "current": "2026-04-19_PwC_AI_Performance_Gap_Study.md",
+      "intended": "2026-04-19_PwC_AI_Performance_Gap_Study.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-19_PwC_AI_Performance_Gap_Study.md"
+    },
+    {
+      "current": "2026-04-19_Samsung_Edison_Awards_AI_Awards.md",
+      "intended": "2026-04-19_Samsung_Edison_Awards_AI_Awards.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-19_Samsung_Edison_Awards_AI_Awards.md"
+    },
+    {
+      "current": "2026-04-19_TSMC_Arizona_Investment_Expansion.md",
+      "intended": "2026-04-19_TSMC_Arizona_Investment_Expansion.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-19_TSMC_Arizona_Investment_Expansion.md"
+    },
+    {
+      "current": "2026-04-19_US_AI_Regulation_Fed_vs_State_Conflict.md",
+      "intended": "2026-04-19_US_AI_Regulation_Fed_vs_State_Conflict.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-19_US_AI_Regulation_Fed_vs_State_Conflict.md"
+    },
+    {
+      "current": "2026-04-19_US_Tech_AI_ROI_Anxiety_Analysis.md",
+      "intended": "2026-04-19_US_Tech_AI_ROI_Anxiety_Analysis.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-19_US_Tech_AI_ROI_Anxiety_Analysis.md"
+    },
+    {
+      "current": "2026-04-19_Zebra_Aiva_AI_Nurse_Assistant.md",
+      "intended": "2026-04-19_Zebra_Aiva_AI_Nurse_Assistant.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-19_Zebra_Aiva_AI_Nurse_Assistant.md"
+    },
+    {
+      "current": "2026-04-19_대한민국_인공지능_행동계획.md",
+      "intended": "📝 요약 대한민국 인공지능 행동계획(안).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-19_대한민국_인공지능_행동계획.md"
+    },
+    {
+      "current": "2026-04-20_Global_Macro_Snapshot.md",
+      "intended": "🌐 2026-04-20 글로벌 매크로 지표 스냅샷.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-20_Global_Macro_Snapshot.md"
+    },
+    {
+      "current": "2026-04-20_Market_Flow_Analysis.md",
+      "intended": "📝 2026-04-20 시장 자금 동향 분석 보안 SW 및 반도체 장비의 독주.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-20_Market_Flow_Analysis.md"
+    },
+    {
+      "current": "2026-04-20_Market_Recap.md",
+      "intended": "2026-04-20 주식 시장 데일리 리캡 (Double Brain).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-20_Market_Recap.md"
+    },
+    {
+      "current": "2026-04-20_Self_Host_Gemma_4_Cloud_Run.md",
+      "intended": "📝 요약 Cloud Run(GPU)에서 Gemma 4 셀프 호스팅하기.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-20_Self_Host_Gemma_4_Cloud_Run.md"
+    },
+    {
+      "current": "2026-04-20_Vibe_Coding_and_Solo_Business.md",
+      "intended": "📝 요약 바이브 코딩과 솔로 프리뉴어 비즈니스 모델.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\2026-04-20_Vibe_Coding_and_Solo_Business.md"
+    },
+    {
+      "current": "Agentic AI.md",
+      "intended": "Agentic AI (에이전틱 AI).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Agentic AI.md"
+    },
+    {
+      "current": "Agentic Coding.md",
+      "intended": "Agentic Coding.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Agentic Coding.md"
+    },
+    {
+      "current": "AI Magazine.md",
+      "intended": "AI Magazine.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\AI Magazine.md"
+    },
+    {
+      "current": "AI Readiness.md",
+      "intended": "AI Readiness (AI 준비도).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\AI Readiness.md"
+    },
+    {
+      "current": "AI 거버넌스.md",
+      "intended": "AI 거버넌스 (AI Governance).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\AI 거버넌스.md"
+    },
+    {
+      "current": "AI 도구 경쟁.md",
+      "intended": "AI 도구 경쟁.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\AI 도구 경쟁.md"
+    },
+    {
+      "current": "AI 디자인 자동화.md",
+      "intended": "AI 디자인 자동화.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\AI 디자인 자동화.md"
+    },
+    {
+      "current": "AI 바이오 혁신과 투자 기회.md",
+      "intended": "AI 바이오 혁신과 투자 기회.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\AI 바이오 혁신과 투자 기회.md"
+    },
+    {
+      "current": "AI 사이버보안.md",
+      "intended": "AI 사이버보안.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\AI 사이버보안.md"
+    },
+    {
+      "current": "AI 세컨드 브레인.md",
+      "intended": "AI 세컨드 브레인.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\AI 세컨드 브레인.md"
+    },
+    {
+      "current": "AI 스킬 자산화.md",
+      "intended": "AI 스킬 자산화.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\AI 스킬 자산화.md"
+    },
+    {
+      "current": "AI 양극화.md",
+      "intended": "AI 양극화 (AI Polarization).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\AI 양극화.md"
+    },
+    {
+      "current": "AI 워크플로우.md",
+      "intended": "AI 워크플로우.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\AI 워크플로우.md"
+    },
+    {
+      "current": "AI 윤리와 의식.md",
+      "intended": "AI 윤리와 의식.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\AI 윤리와 의식.md"
+    },
+    {
+      "current": "AI 인프라 레이스.md",
+      "intended": "AI 인프라 레이스.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\AI 인프라 레이스.md"
+    },
+    {
+      "current": "AI 자동화.md",
+      "intended": "AI 자동화.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\AI 자동화.md"
+    },
+    {
+      "current": "AI 투자 자동화.md",
+      "intended": "AI 투자 자동화.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\AI 투자 자동화.md"
+    },
+    {
+      "current": "AI 투자 팀.md",
+      "intended": "AI 투자 팀 (AI Trading Team).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\AI 투자 팀.md"
+    },
+    {
+      "current": "AI 트래픽.md",
+      "intended": "AI 트래픽 (AI Traffic).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\AI 트래픽.md"
+    },
+    {
+      "current": "AI 파일럿 트랩.md",
+      "intended": "AI 파일럿 트랩.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\AI 파일럿 트랩.md"
+    },
+    {
+      "current": "Aiva Health.md",
+      "intended": "Aiva Health.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Aiva Health.md"
+    },
+    {
+      "current": "AI의 공격·방어 비대칭성.md",
+      "intended": "AI의 공격·방어 비대칭성.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\AI의 공격·방어 비대칭성.md"
+    },
+    {
+      "current": "ANA (AI-powered Nurse Assistant).md",
+      "intended": "ANA (AI-powered Nurse Assistant).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\ANA (AI-powered Nurse Assistant).md"
+    },
+    {
+      "current": "Andrej Karpathy.md",
+      "intended": "Andrej Karpathy (안드레 카파시).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Andrej Karpathy.md"
+    },
+    {
+      "current": "Anthropic Labs.md",
+      "intended": "Anthropic Labs (앤스로픽 랩스).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Anthropic Labs.md"
+    },
+    {
+      "current": "Anthropic.md",
+      "intended": "Anthropic (앤트로픽).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Anthropic.md"
+    },
+    {
+      "current": "ANTIGRAVITY.md",
+      "intended": "wiki — AI가 컴파일하는 지식 위키.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\ANTIGRAVITY.md"
+    },
+    {
+      "current": "AWS.md",
+      "intended": "AWS (Amazon Web Services).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\AWS.md"
+    },
+    {
+      "current": "AX.md",
+      "intended": "AX (AI Transformation, AI 대전환).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\AX.md"
+    },
+    {
+      "current": "Bugmageddon.md",
+      "intended": "Bugmageddon (버그마겟돈).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Bugmageddon.md"
+    },
+    {
+      "current": "ChatGPT.md",
+      "intended": "ChatGPT.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\ChatGPT.md"
+    },
+    {
+      "current": "Claude 3.5 Sonnet.md",
+      "intended": "Claude 3.5 Sonnet.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Claude 3.5 Sonnet.md"
+    },
+    {
+      "current": "Claude Code.md",
+      "intended": "Claude Code.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Claude Code.md"
+    },
+    {
+      "current": "Claude Design.md",
+      "intended": "Claude Design (클로드 디자인).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Claude Design.md"
+    },
+    {
+      "current": "Claude Mythos.md",
+      "intended": "Claude Mythos (클로드 미소스).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Claude Mythos.md"
+    },
+    {
+      "current": "Claude Opus 4.7.md",
+      "intended": "Claude Opus 4.7.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Claude Opus 4.7.md"
+    },
+    {
+      "current": "Claude Projects.md",
+      "intended": "Claude Projects.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Claude Projects.md"
+    },
+    {
+      "current": "Claude 커스텀 인스트럭션.md",
+      "intended": "Claude 커스텀 인스트럭션 (Custom Instructions).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Claude 커스텀 인스트럭션.md"
+    },
+    {
+      "current": "Claude.md",
+      "intended": "Claude.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Claude.md"
+    },
+    {
+      "current": "dashboard.md",
+      "intended": "📊 위키 대시보드 (Dataview).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\dashboard.md"
+    },
+    {
+      "current": "Firecrawl.md",
+      "intended": "Firecrawl.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Firecrawl.md"
+    },
+    {
+      "current": "Gemini.md",
+      "intended": "Gemini.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Gemini.md"
+    },
+    {
+      "current": "Gemma 4.md",
+      "intended": "Gemma 4 (젬마 4).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Gemma 4.md"
+    },
+    {
+      "current": "Gemma.md",
+      "intended": "💎 Gemma.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Gemma.md"
+    },
+    {
+      "current": "Google DeepMind.md",
+      "intended": "Google DeepMind.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Google DeepMind.md"
+    },
+    {
+      "current": "GPT-Rosalind.md",
+      "intended": "GPT-Rosalind.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\GPT-Rosalind.md"
+    },
+    {
+      "current": "Graphify.md",
+      "intended": "Graphify.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Graphify.md"
+    },
+    {
+      "current": "Grill me (프롬프트 기법).md",
+      "intended": "Grill me (프롬프트 기법).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Grill me (프롬프트 기법).md"
+    },
+    {
+      "current": "HCI.md",
+      "intended": "HCI.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\HCI.md"
+    },
+    {
+      "current": "HD현대일렉트릭.md",
+      "intended": "HD현대일렉트릭 (HD Hyundai Electric).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\HD현대일렉트릭.md"
+    },
+    {
+      "current": "index.md",
+      "intended": "📚 위키 인덱스 (Wiki Index).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\index.md"
+    },
+    {
+      "current": "KOSDAQ 150.md",
+      "intended": "KOSDAQ 150.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\KOSDAQ 150.md"
+    },
+    {
+      "current": "KOSPI 200.md",
+      "intended": "KOSPI 200.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\KOSPI 200.md"
+    },
+    {
+      "current": "LLM Wiki 패턴.md",
+      "intended": "LLM Wiki 패턴.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\LLM Wiki 패턴.md"
+    },
+    {
+      "current": "LLM Wiki.md",
+      "intended": "LLM Wiki.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\LLM Wiki.md"
+    },
+    {
+      "current": "log.md",
+      "intended": "📝 위키 활동 로그 (Wiki Log).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\log.md"
+    },
+    {
+      "current": "LS일렉트릭.md",
+      "intended": "LS일렉트릭 (LS ELECTRIC).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\LS일렉트릭.md"
+    },
+    {
+      "current": "Lumen Technologies.md",
+      "intended": "Lumen Technologies.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Lumen Technologies.md"
+    },
+    {
+      "current": "Matt Pocock.md",
+      "intended": "👤 Matt Pocock.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Matt Pocock.md"
+    },
+    {
+      "current": "Meta Superintelligence Labs.md",
+      "intended": "Meta Superintelligence Labs (메타 초지능 연구소).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Meta Superintelligence Labs.md"
+    },
+    {
+      "current": "NVIDIA.md",
+      "intended": "NVIDIA.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\NVIDIA.md"
+    },
+    {
+      "current": "Obsidian.md",
+      "intended": "Obsidian.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Obsidian.md"
+    },
+    {
+      "current": "OpenAI.md",
+      "intended": "OpenAI.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\OpenAI.md"
+    },
+    {
+      "current": "OpenBSD.md",
+      "intended": "OpenBSD.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\OpenBSD.md"
+    },
+    {
+      "current": "Pearson.md",
+      "intended": "Pearson (피어슨).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Pearson.md"
+    },
+    {
+      "current": "Perplexity.md",
+      "intended": "Perplexity.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Perplexity.md"
+    },
+    {
+      "current": "Project Glasswing.md",
+      "intended": "Project Glasswing (프로젝트 글래스윙).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Project Glasswing.md"
+    },
+    {
+      "current": "RAG (Retrieval-Augmented Generation).md",
+      "intended": "RAG (Retrieval-Augmented Generation).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\RAG (Retrieval-Augmented Generation).md"
+    },
+    {
+      "current": "RAG vs LLM Wiki.md",
+      "intended": "RAG vs LLM Wiki.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\RAG vs LLM Wiki.md"
+    },
+    {
+      "current": "ROI Gap.md",
+      "intended": "ROI Gap (투자 대비 수익 격차).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\ROI Gap.md"
+    },
+    {
+      "current": "SIMA 2.md",
+      "intended": "SIMA 2 (Scalable Instruction-following Generalist Agent 2).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\SIMA 2.md"
+    },
+    {
+      "current": "SMR (Small Modular Reactor).md",
+      "intended": "SMR (Small Modular Reactor).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\SMR (Small Modular Reactor).md"
+    },
+    {
+      "current": "SMR.md",
+      "intended": "SMR.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\SMR.md"
+    },
+    {
+      "current": "Status_KR_Market_Structure_2026.md",
+      "intended": "Status_KR_Market_Structure_2026.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Status_KR_Market_Structure_2026.md"
+    },
+    {
+      "current": "Summary_AI_Infrastructure_and_Energy_2026.md",
+      "intended": "Summary_AI_Infrastructure_and_Energy_2026.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Summary_AI_Infrastructure_and_Energy_2026.md"
+    },
+    {
+      "current": "Summary_Claude_Projects_Guide.md",
+      "intended": "Summary_Claude_Projects_Guide.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Summary_Claude_Projects_Guide.md"
+    },
+    {
+      "current": "TDD.md",
+      "intended": "TDD (Test-Driven Development, 테스트 주도 개발).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\TDD.md"
+    },
+    {
+      "current": "The Rundown AI.md",
+      "intended": "The Rundown AI.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\The Rundown AI.md"
+    },
+    {
+      "current": "Trend_Market_Flow_2026-04-19.md",
+      "intended": "Trend_Market_Flow_2026-04-19.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Trend_Market_Flow_2026-04-19.md"
+    },
+    {
+      "current": "TSMC.md",
+      "intended": "TSMC.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\TSMC.md"
+    },
+    {
+      "current": "WSJ News.md",
+      "intended": "WSJ News.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\WSJ News.md"
+    },
+    {
+      "current": "Zebra Technologies.md",
+      "intended": "Zebra Technologies.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Zebra Technologies.md"
+    },
+    {
+      "current": "Zubair Trabzada.md",
+      "intended": "Zubair Trabzada.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\Zubair Trabzada.md"
+    },
+    {
+      "current": "개인지식관리 (PKM).md",
+      "intended": "개인지식관리 (PKM).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\개인지식관리 (PKM).md"
+    },
+    {
+      "current": "공간 지능화.md",
+      "intended": "공간 지능화 (Spatial Intelligence).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\공간 지능화.md"
+    },
+    {
+      "current": "국가인공지능전략위원회.md",
+      "intended": "국가인공지능전략위원회 (National AI Strategy Commission).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\국가인공지능전략위원회.md"
+    },
+    {
+      "current": "그린코끼리 AI.md",
+      "intended": "그린코끼리 AI.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\그린코끼리 AI.md"
+    },
+    {
+      "current": "기초 지식 관리.md",
+      "intended": "기초 지식 관리.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\기초 지식 관리.md"
+    },
+    {
+      "current": "대한민국 주식 시장 구조.md",
+      "intended": "대한민국 주식 시장 구조.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\대한민국 주식 시장 구조.md"
+    },
+    {
+      "current": "데이터센터 에너지 병목.md",
+      "intended": "물리적 한계 (Physical Limits).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\데이터센터 에너지 병목.md"
+    },
+    {
+      "current": "데이터센터 전력난.md",
+      "intended": "데이터센터 전력난.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\데이터센터 전력난.md"
+    },
+    {
+      "current": "디지털 동료.md",
+      "intended": "디지털 동료.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\디지털 동료.md"
+    },
+    {
+      "current": "디지털 신경계.md",
+      "intended": "디지털 신경계 (Digital Nervous System).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\디지털 신경계.md"
+    },
+    {
+      "current": "레거시 인프라 보안.md",
+      "intended": "레거시 인프라 보안.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\레거시 인프라 보안.md"
+    },
+    {
+      "current": "로사장.md",
+      "intended": "로사장.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\로사장.md"
+    },
+    {
+      "current": "멀티 에이전트 오케스트레이션.md",
+      "intended": "멀티 에이전트 오케스트레이션 (Multi-Agent Orchestration).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\멀티 에이전트 오케스트레이션.md"
+    },
+    {
+      "current": "문화적 부채.md",
+      "intended": "문화적 부채 (Cultural Debt).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\문화적 부채.md"
+    },
+    {
+      "current": "물리적 한계.md",
+      "intended": "물리적 한계 (Physical Limits).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\물리적 한계.md"
+    },
+    {
+      "current": "바이브_코딩.md",
+      "intended": "🎼 바이브 코딩 (Vibe Coding).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\바이브_코딩.md"
+    },
+    {
+      "current": "보안_소프트웨어.md",
+      "intended": "🛡️ 보안 소프트웨어 (Security Software).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\보안_소프트웨어.md"
+    },
+    {
+      "current": "비전 AI 컴패니언.md",
+      "intended": "비전 AI 컴패니언 (Vision AI Companion).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\비전 AI 컴패니언.md"
+    },
+    {
+      "current": "사이버 보안 트렌드 2026.md",
+      "intended": "사이버 보안 트렌드 2026.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\사이버 보안 트렌드 2026.md"
+    },
+    {
+      "current": "삼성전자.md",
+      "intended": "삼성전자 (Samsung Electronics).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\삼성전자.md"
+    },
+    {
+      "current": "세컨드 브레인.md",
+      "intended": "세컨드 브레인.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\세컨드 브레인.md"
+    },
+    {
+      "current": "섹터 분석 (Sector Analysis).md",
+      "intended": "섹터 분석 (Sector Analysis).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\섹터 분석 (Sector Analysis).md"
+    },
+    {
+      "current": "솔로_프리뉴어.md",
+      "intended": "🦸 솔로 프리뉴어 (Solopreneur).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\솔로_프리뉴어.md"
+    },
+    {
+      "current": "스마트 공정 (Smart Process).md",
+      "intended": "스마트 공정 (Smart Process).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\스마트 공정 (Smart Process).md"
+    },
+    {
+      "current": "시민개발자 구씨.md",
+      "intended": "시민개발자 구씨.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\시민개발자 구씨.md"
+    },
+    {
+      "current": "시장 주도 테마 히스토리.md",
+      "intended": "🌊 시장 주도 테마 히스토리.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\시장 주도 테마 히스토리.md"
+    },
+    {
+      "current": "에이전틱 AI 자율성 5단계.md",
+      "intended": "에이전틱 AI 자율성 5단계.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\에이전틱 AI 자율성 5단계.md"
+    },
+    {
+      "current": "와이제이링크.md",
+      "intended": "와이제이링크 (YJ Link).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\와이제이링크.md"
+    },
+    {
+      "current": "워크플로우 자동화.md",
+      "intended": "워크플로우 자동화.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\워크플로우 자동화.md"
+    },
+    {
+      "current": "위험 임계점 (Danger Threshold).md",
+      "intended": "위험 임계점 (Danger Threshold).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\위험 임계점 (Danger Threshold).md"
+    },
+    {
+      "current": "위험 임계점(Danger Threshold).md",
+      "intended": "위험 임계점(Danger Threshold).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\위험 임계점(Danger Threshold).md"
+    },
+    {
+      "current": "이수페타시스.md",
+      "intended": "🏢 이수페타시스 (ISU Petasys).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\이수페타시스.md"
+    },
+    {
+      "current": "자금 흐름 분석 (Money Flow Analysis).md",
+      "intended": "자금 흐름 분석 (Money Flow Analysis).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\자금 흐름 분석 (Money Flow Analysis).md"
+    },
+    {
+      "current": "자동화 투자 분석.md",
+      "intended": "자동화 투자 분석 (Automated Investment Analysis).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\자동화 투자 분석.md"
+    },
+    {
+      "current": "전력망 수퍼 사이클.md",
+      "intended": "전력망 수퍼 사이클.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\전력망 수퍼 사이클.md"
+    },
+    {
+      "current": "전용 전력망 전략.md",
+      "intended": "전용 전력망 전략.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\전용 전력망 전략.md"
+    },
+    {
+      "current": "제로데이 취약점.md",
+      "intended": "제로데이 취약점 (Zero-Day Vulnerability).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\제로데이 취약점.md"
+    },
+    {
+      "current": "주성엔지니어링.md",
+      "intended": "🏢 주성엔지니어링 (Jusung Engineering).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\주성엔지니어링.md"
+    },
+    {
+      "current": "지식 관리 (Knowledge Management).md",
+      "intended": "지식 관리 (Knowledge Management).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\지식 관리 (Knowledge Management).md"
+    },
+    {
+      "current": "지식 복리 (Knowledge Compounding).md",
+      "intended": "지식 복리 (Knowledge Compounding).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\지식 복리 (Knowledge Compounding).md"
+    },
+    {
+      "current": "최첨단 패키징.md",
+      "intended": "최첨단 패키징 (Advanced Packaging).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\최첨단 패키징.md"
+    },
+    {
+      "current": "컨텍스트 윈도우.md",
+      "intended": "컨텍스트 윈도우.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\컨텍스트 윈도우.md"
+    },
+    {
+      "current": "코드 기반 UI 생성.md",
+      "intended": "코드 기반 UI 생성.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\코드 기반 UI 생성.md"
+    },
+    {
+      "current": "코드 기반 디자인.md",
+      "intended": "코드 기반 디자인 (Code-based Design).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\코드 기반 디자인.md"
+    },
+    {
+      "current": "코드팩토리.md",
+      "intended": "코드팩토리.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\코드팩토리.md"
+    },
+    {
+      "current": "트럼프 행정부.md",
+      "intended": "트럼프 행정부 (Trump Administration).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\트럼프 행정부.md"
+    },
+    {
+      "current": "프롬프트 엔지니어링.md",
+      "intended": "프롬프트 엔지니어링.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\프롬프트 엔지니어링.md"
+    },
+    {
+      "current": "피지컬 AI.md",
+      "intended": "피지컬 AI (Physical AI).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\피지컬 AI.md"
+    },
+    {
+      "current": "하이브리드 양자-AI.md",
+      "intended": "하이브리드 양자-AI.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\하이브리드 양자-AI.md"
+    },
+    {
+      "current": "하이퍼스케일러.md",
+      "intended": "하이퍼스케일러 (Hyperscalers).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\하이퍼스케일러.md"
+    },
+    {
+      "current": "협업형 AI (Collaborative AI).md",
+      "intended": "협업형 AI (Collaborative AI).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\협업형 AI (Collaborative AI).md"
+    },
+    {
+      "current": "협업형 AI.md",
+      "intended": "협업형 AI (Collaborative AI).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\협업형 AI.md"
+    },
+    {
+      "current": "효성중공업.md",
+      "intended": "효성중공업 (Hyosung Heavy Industries).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\효성중공업.md"
+    },
+    {
+      "current": "휠 전략 (Wheel Strategy).md",
+      "intended": "휠 전략 (Wheel Strategy).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\wiki\\휠 전략 (Wheel Strategy).md"
+    }
+  ],
+  "root": [
+    {
+      "current": "ANTIGRAVITY.md",
+      "intended": "ANTIGRAVITY.md — AI를 위한 나의 설명서.md",
+      "full_path": "d:\\LLM Wiki DHCHO\\ANTIGRAVITY.md"
+    },
+    {
+      "current": "README.md",
+      "intended": "🧠 LLM Wiki DHCHO (나만의 AI 세컨드 브레인).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\README.md"
+    },
+    {
+      "current": "나의 핵심 맥락.md",
+      "intended": "나의 핵심 맥락 (My Core Context).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\나의 핵심 맥락.md"
+    },
+    {
+      "current": "업종별 뉴스 영향도 분석.md",
+      "intended": "📊 업종별 뉴스 영향도 분석 (Sector News Impact Intelligence).md",
+      "full_path": "d:\\LLM Wiki DHCHO\\업종별 뉴스 영향도 분석.md"
+    }
+  ]
+}
