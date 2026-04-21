@@ -40,7 +40,6 @@ def update_market_macro():
     tickers = {
         "USD/KRW": ("USDKRW=X", "yf"),
         "US 10Y Yield": ("^TNX", "yf"),
-        "KR 3Y Yield": ("KR3YT=RR", "yf"), # Yahoo에서도 가능
         "WTI (Oil)": ("CL=F", "yf"),
         "Copper": ("HG=F", "yf"),
         "VIX (Fear)": ("^VIX", "yf"),

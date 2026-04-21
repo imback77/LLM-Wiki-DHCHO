@@ -23,6 +23,7 @@ graphify-out/cost.json
 *.env
 .env
 secret/
+tools/config.json
 
 
 

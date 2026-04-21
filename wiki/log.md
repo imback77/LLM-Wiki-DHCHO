@@ -39,3 +39,7 @@ tags: ["auto-fixed"]
 - **결과**: 지식 노드 126개 돌파.
 
 [이후 로그 생략]
+| 2026-04-21 | Market | 주식 시장 데일리 리캡 | [Link](2026-04-21_Market_Recap.md) | 완료 |
+| 2026-04-21 | Market | 주식 시장 데일리 리캡 | [Link](2026-04-21_Market_Recap.md) | 완료 |
+| 2026-04-21 | Market | 주식 시장 데일리 리캡 | [Link](2026-04-21_Market_Recap.md) | 완료 |
+| 2026-04-21 | Market | 주식 시장 데일리 리캡 | [Link](2026-04-21_Market_Recap.md) | 완료 |

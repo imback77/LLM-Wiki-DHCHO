@@ -107,17 +107,17 @@ tags: ["auto-fixed"]
 | [[2026-04-16_Claude 프로젝트 생성 및 관리 가이드]] | raw/research · Anthropic 공식문서 | 2026-04-16 |
 | [[2026-04-16_Claude 스킬 구축 가이드]] | raw/courses · Gist (YangSiJun528) | 2026-04-16 |
 | [[2026-04-16_그린코끼리 AI 클로드 초보자 가이드]] | raw/videos · 그린코끼리 AI 유튜브 | 2026-04-16 |
-| [[2026-04-17_Anthropic_Claude_Opus_4.7_Mythos]] | raw/articles · Anthropic 공식 뉴스 | 2026-04-17 |
-| [[2026-04-17_OpenAI_GPT-Rosalind_Cyber]] | raw/articles · OpenAI 공식 뉴스 | 2026-04-17 |
-| [[2026-04-17_Google_DeepMind_Robotics_Philosopher]] | raw/articles · Google DeepMind 공식 뉴스 | 2026-04-17 |
+| [[raw/articles/2026-04-17_Anthropic_Claude_Opus_4.7_Mythos]] | raw/articles · Anthropic 공식 뉴스 | 2026-04-17 |
+| [[raw/articles/2026-04-17_OpenAI_GPT-Rosalind_Cyber]] | raw/articles · OpenAI 공식 뉴스 | 2026-04-17 |
+| [[raw/articles/2026-04-17_Google_DeepMind_Robotics_Philosopher]] | raw/articles · Google DeepMind 공식 뉴스 | 2026-04-17 |
 | [[2026-04-17_The_Rundown_AI_Briefs]] | raw/articles · The Rundown AI | 2026-04-17 |
 | [[2026-04-17_Claude Code Design just became UNSTOPPABLE]] | raw/videos · Jack Roberts 유튜브 | 2026-04-17 |
 | [[2026-04-17_Claude Just Changed the Stock Market Forever]] | raw/videos · Samin Yasar 유튜브 | 2026-04-17 |
-| [[2026-04-18_협업형 AI로의 전환]] | raw/articles · The Rundown AI | 2026-04-18 |
-| [[2026-04-18_AI 인프라와 물리적 한계]] | raw/articles · AI Magazine | 2026-04-18 |
-| [[2026-04-18_AI 도입에 따른 기업 양극화]] | raw/articles · WSJ News | 2026-04-18 |
+| [[raw/articles/2026-04-18_협업형 AI로의 전환]] | raw/articles · The Rundown AI | 2026-04-18 |
+| [[raw/articles/2026-04-18_AI 인프라와 물리적 한계]] | raw/articles · AI Magazine | 2026-04-18 |
+| [[raw/articles/2026-04-18_AI 도입에 따른 기업 양극화]] | raw/articles · WSJ News | 2026-04-18 |
 | [[2026-04-18_사이버 보안과 위험 임계점]] | raw/articles · Anthropic 공식 블로그 | 2026-04-18 |
-| [[2026-04-18_양자 컴퓨팅과 AI의 융합]] | raw/articles · Google DeepMind 블로그 | 2026-04-18 |
+| [[raw/articles/2026-04-18_양자 컴퓨팅과 AI의 융합]] | raw/articles · Google DeepMind 블로그 | 2026-04-18 |
 | [[2026-04-18_AI Trading Team with Claude Code]] | raw/videos · Zubair Trabzada 유튜브 | 2026-04-18 |
 | [[2026-04-18_클로드 디자인 튜토리얼]] | raw/videos · 코드팩토리 유튜브 | 2026-04-18 |
 | [[2026-04-18_클로드 생산성 극대화 방법]] | raw/videos · 로사장 유튜브 | 2026-04-18 |
