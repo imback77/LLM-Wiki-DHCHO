@@ -27,6 +27,6 @@ updated: 2026-04-20
 ---
 
 ## 🔗 연결된 지식
-- [[2026-04-20_Market_Flow_Analysis]]
+- [[2026-04-21_Market_Recap]]
 - [[NVIDIA]]
 - [[AI 인프라 레이스]]

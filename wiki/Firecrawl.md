@@ -17,4 +17,4 @@ tags: [웹스크래핑, 도구, MCP]
 
 ## 관련 문서
 - [[코드 기반 디자인]]
-- [[2026-04-17_Claude Code Design just became UNSTOPPABLE]]
+- [[2026-04-16_Claude Code Design just became UNSTOPPABLE]]

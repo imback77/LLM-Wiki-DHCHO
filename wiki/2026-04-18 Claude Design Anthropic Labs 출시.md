@@ -15,8 +15,8 @@ tags: ["anthropic", "design", "ai-tools"]
 4. **Claude Code 통합 연동(Handoff)**: 완성된 디자인을 단 하나의 명령어로 개발 환경(`Claude Code`)에 에셋 및 스타일시트 패키지 형태로 전송 가능.
 
 ## 언급된 엔티티 (Entities)
-- **[[Anthropic Labs]]**: Anthropic의 새로운 실험적 제품 및 연구를 담당하는 조직.
-- **[[Claude Design]]**: 시각적 결과물(프로토타입, 슬라이드 등)을 생성하는 신규 제품.
+- **[[Anthropic Labs (앤스로픽 랩스)]]**: Anthropic의 새로운 실험적 제품 및 연구를 담당하는 조직.
+- **[[Claude Design (클로드 디자인)]]**: 시각적 결과물(프로토타입, 슬라이드 등)을 생성하는 신규 제품.
 - **[[Claude Opus 4.7]]**: 본 제품을 구동하는 핵심 비전 AI 모델.
 - **[[Claude Code]]**: 디자인 결과물을 전달받아 실제 구현 및 배포를 담당하는 도구.
 - **Canva / PPTX**: 내보내기 및 마무리를 지원하는 외부 서비스.

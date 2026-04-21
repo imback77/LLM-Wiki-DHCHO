@@ -16,10 +16,10 @@ tags: ["company-type", "infrastructure", "cloud"]
 
 ## AI 시대의 역할
 - AI 학습 및 추론을 위한 핵심 전력 및 서버 인프라를 공급하는 '지주 회사' 역할을 수행.
-- 최근에는 막대한 [[CapEx]] 투입에 따른 [[ROI Gap]] 해소를 위해 자체적인 [[Agentic AI]] 서비스 개발에 박차를 가하고 있음.
+- 최근에는 막대한 [[Claude]] 투입에 따른 [[ROI Gap (투자 대비 수익 격차)]] 해소를 위해 자체적인 [[Agentic AI (에이전틱 AI)]] 서비스 개발에 박차를 가하고 있음.
 
 ## 관련 페이지
-- [[AWS]]
+- [[AWS (Amazon Web Services)]]
 - [[NVIDIA]]
-- [[ROI Gap]]
+- [[ROI Gap (투자 대비 수익 격차)]]
 - [[AI 인프라 레이스]]

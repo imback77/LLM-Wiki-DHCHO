@@ -1,3 +1,9 @@
+---
+type: doc
+created: 2026-04-16
+updated: 2026-04-21
+tags: [admin, guide, wiki-system]
+---
 # wiki/ — AI가 컴파일하는 지식 위키
 
 > 이 폴더는 AI가 소유하고 유지하는 공간입니다.

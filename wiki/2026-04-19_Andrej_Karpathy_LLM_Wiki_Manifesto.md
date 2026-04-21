@@ -2,7 +2,7 @@
 type: "summary"
 created: 2026-04-19
 updated: 2026-04-19
-sources: ["[[2026-04-19_Andrej_Karpathy_LLM_Wiki_원본_번역.md]]"]
+sources: ["[[2026-04-19_Andrej_Karpathy_LLM_Wiki_Manifesto]]"]
 tags: ["philosophy", "knowledge-management", "karpathy", "llm-wiki"]
 ---
 
@@ -27,4 +27,4 @@ tags: ["philosophy", "knowledge-management", "karpathy", "llm-wiki"]
 
 ## 후속 액션
 - [ ] 현재 위키 구조에서 '모순점 탐지' 및 '종합 페이지 자동 업데이트' 프로세스 강화.
-- [ ] AI 에이전트([[Antigravity]])가 단순 요약가가 아닌 '위키 프로그래머'로서 동작하도록 프롬프트 고도화.
+- [ ] AI 에이전트([[Graphify]])가 단순 요약가가 아닌 '위키 프로그래머'로서 동작하도록 프롬프트 고도화.

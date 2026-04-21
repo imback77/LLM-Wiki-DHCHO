@@ -10,7 +10,7 @@ url: "https://www.youtube.com/watch?v=cNlvrU-KcRg"
 
 # 요약 | 카파시의 LLM Wiki로 나만의 AI 세컨드 브레인 만들기
 
-> 출처: [[raw/videos/_카파시의 LLM Wiki...브레인 트리니티.md]]  
+> 출처: [[2026-04-16_카파시의 LLM Wiki로 나만의 AI 세컨드 브레인 만들기]]  
 > 채널: 브레인 트리니티 (Brain Trinity) | 게시: 2026-04-12
 
 ---

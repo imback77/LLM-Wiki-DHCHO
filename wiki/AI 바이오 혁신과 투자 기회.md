@@ -31,4 +31,4 @@ tags: [제약, 바이오, AI투자, 비즈니스기회]
 ## 관련 문서
 
 - [[GPT-Rosalind]]
-- [[wiki/2026-04-17_OpenAI_GPT-Rosalind_Cyber]]
+- [[2026-04-17_OpenAI_GPT-Rosalind_Cyber]]

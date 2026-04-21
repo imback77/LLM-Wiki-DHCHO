@@ -20,6 +20,6 @@ tags: ["architecture", "agentic-ai"]
 - [[에이전틱 AI 자율성 5단계]] 중 레벨 4로 진입하기 위한 핵심 기술.
 
 ## 관련 페이지
-- [[Agentic AI]]
+- [[Agentic AI (에이전틱 AI)]]
 - [[에이전틱 AI 자율성 5단계]]
 - [[AI 투자 팀]]

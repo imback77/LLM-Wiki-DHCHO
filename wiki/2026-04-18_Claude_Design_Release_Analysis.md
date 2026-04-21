@@ -2,20 +2,20 @@
 type: "summary"
 created: 2026-04-18
 updated: 2026-04-19
-sources: ["[[2026-04-18_Claude Design Anthropic Labs 출시.md]]"]
+sources: ["[[2026-04-18 Claude Design Anthropic Labs 출시]]"]
 tags: ["anthropic", "design", "ux/ui", "product-release"]
 ---
 
 # 2026-04-18_Claude_Design_Release_Analysis
 
 ## 핵심 주장
-- **통합 디자인 환경**: [[Anthropic Labs]]가 [[Claude Opus 4.7]] 비전 모델을 기반으로 기획부터 고퀄리티 시각 결과물까지 생성하는 [[Claude Design]]을 출시함.
+- **통합 디자인 환경**: [[Anthropic Labs (앤스로픽 랩스)]]가 [[Claude Opus 4.7]] 비전 모델을 기반으로 기획부터 고퀄리티 시각 결과물까지 생성하는 [[Claude Design (클로드 디자인)]]을 출시함.
 - **디자인 시스템 자동화**: 사용자의 기존 코드베이스와 디자인 파일을 스캔하여 팀만의 디자인 시스템을 스스로 학습하고 일관된 출력물을 생성함.
 - **완벽한 개발 생태계 통합**: 디자인한 결과물을 번들 패키지로 묶어 개발용 에이전트인 [[Claude Code]]에 단 한 번의 명령어로 넘겨주는 'Handoff' 기능이 핵심임.
 
 ## 언급된 엔티티
-- [[Claude Design]]: 앤스로픽의 시각화 및 프로토타입 전용 AI 제품.
-- [[Anthropic Labs]]: 앤스로픽 내에서 혁신적인 실험 모델과 제품을 출시하는 조직.
+- [[Claude Design (클로드 디자인)]]: 앤스로픽의 시각화 및 프로토타입 전용 AI 제품.
+- [[Anthropic Labs (앤스로픽 랩스)]]: 앤스로픽 내에서 혁신적인 실험 모델과 제품을 출시하는 조직.
 - [[Claude Opus 4.7]]: 현존 최고 수준의 성인 및 시각적 추론 능력을 갖춘 비언어 비전 모델.
 
 ## 다루는 개념
@@ -24,7 +24,7 @@ tags: ["anthropic", "design", "ux/ui", "product-release"]
 
 ## 후니님의 맥락 메모
 - 기획자나 1인 창업가에게 디자인과 개발의 경계를 무색하게 만드는 '파괴적 혁신'임.
-- 특히 내 위키 시스템에 기록된 '기획 초안'을 [[Claude Design]]에 던져서 즉각적인 대시보드 목업으로 시각화하고, 이를 [[Claude Code]]로 구현하는 'End-to-End' 워크플로우를 실현할 수 있음.
+- 특히 내 위키 시스템에 기록된 '기획 초안'을 [[Claude Design (클로드 디자인)]]에 던져서 즉각적인 대시보드 목업으로 시각화하고, 이를 [[Claude Code]]로 구현하는 'End-to-End' 워크플로우를 실현할 수 있음.
 
 ## 후속 액션
 - [ ] `claude.ai/design`에서 현재 위키의 인덱스 페이지를 기반으로 한 '지식 그래프 대시보드' 프로토타입 생성 실습.

@@ -2,7 +2,7 @@
 type: "summary"
 created: 2026-04-19
 updated: 2026-04-19
-sources: ["[[2026-04-19_Samsung_Edison_Awards_2026_AI_Innovations.md]]"]
+sources: ["[[2026-04-19_Samsung_Edison_Awards_AI_Awards]]"]
 tags: ["samsung", "awards", "hardware", "ai-interface"]
 ---
 
@@ -14,12 +14,12 @@ tags: ["samsung", "awards", "hardware", "ai-interface"]
 - **공간 지능화**: 하드웨어 가전을 넘어 AI가 통합 관리하는 스마트 모듈러 하우스 등을 통해 주거 환경 전체의 지능화를 꾀함.
 
 ## 언급된 엔티티
-- [[삼성전자]]: 글로벌 IT 기기 및 가전 선도 기업.
+- [[삼성전자 (Samsung Electronics)]]: 글로벌 IT 기기 및 가전 선도 기업.
 - **에디슨 어워드 (Edison Awards)**: '혁신의 오스카상'이라 불리는 세계적 권위의 발명상.
-- [[비전 AI 컴패니언]]: 생성형 AI가 결합된 삼성 TV의 차세대 대화형 인터페이스.
+- [[비전 AI 컴패니언 (Vision AI Companion)]]: 생성형 AI가 결합된 삼성 TV의 차세대 대화형 인터페이스.
 
 ## 다루는 개념
-- [[공간 지능화]]: 가전 개별 기능을 넘어 주거 공간 전체를 데이터로 연결하고 제어하는 시스템.
+- [[공간 지능화 (Spatial Intelligence)]]: 가전 개별 기능을 넘어 주거 공간 전체를 데이터로 연결하고 제어하는 시스템.
 - **생성형 AI 인터페이스**: 자연어 대화를 통해 기기를 조작하고 지식을 얻는 새로운 방식의 HMI(Human-Machine Interface).
 
 ## 후니님의 맥락 메모

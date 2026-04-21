@@ -12,12 +12,12 @@ tags: ["company", "electronics", "ai"]
 
 ## 주요 AI 제품군
 - **비스포크 AI (Bespoke AI)**: 세탁기, 건조기, 냉장고 등 가전에 AI를 적용하여 에너지 효율과 사용자 편의성을 극대화한 라인업.
-- [[비전 AI 컴패니언]]: 생성형 AI가 탑재된 TV 인터페이스.
+- [[비전 AI 컴패니언 (Vision AI Companion)]]: 생성형 AI가 탑재된 TV 인터페이스.
 
 ## 최근 성과
 - **2026 에디슨 어워드**: 4개 부문 수상 (스마트 모듈러 하우스, VAC, 시그니지 등).
 
 ## 관련 페이지
-- [[비전 AI 컴패니언]]
-- [[공간 지능화]]
-- [[Agentic AI]]
+- [[비전 AI 컴패니언 (Vision AI Companion)]]
+- [[공간 지능화 (Spatial Intelligence)]]
+- [[Agentic AI (에이전틱 AI)]]

@@ -2,7 +2,7 @@
 type: "summary"
 created: 2026-04-19
 updated: 2026-04-19
-sources: ["[[2026-04-19_AWS_Pearson_AI_Readiness_Report.md]]"]
+sources: ["[[2026-04-19_AWS_Pearson_AI_Readiness_Education_Gap]]"]
 tags: ["education", "aws", "pearson", "skills", "career"]
 ---
 
@@ -14,13 +14,13 @@ tags: ["education", "aws", "pearson", "skills", "career"]
 - **포트폴리오의 부상**: 학위 소지자와 AI 프로젝트 포트폴리오 소지자 간의 채용 선호도 격차가 4%포인트에 불과할 정도로 실무 능력이 중시됨.
 
 ## 언급된 엔티티
-- [[AWS]]: 클라우드 인프라 제공 및 AI 교육 프로그램 운영.
-- [[Pearson]]: 글로벌 교육 전문 기업, AI 역량 평가 및 교육 과정 개발.
+- [[AWS (Amazon Web Services)]]: 클라우드 인프라 제공 및 AI 교육 프로그램 운영.
+- [[Pearson (피어슨)]]: 글로벌 교육 전문 기업, AI 역량 평가 및 교육 과정 개발.
 
 ## 다루는 개념
-- [[AI Readiness]]: 개인이나 조직이 AI를 업무에 효과적으로 활용할 수 있는 준비 상태.
-- [[Skills Gap]]: 급변하는 기술 요구 사항과 실제 인력의 역량 사이의 괴리.
-- [[디지털 포트폴리오]]: 학위 대신 실제 AI 프로젝트 결과물로 증명하는 역량 인증 방식.
+- [[AI Readiness (AI 준비도)]]: 개인이나 조직이 AI를 업무에 효과적으로 활용할 수 있는 준비 상태.
+- [[Graphify]]: 급변하는 기술 요구 사항과 실제 인력의 역량 사이의 괴리.
+- [[디지털 동료]]: 학위 대신 실제 AI 프로젝트 결과물로 증명하는 역량 인증 방식.
 
 ## 후니님의 맥락 메모
 - 학벌보다 실질적인 'AI 활용 결과물'이 증명 수단이 되는 시대.

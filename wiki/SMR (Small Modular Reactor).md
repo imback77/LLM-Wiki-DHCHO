@@ -19,6 +19,6 @@ tags: ["energy", "next-gen-tech", "ai-infrastructure"]
 - 최근 빅테크(MS, 구글, 아마존)들이 SMR 기업들과 잇따라 전력 공급 계약(PPA)을 체결하며 [[AI 인프라 레이스]]의 핵심 변수로 작동 중.
 
 ## 관련 페이지
-- [[데이터센터 (Data Center)]]
+- [[데이터센터 전력난]]
 - [[AI 인프라 레이스]]
 - [[Summary_AI_Infrastructure_and_Energy_2026]]

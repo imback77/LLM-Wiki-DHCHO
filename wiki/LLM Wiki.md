@@ -16,7 +16,7 @@ tags: ["core-system", "ai-infrastructure", "architecture"]
 - **[[지식 복리 (Knowledge Compounding)]]**: 정보가 쌓일수록 위키의 답변 정확도와 통찰력이 기하급수적으로 향상됨.
 
 ## 현재 위키 상태
-- **사용 중인 도구**: [[Obsidian]], [[Claude Code]], [[Antigravity]] (에이전트).
+- **사용 중인 도구**: [[Obsidian]], [[Claude Code]], [[Graphify]] (에이전트).
 - **파일 구조**: `raw/` (수집), `wiki/` (축적), `scripts/` (자동화).
 
 ## 관련 페이지

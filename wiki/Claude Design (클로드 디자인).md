@@ -8,7 +8,7 @@ tags: ["product", "anthropic", "design", "ai"]
 # Claude Design (클로드 디자인)
 
 ## 개요
-[[Anthropic Labs]]에서 출시한 AI 기반 시각 디자인 및 프로토타이핑 툴로, [[Claude Opus 4.7]]의 강력한 비전 능력을 활용하여 대화만으로 전문적인 수준의 디자인 자산을 생성합니다.
+[[Anthropic Labs (앤스로픽 랩스)]]에서 출시한 AI 기반 시각 디자인 및 프로토타이핑 툴로, [[Claude Opus 4.7]]의 강력한 비전 능력을 활용하여 대화만으로 전문적인 수준의 디자인 자산을 생성합니다.
 
 ## 핵심 기능
 - **멀티 포맷 생성**: 웹 프로토타입, 프젠테이션 슬라이드, 제품 목업, 원페이지 기획서 등 다양한 시각 자료 제작.
@@ -23,6 +23,6 @@ tags: ["product", "anthropic", "design", "ai"]
 
 ## 관련 페이지
 - [[Claude Code]]
-- [[Anthropic Labs]]
+- [[Anthropic Labs (앤스로픽 랩스)]]
 - [[Claude Opus 4.7]]
 - [[2026-04-18_Claude_Design_Release_Analysis]]

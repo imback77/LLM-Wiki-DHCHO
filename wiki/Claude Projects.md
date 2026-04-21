@@ -20,6 +20,6 @@ Claude.ai에서 제공하는 작업 단위별 관리 시스템으로, 특정 주
 - **RAG 활용**: 문서가 많아지면 Claude가 자동으로 [[RAG (Retrieval-Augmented Generation)]] 시스템을 가동하여 대규모 문서를 처리함.
 
 ## 관련 페이지
-- [[Claude.ai]]
+- [[Claude]]
 - [[Summary_Claude_Projects_Guide]]
 - [[지식 복리 (Knowledge Compounding)]]

@@ -2,7 +2,7 @@
 type: "summary"
 created: 2026-04-19
 updated: 2026-04-19
-sources: ["[[2026-04-19_대한민국 인공지능 행동계획(안).md]]"]
+sources: ["[[2026-04-18_AI 인프라와 물리적 한계]]"]
 tags: ["korea", "policy", "national-strategy", "ax"]
 ---
 
@@ -18,8 +18,8 @@ tags: ["korea", "policy", "national-strategy", "ax"]
 - **국가 초지능 연구소 (가칭)**: 차세대 AI 기술(피지컬 AI, 휴머노이드 등)을 전담 연구하는 기관.
 
 ## 다루는 개념
-- [[AX]]: AI Transformation의 약자로, 단순 디지털화를 넘어 AI가 중심이 되는 산업 및 사회 구조의 대전환.
-- [[피지컬 AI]]: 가상 세계를 넘어 물리적 실체(로봇, 모빌리티 등)와 결합하여 행동하는 AI 기술.
+- [[AX (AI Transformation, AI 대전환)]]: AI Transformation의 약자로, 단순 디지털화를 넘어 AI가 중심이 되는 산업 및 사회 구조의 대전환.
+- [[피지컬 AI (Physical AI)]]: 가상 세계를 넘어 물리적 실체(로봇, 모빌리티 등)와 결합하여 행동하는 AI 기술.
 - **AI 고속도로 (AI Highway)**: 초고속 컴퓨팅 파워와 데이터 인프라를 국가적으로 연결하는 망.
 
 ## 후니님의 맥락 메모

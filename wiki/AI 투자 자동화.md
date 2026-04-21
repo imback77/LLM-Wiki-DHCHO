@@ -17,5 +17,5 @@ tags: [AI투자, 트레이딩봇, 퀀트]
 ---
 
 ## 관련 문서
-- [[2026-04-17_Claude Just Changed the Stock Market Forever]]
+- [[2026-04-16_Claude Just Changed the Stock Market Forever! (Tutorial)]]
 - [[휠 전략 (Wheel Strategy)]]

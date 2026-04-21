@@ -21,6 +21,6 @@ tags: ["robotics", "iot", "embodied-ai"]
 - **자율주행**: 실시간 도로 상황에 따라 차량의 물리적 경로를 제어.
 
 ## 관련 페이지
-- [[삼성전자]]
-- [[공간 지능화]]
+- [[삼성전자 (Samsung Electronics)]]
+- [[공간 지능화 (Spatial Intelligence)]]
 - [[국가인공지능전략위원회]]

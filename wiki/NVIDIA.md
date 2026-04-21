@@ -20,4 +20,4 @@ tags: ["company", "semiconductor", "gpu", "ai"]
 ## 관련 페이지
 - [[TSMC]]
 - [[AI 인프라 레이스]]
-- [[최첨단 패키징]]
+- [[최첨단 패키징 (Advanced Packaging)]]

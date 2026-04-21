@@ -20,4 +20,4 @@ tags: ["government", "politics", "usa"]
 
 ## 관련 페이지
 - [[AI 인프라 레이스]]
-- [[AI 거버넌스]]
+- [[AI 거버넌스 (AI Governance)]]

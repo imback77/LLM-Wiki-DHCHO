@@ -18,5 +18,5 @@ tags: [디자인, UI/UX, 개발자동화]
 ---
 
 ## 관련 문서
-- [[2026-04-17_Claude Code Design just became UNSTOPPABLE]]
+- [[2026-04-16_Claude Code Design just became UNSTOPPABLE]]
 - [[AI 스킬 자산화]]

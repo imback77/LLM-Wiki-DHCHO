@@ -18,10 +18,10 @@ tags: ["prompt-engineering", "communication", "best-practice"]
 ## 적용 사례 ([[Claude Code]])
 1. 사용자가 "새로운 로그인 시스템을 만들어줘"라고 함.
 2. AI가 "Grill me" 모드로 전환하여 다음을 질문함: "어떤 인증 프로토콜을 사용하나요? 소셜 로그인이 필요한가요? 세션 관리는 어떻게 하나요?"
-3. 답변이 완료된 후 AI가 완벽한 [[PRD]]를 작성함.
+3. 답변이 완료된 후 AI가 완벽한 [[SMR]]를 작성함.
 
 ## 관련 페이지
 - [[Claude Code]]
 - [[프롬프트 엔지니어링]]
-- [[PRD]]
+- [[SMR]]
 - [[2026-04-19_Matt_Pocock_Claude_Code_Skills]]

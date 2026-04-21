@@ -2,7 +2,7 @@
 type: "summary"
 created: 2026-04-19
 updated: 2026-04-19
-sources: ["[[2026-04-19_TSMC_Arizona_Expansion_AI_Chips.md]]"]
+sources: ["[[2026-04-19_TSMC_Arizona_Investment_Expansion]]"]
 tags: ["semiconductor", "tsmc", "nvidia", "investment", "geopolitics"]
 ---
 
@@ -19,9 +19,9 @@ tags: ["semiconductor", "tsmc", "nvidia", "investment", "geopolitics"]
 - **아리조나 (Arizona)**: 미국의 새로운 반도체 생산 허브로 부상 중인 지역.
 
 ## 다루는 개념
-- [[최첨단 패키징]]: 개별 칩을 수직/수평으로 쌓아 성능을 극대화하는 후공정 기술. AI 칩 성능의 핵심.
-- [[CoWoS]]: TSMC의 독자적인 2.5D 및 3D 패키징 기술 브랜드.
-- [[CHIPS Act]]: 미국 내 반도체 제조를 유도하기 위한 보조금 및 세제 혜택 법안.
+- [[최첨단 패키징 (Advanced Packaging)]]: 개별 칩을 수직/수평으로 쌓아 성능을 극대화하는 후공정 기술. AI 칩 성능의 핵심.
+- [[TCS]]: TSMC의 독자적인 2.5D 및 3D 패키징 기술 브랜드.
+- [[TCS]]: 미국 내 반도체 제조를 유도하기 위한 보조금 및 세제 혜택 법안.
 
 ## 후니님의 맥락 메모
 - 지정학적 리스크 분산과 미국 내 AI 공급망 완성을 위한 TSMC의 전략적 배팅.

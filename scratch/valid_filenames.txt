@@ -1,0 +1,206 @@
+﻿2026-04-15_'미소스'가 무서운 이유 27년 도안 숨어있던 문제의 탄로
+2026-04-16_AI가 소매 매장 전체를 운영하면 어떤 일이 벌어질까
+2026-04-16_Amazon CEO 앤디 재시의 AI 6가지 핵심 진실
+2026-04-16_Anthropic 장기이익신탁(LTBT), 노바티스 CEO 이사회 선임
+2026-04-16_Claude Code Design just became UNSTOPPABLE
+2026-04-16_Claude Code로 14분 만에 AI 트레이딩 팀 구축하기
+2026-04-16_Claude Just Changed the Stock Market Forever! (Tutorial)
+2026-04-16_Claude 스킬 구축 가이드 (Antigravity Claude Code)
+2026-04-16_Claude 프로젝트 생성 및 관리 가이드 (공식)
+2026-04-16_Gemma 4 동급 최강의 오픈소스 AI 모델
+2026-04-16_Meta Superintelligence Labs, 첫 번째 모델 출시
+2026-04-16_OpenAI GPT-5.4-Cyber, Mythos와 다른 길을 간다
+2026-04-16_OpenAI GPT-5.4-Cyber의 전략 미소스와 다른 길
+2026-04-16_OpenAI, 영국 런던에서 대규모 사업 확장
+2026-04-16_Perplexity, 검색엔진에서 AI 에이전트 플랫폼으로 피벗
+2026-04-16_Project Glasswing Anthropic 주도 소프트웨어 보안 대연합
+2026-04-16_SIMA 2 게임 속에서 인간과 함께 추론하고 배우는 AI 에이전트
+2026-04-16_미소스(Claude Mythos)가 무서운 이유 AI와 사이버보안의 새 국면
+2026-04-16_시민개발자 구씨 LLM Wiki GitHub Repo
+2026-04-16_시민개발자 구씨의 클로드코드 LLM Wiki 가이드
+2026-04-16_아마존 CEO 앤디재시의 AI 6가지 핵심 진실
+2026-04-16_카파시의 LLM Wiki로 나만의 AI 세컨드 브레인 만들기
+2026-04-16_클로드 실전 가이드 (초보용)
+2026-04-16_클로드 초보자 가이드 2026 (그린코끼리 AI)
+2026-04-17_Anthropic_Claude_Opus_4.7_Mythos
+2026-04-17_Google_DeepMind_Robotics_Philosopher
+2026-04-17_OpenAI_GPT-Rosalind_Cyber
+2026-04-17_The_Rundown_AI_Briefs
+2026-04-18 Claude Design Anthropic Labs 출시
+2026-04-18_AI 도입에 따른 기업 양극화
+2026-04-18_AI 인프라와 물리적 한계
+2026-04-18_AI 전력 공급 가능성 충격 (Power Availability Shock)
+2026-04-18_Claude_Design_Release_Analysis
+2026-04-18_KR_Power_Grid_Stocks_Analysis
+2026-04-18_사이버 보안과 '위험 임계점' Project Glasswing 출범
+2026-04-18_사이버 보안과 위험 임계점
+2026-04-18_양자 컴퓨팅과 AI의 융합
+2026-04-18_클로드 디자인 자동화 튜토리얼 (코드팩토리)
+2026-04-18_클로드로 업무 생산성 20배 올리기 (로사장)
+2026-04-18_협업형 AI로의 전환
+2026-04-19_Agentic_AI_Autonomy_Levels_Analysis
+2026-04-19_Andrej_Karpathy_LLM_Wiki_Manifesto
+2026-04-19_Anthropic_Claude_Mythos_Security_Strategy
+2026-04-19_AWS_Pearson_AI_Readiness_Education_Gap
+2026-04-19_KR_National_AI_Action_Plan
+2026-04-19_Lumen_AI_Network_Open_Letter
+2026-04-19_Matt_Pocock_Claude_Code_Skills
+2026-04-19_PwC_AI_Performance_Gap_Study
+2026-04-19_Samsung_Edison_Awards_AI_Awards
+2026-04-19_TSMC_Arizona_Investment_Expansion
+2026-04-19_US_AI_Regulation_Fed_vs_State_Conflict
+2026-04-19_US_Tech_AI_ROI_Anxiety_Analysis
+2026-04-19_Zebra_Aiva_AI_Nurse_Assistant
+2026-04-20_글로벌 매크로 지표 스냅샷
+2026-04-20_바이브 코딩과 솔로 프리뉴어 비즈니스 모델
+2026-04-20_시장 자금 동향 분석 보안 SW 및 반도체 장비의 독주
+2026-04-21_Market_Recap
+2026-04-21_구글_제미나이_인_크롬_국내_출시_분석
+2026-04-21_네이버_인도_TCS_전략적_파트너십_분석
+Agentic AI (에이전틱 AI)
+Agentic Coding
+AI Magazine
+AI Readiness (AI 준비도)
+AI 거버넌스 (AI Governance)
+AI 도구 경쟁
+AI 디자인 자동화
+AI 바이오 혁신과 투자 기회
+AI 사이버보안
+AI 세컨드 브레인
+AI 스킬 자산화
+AI 양극화 (AI Polarization)
+AI 워크플로우
+AI 윤리와 의식
+AI 인프라 레이스
+AI 인프라 전력망 수혜주
+AI 자동화
+AI 투자 자동화
+AI 투자 팀 (AI Trading Team)
+AI 투자 팀
+AI 트래픽 (AI Traffic)
+AI 파일럿 트랩
+Aiva Health
+AI의 공격 방어 비대칭성
+AI의 공격·방어 비대칭성
+ANA (AI-powered Nurse Assistant)
+Andrej Karpathy
+Anthropic (앤트로픽)
+Anthropic Labs (앤스로픽 랩스)
+Anthropic
+AWS (Amazon Web Services)
+AX (AI Transformation, AI 대전환)
+Bugmageddon (버그마겟돈)
+ChatGPT
+Chrome
+Claude 3.5 Sonnet
+Claude Code
+Claude Design (클로드 디자인)
+Claude Mythos (클로드 미소스)
+Claude Mythos
+Claude Opus 4.7
+Claude Projects
+Claude 커스텀 인스트럭션 (Custom Instructions)
+Claude
+Firecrawl
+Gemini
+Gemma 4 (젬마 4)
+Gemma
+Google DeepMind
+GPT-Rosalind
+Graphify
+Grill me (프롬프트 기법)
+HCI
+HD현대일렉트릭 (HD Hyundai Electric)
+index
+KOSDAQ 150
+KOSPI 200
+LLM Wiki 패턴
+LLM Wiki
+log
+LS일렉트릭 (LS ELECTRIC)
+Lumen Technologies
+Matt Pocock
+Meta Superintelligence Labs (메타 초지능 연구소)
+NVIDIA
+Obsidian
+OpenAI
+OpenBSD
+Pearson (피어슨)
+Perplexity
+Project Glasswing (프로젝트 글래스윙)
+RAG (Retrieval-Augmented Generation)
+RAG vs LLM Wiki
+ROI Gap (투자 대비 수익 격차)
+SIMA 2 (Scalable Instruction-following Generalist Agent 2)
+SMR (Small Modular Reactor)
+SMR
+Status_KR_Market_Structure_2026
+Summary_AI_Infrastructure_and_Energy_2026
+Summary_Claude_Projects_Guide
+TCS
+TDD (Test-Driven Development, 테스트 주도 개발)
+The Rundown AI
+Trend_Market_Flow_2026-04-19
+TSMC
+wiki AI가 컴파일하는 지식 위키
+WSJ News
+Zebra Technologies
+Zubair Trabzada
+개인지식관리 (PKM)
+공간 지능화 (Spatial Intelligence)
+그린코끼리 AI
+기초 지식 관리
+나노_바나나_2
+네이버
+대한민국 주식 시장 구조
+데이터센터 전력난
+디지털 동료
+디지털 신경계 (Digital Nervous System)
+레거시 인프라 보안
+로사장
+멀티 에이전트 오케스트레이션 (Multi-Agent Orchestration)
+문화적 부채 (Cultural Debt)
+물리적 한계 (Physical Limits)
+물리적 한계 (Physical Limits)_1
+바이브 코딩 (Vibe Coding)
+보안 소프트웨어 (Security Software)
+비전 AI 컴패니언 (Vision AI Companion)
+사이버 보안 트렌드 2026
+삼성전자 (Samsung Electronics)
+세컨드 브레인
+섹터 분석 (Sector Analysis)
+솔로 프리뉴어 (Solopreneur)
+스마트 공정 (Smart Process)
+시민개발자 구씨
+에이전틱 AI 자율성 5단계
+와이제이링크 (YJ Link)
+워크플로우 자동화
+위키 대시보드 (Dataview)
+위험 임계점 (Danger Threshold)
+위험 임계점(Danger Threshold)
+이수페타시스 (ISU Petasys)
+자금 흐름 분석 (Money Flow Analysis)
+자동화 투자 분석 (Automated Investment Analysis)
+자동화 투자 분석
+전력망 수퍼 사이클
+전용 전력망 전략
+제로데이 취약점 (Zero-Day Vulnerability)
+제로데이 취약점
+주성엔지니어링 (Jusung Engineering)
+지식 관리 (Knowledge Management)
+지식 복리 (Knowledge Compounding)
+최첨단 패키징 (Advanced Packaging)
+컨텍스트 윈도우
+코드 기반 UI 생성
+코드 기반 디자인 (Code-based Design)
+코드 기반 디자인
+코드팩토리
+트럼프 행정부 (Trump Administration)
+프롬프트 엔지니어링
+피지컬 AI (Physical AI)
+하이브리드 양자-AI
+하이퍼스케일러 (Hyperscalers)
+협업형 AI (Collaborative AI)
+협업형 AI (Collaborative AI)_1
+효성중공업 (Hyosung Heavy Industries)
+휠 전략 (Wheel Strategy)

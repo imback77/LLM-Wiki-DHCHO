@@ -21,5 +21,5 @@ tags: [옵션거래, 주식전략, 휠전략]
 ---
 
 ## 관련 문서
-- [[2026-04-17_Claude Just Changed the Stock Market Forever]]
+- [[2026-04-16_Claude Just Changed the Stock Market Forever! (Tutorial)]]
 - [[AI 투자 자동화]]

@@ -27,7 +27,7 @@ updated: 2026-04-20
 ---
 
 ## 🔗 연결된 지식
-- [[1인 기업]]
-- [[바이브_코딩]]
+- [[2026-04-16_카파시의 LLM Wiki로 나만의 AI 세컨드 브레인 만들기]]
+- [[바이브 코딩 (Vibe Coding)]]
 - [[AI 자동화]]
-- [[2026-04-20_Vibe_Coding_and_Solo_Business]]
+- [[2026-04-17_The_Rundown_AI_Briefs]]

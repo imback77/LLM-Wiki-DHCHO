@@ -20,6 +20,6 @@ tags: ["요약", "앤트 로픽", "Glasswing", "AI안전", "미소스5"]
 
 ## 연결된 지식
 - [[Claude Mythos]]
-- [[Project Glasswing]]
+- [[Project Glasswing (프로젝트 글래스윙)]]
 - [[위험 임계점 (Danger Threshold)]]
 - [[사이버 보안 트렌드 2026]]

@@ -2,7 +2,7 @@
 type: "summary"
 created: 2026-04-19
 updated: 2026-04-19
-sources: ["[[2026-04-19_AI_Regulation_Trump_vs_Florida_Special_Session.md]]"]
+sources: ["[[2026-04-19_US_AI_Regulation_Fed_vs_State_Conflict]]"]
 tags: ["policy", "regulation", "politics", "usa"]
 ---
 
@@ -14,12 +14,12 @@ tags: ["policy", "regulation", "politics", "usa"]
 - **이중 규제 부담**: 주마다 다른 보안 표준이 입법되면서 AI 기업, 특히 스타트업들의 규제 대응 비용이 급증하고 성장이 둔화될 우려가 있음.
 
 ## 언급된 엔티티
-- [[트럼프 행정부]]: 기술 혁신 자율성 보장을 위한 탈규제 기조를 유지하는 미국 중앙 정부.
+- [[트럼프 행정부 (Trump Administration)]]: 기술 혁신 자율성 보장을 위한 탈규제 기조를 유지하는 미국 중앙 정부.
 - **론 디샌티스 (Ron DeSantis)**: 딥페이크 및 선거 보안 강화를 위해 독자적 법 제정을 추진 중인 플로리다 주지사.
 - **미 법무부 (DOJ)**: 주 정부의 규제권 남용 여부를 검토하기 위해 'AI 소송 태스크포스'를 구성함.
 
 ## 다루는 개념
-- [[AI 거버넌스]]: AI의 개발 및 활용을 규율하는 법적, 윤리적 관리 체계.
+- [[AI 거버넌스 (AI Governance)]]: AI의 개발 및 활용을 규율하는 법적, 윤리적 관리 체계.
 - **연방 우위 원칙 (Federal Preemption)**: 연방법이 주법보다 우선한다는 헌법적 원칙.
 - **기술 패권**: 중국 등 경쟁국과의 우위를 점하기 위한 국가적 차원의 AI 전략.
 

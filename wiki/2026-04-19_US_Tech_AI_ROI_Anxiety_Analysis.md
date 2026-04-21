@@ -2,7 +2,7 @@
 type: "summary"
 created: 2026-04-19
 updated: 2026-04-19
-sources: ["[[2026-04-19_US_Tech_AI_Infrastructure_ROI_Anxiety.md]]"]
+sources: ["[[2026-04-19_US_Tech_AI_ROI_Anxiety_Analysis]]"]
 tags: ["investment", "big-tech", "roi", "economics"]
 ---
 
@@ -17,8 +17,8 @@ tags: ["investment", "big-tech", "roi", "economics"]
 - **하이퍼스케일러 (Hyperscalers)**: 구글, 아마존, 메타, 마이크로소프트 등 대규모 클라우드 및 AI 인프라를 운영하는 기업군.
 
 ## 다루는 개념
-- [[ROI Gap]]: 투자 비용과 실제 창출된 수익 사이의 심각한 불균형 상태.
-- [[CapEx]] (자본 지출): 미래의 수익을 위해 현재 투자하는 대규모 인프라 비용.
+- [[ROI Gap (투자 대비 수익 격차)]]: 투자 비용과 실제 창출된 수익 사이의 심각한 불균형 상태.
+- [[Claude]] (자본 지출): 미래의 수익을 위해 현재 투자하는 대규모 인프라 비용.
 - [[실적 증명]]: 기술의 가능성을 넘어 실제 재무제표상의 숫자로 성과를 보여주는 것.
 
 ## 후니님의 맥락 메모

@@ -17,4 +17,4 @@ tags: ["company", "korea", "power-grid", "hyosung"]
 ## 관련 페이지
 - [[AI 인프라 레이스]]
 - [[데이터센터 전력난]]
-- [[LS일렉트릭]]
+- [[LS일렉트릭 (LS ELECTRIC)]]

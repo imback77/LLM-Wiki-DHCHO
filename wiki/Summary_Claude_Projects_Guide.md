@@ -2,7 +2,7 @@
 type: "summary"
 created: 2026-04-19
 updated: 2026-04-19
-sources: ["[[2026-04-16_프로젝트를 어떻게 생성하고 관리할 수 있나요.md]]"]
+sources: ["[[2026-04-16_Claude 프로젝트 생성 및 관리 가이드 (공식)]]"]
 tags: ["claude", "productivity", "guide", "ai-management"]
 ---
 
@@ -22,5 +22,5 @@ tags: ["claude", "productivity", "guide", "ai-management"]
 ## 관련 페이지
 - [[Claude Projects]]
 - [[RAG (Retrieval-Augmented Generation)]]
-- [[Claude.ai]]
+- [[Claude]]
 - [[지식 복리 (Knowledge Compounding)]]

@@ -19,6 +19,6 @@ Taiwan Semiconductor Manufacturing Company. 세계 최대의 독립 반도체 �
 
 ## 관련 페이지
 - [[NVIDIA]]
-- [[최첨단 패키징]]
+- [[최첨단 패키징 (Advanced Packaging)]]
 - [[AI 인프라 레이스]]
-- [[CHIPS Act]]
+- [[TCS]]

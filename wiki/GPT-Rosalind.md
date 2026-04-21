@@ -22,4 +22,4 @@ tags: [AI모델, OpenAI, 생명과학, 신약개발]
 ## 관련 문서
 
 - [[AI 바이오 혁신과 투자 기회]]
-- [[wiki/2026-04-17_OpenAI_GPT-Rosalind_Cyber]]
+- [[2026-04-17_OpenAI_GPT-Rosalind_Cyber]]

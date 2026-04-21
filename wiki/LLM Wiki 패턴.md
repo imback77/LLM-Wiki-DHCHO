@@ -47,7 +47,7 @@ LLM Wiki의 차별점:
 ## 관련 도구 (후니님 세팅)
 
 - [[Obsidian]] — IDE (위키를 브라우징하는 공간)
-- [[ANTIGRAVITY]] — LLM (프로그래머 역할, Claude Code 대체)
+- [[NVIDIA]] — LLM (프로그래머 역할, Claude Code 대체)
 - [[Graphify]] — 그래프 시각화 (예정)
 
 ---
@@ -57,5 +57,5 @@ LLM Wiki의 차별점:
 - [[AI 세컨드 브레인]]
 - [[개인지식관리 (PKM)]]
 - [[Andrej Karpathy]]
-- [[2026-04-19_Andrej_Karpathy_LLM_Wiki_원본_번역]]
+- [[2026-04-19_Andrej_Karpathy_LLM_Wiki_Manifesto]]
 - [[2026-04-16_카파시의 LLM Wiki로 나만의 AI 세컨드 브레인 만들기]]

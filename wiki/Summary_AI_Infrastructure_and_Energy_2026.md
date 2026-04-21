@@ -2,7 +2,7 @@
 type: "summary"
 created: 2026-04-19
 updated: 2026-04-19
-sources: ["[[2026-04-18_AI_활용_현황.md]]"]
+sources: ["[[2026-04-18_협업형 AI로의 전환]]"]
 tags: ["energy", "ai-infrastructure", "smr", "sustainability"]
 ---
 
@@ -19,6 +19,6 @@ tags: ["energy", "ai-infrastructure", "smr", "sustainability"]
 
 ## 관련 페이지
 - [[SMR (Small Modular Reactor)]]
-- [[데이터센터 (Data Center)]]
+- [[데이터센터 전력난]]
 - [[AI 인프라 레이스]]
-- [[HD현대일렉트릭]] (전력 인프라 관련주)
+- [[HD현대일렉트릭 (HD Hyundai Electric)]] (전력 인프라 관련주)

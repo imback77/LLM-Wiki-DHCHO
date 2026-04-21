@@ -25,4 +25,4 @@ tags: [AI윤리, 기계의식, 철학, AGI]
 ## 관련 문서
 
 - [[Google DeepMind]]
-- [[wiki/2026-04-17_Google_DeepMind_Robotics_Philosopher]]
+- [[2026-04-17_Google_DeepMind_Robotics_Philosopher]]

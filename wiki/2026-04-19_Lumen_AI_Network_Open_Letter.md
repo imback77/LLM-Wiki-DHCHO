@@ -2,7 +2,7 @@
 type: "summary"
 created: 2026-04-19
 updated: 2026-04-19
-sources: ["[[2026-04-19_Lumen_Technologies_CEO_Open_Letter_AI_Agents.md]]"]
+sources: ["[[2026-04-19_Lumen_AI_Network_Open_Letter]]"]
 tags: ["infrastructure", "network", "ai-agents", "policy"]
 ---
 
@@ -15,13 +15,13 @@ tags: ["infrastructure", "network", "ai-agents", "policy"]
 
 ## 언급된 엔티티
 - [[Lumen Technologies]]: 네트워크 및 인프라 솔루션 기업.
-- [[Kate Johnson]]: Lumen의 CEO, AI 인프라 혁신을 주도.
-- [[Palantir]]: 실시간 네트워크 보안 및 위협 감지를 위해 Lumen과 협력 중인 AI 기업.
+- [[Matt Pocock]]: Lumen의 CEO, AI 인프라 혁신을 주도.
+- [[GPT-Rosalind]]: 실시간 네트워크 보안 및 위협 감지를 위해 Lumen과 협력 중인 AI 기업.
 
 ## 다루는 개념
-- [[AI 트래픽]]: 인간이 아닌 AI 에이전트 및 자동화 툴에 의해 생성되는 데이터 흐름.
-- [[디지털 신경계]]: AI 수요에 맞게 실시간으로 확장/축소되는 유연한 네트워크 모델.
-- [[에이전틱 경제]]: AI 에이전트가 경제 활동의 주역이 되는 새로운 경제 생태계.
+- [[AI 트래픽 (AI Traffic)]]: 인간이 아닌 AI 에이전트 및 자동화 툴에 의해 생성되는 데이터 흐름.
+- [[디지털 동료]]: AI 수요에 맞게 실시간으로 확장/축소되는 유연한 네트워크 모델.
+- [[에이전틱 AI 자율성 5단계]]: AI 에이전트가 경제 활동의 주역이 되는 새로운 경제 생태계.
 
 ## 후니님의 맥락 메모
 - 인프라 싸움이 칩(GPU)에서 전력으로, 이제는 데이터를 운반하는 '네트워크'의 유연성으로 확장되고 있음.

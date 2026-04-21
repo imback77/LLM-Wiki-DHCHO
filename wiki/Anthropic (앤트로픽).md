@@ -15,9 +15,9 @@ Google, Amazon 등의 투자를 받은 AI 안전 및 연구 중심 기업으로,
 - **[[Claude Mythos]]**: 파괴적인 보안 역량을 갖춘 프런티어 모델.
 
 ## 최근 동향
-- **2026-04-19**: [[Claude Mythos]]의 강력한 자율 해킹 능력에 따른 위험을 제기하며 대중 공개를 보류하고, 글로벌 테크 기업들과 [[Project Glasswing]] 연합을 주도하여 방어용 AI 생태계 구축에 집중함.
+- **2026-04-19**: [[Claude Mythos]]의 강력한 자율 해킹 능력에 따른 위험을 제기하며 대중 공개를 보류하고, 글로벌 테크 기업들과 [[Project Glasswing (프로젝트 글래스윙)]] 연합을 주도하여 방어용 AI 생태계 구축에 집중함.
 
 ## 관련 페이지
 - [[Claude Mythos]]
-- [[Project Glasswing]]
+- [[Project Glasswing (프로젝트 글래스윙)]]
 - [[Claude 3.5 Sonnet]]

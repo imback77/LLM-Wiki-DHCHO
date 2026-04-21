@@ -15,9 +15,9 @@ tags: ["infrastructure", "ai-term"]
 - **실시간 적응성**: AI 봇에 의한 트래픽 폭증 시 즉각적으로 경로를 최적화함.
 
 ## 제창자 및 추진 기업
-- [[Lumen Technologies]]의 CEO [[Kate Johnson]]이 AI 에이전트 시대를 위한 필수 인프라 모델로 강조함.
+- [[Lumen Technologies]]의 CEO [[Matt Pocock]]이 AI 에이전트 시대를 위한 필수 인프라 모델로 강조함.
 
 ## 관련 페이지
 - [[Lumen Technologies]]
-- [[AI 트래픽]]
-- [[에이전틱 AI]]
+- [[AI 트래픽 (AI Traffic)]]
+- [[에이전틱 AI 자율성 5단계]]

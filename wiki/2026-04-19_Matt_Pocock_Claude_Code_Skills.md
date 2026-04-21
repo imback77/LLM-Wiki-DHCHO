@@ -2,7 +2,7 @@
 type: "summary"
 created: 2026-04-19
 updated: 2026-04-19
-sources: ["[[2026-04-19_5 Claude Code skills I use every single day_Matt Pocock.md]]"]
+sources: ["[[2026-04-16_Claude Code Design just became UNSTOPPABLE]]"]
 tags: ["claude-code", "developer-productivity", "prompt-engineering", "workflow"]
 ---
 
@@ -24,10 +24,10 @@ tags: ["claude-code", "developer-productivity", "prompt-engineering", "workflow"
 ## 다루는 개념
 - [[Grill me (프롬프트 기법)]]: AI에게 정보를 주는 대신, AI가 정보를 캐내도록 만드는 역발상 기법.
 - **수직적 슬라이스 (Vertical Slices)**: 사용자에게 가치를 줄 수 있는 최소 단위의 기능을 끝까지(DB부터 UI까지) 구현하는 방식.
-- [[TDD]] (테스트 주도 개발): AI 에이전트의 환각을 방지하고 코드 품질을 보장하는 핵심 장치.
+- [[TDD (Test-Driven Development, 테스트 주도 개발)]] (테스트 주도 개발): AI 에이전트의 환각을 방지하고 코드 품질을 보장하는 핵심 장치.
 
 ## 후니님의 맥락 메모
-- "Grill me" 기법은 위키의 '지식 인제스트' 과정에도 적용 가능함. 내가 정보를 던져주기만 하는 게 아니라, AI가 내 위키의 맥락에 맞게 "이 지식은 [[Agentic AI]]와 어떤 관계인가요?"라고 질문하게 함으로써 지식의 밀도를 높일 수 있음.
+- "Grill me" 기법은 위키의 '지식 인제스트' 과정에도 적용 가능함. 내가 정보를 던져주기만 하는 게 아니라, AI가 내 위키의 맥락에 맞게 "이 지식은 [[Agentic AI (에이전틱 AI)]]와 어떤 관계인가요?"라고 질문하게 함으로써 지식의 밀도를 높일 수 있음.
 - 복잡한 프로젝트를 작은 이슈로 쪼개는 것은 AI 에이전트가 긴 컨텍스트에서 길을 잃지 않게 하는 가장 실질적인 방법임.
 
 ## 후속 액션

@@ -2,7 +2,7 @@
 type: "summary"
 created: 2026-04-19
 updated: 2026-04-19
-sources: ["[[2026-04-19_Zebra_Technologies_Aiva_Health_AI_Nurse_Assistant.md]]"]
+sources: ["[[2026-04-19_Zebra_Aiva_AI_Nurse_Assistant]]"]
 tags: ["healthcare", "agentic-ai", "partnership"]
 ---
 
@@ -11,7 +11,7 @@ tags: ["healthcare", "agentic-ai", "partnership"]
 ## 핵심 주장
 - **핸즈프리 워크플로우**: [[Zebra Technologies]]와 [[Aiva Health]]는 음성 기반 AI 간호 보조원([[ANA (AI-powered Nurse Assistant)]])을 의료용 장비에 통합하여 핸즈프리 간호 환경을 구축함.
 - **행정 부담 경감**: 간호사들이 복잡한 메뉴 조작 없이 음성 명령만으로 호출 응답, 협업, 기록 작성을 수행하게 하여 환자 케어 집중도를 높임.
-- **실시간 자율성**: AI가 상황을 분석하여 응급 시 인력과 장비를 자율적으로 배치하는 [[Agentic AI]]의 실제 구현 사례임.
+- **실시간 자율성**: AI가 상황을 분석하여 응급 시 인력과 장비를 자율적으로 배치하는 [[Agentic AI (에이전틱 AI)]]의 실제 구현 사례임.
 
 ## 언급된 엔티티
 - [[Zebra Technologies]]: 의료용 전용 모바일 컴퓨터 및 웨어러블 디바이스 제조사.
@@ -19,12 +19,12 @@ tags: ["healthcare", "agentic-ai", "partnership"]
 - [[ANA (AI-powered Nurse Assistant)]]: 음성 인식 및 상황 분석을 지원하는 AI 보조원.
 
 ## 다루는 개념
-- [[Agentic AI]]: 목표 달성을 위해 자율적으로 도구를 사용하고 계획을 수행하는 AI.
+- [[Agentic AI (에이전틱 AI)]]: 목표 달성을 위해 자율적으로 도구를 사용하고 계획을 수행하는 AI.
 - **핸즈프리 워크플로우**: 장비 조작 없이 음성이나 감지 기술로 업무를 처리하는 방식.
 - **의료 혁신**: AI를 통한 인력 부족 문제 해결 및 효율화.
 
 ## 후니님의 맥락 메모
-- 물리적 현장(병원 등)에서 기계 조작이 불가능할 때 '음성 인터페이스'가 어떻게 [[Agentic AI]]와 결합되어 가치를 만드는지 보여주는 핵심 사례.
+- 물리적 현장(병원 등)에서 기계 조작이 불가능할 때 '음성 인터페이스'가 어떻게 [[Agentic AI (에이전틱 AI)]]와 결합되어 가치를 만드는지 보여주는 핵심 사례.
 - 향후 1인 비즈니스나 오프라인 서비스 업종에서도 이러한 '핸즈프리 비서' 도입 가능성 검토 필요.
 
 ## 후속 액션
