@@ -1,46 +1,50 @@
 ---
 type: summary
-created: 2026-04-21
-updated: 2026-04-21
+created: 2026-04-20
+updated: 2026-04-22
 sources: ["raw/videos/2026-04-20_Self host Gemma 4 Deploy LLMs on Cloud Run GPUs_Google Cloud Tech.md"]
-tags: [Gemma4, GoogleCloud, CloudRun, Ollama, vLLM, Deployment, Infra]
+tags: ["tutorial", "gemma4", "cloud-run", "deployment"]
 ---
 
-# 구글 클라우드(Cloud Run) 기반 Gemma 4 자가 호스팅 가이드
+# Gemma 4: Cloud Run 자가 호스팅 가이드
 
-Google Cloud Run(GPU) 환경에서 오픈 모델인 [[Gemma]]를 직접 호스팅하고 배포하기 위한 두 가지 핵심 전략(Ollama vs vLLM)과 실전 파이프라인을 다룹니다.
+Google Cloud Run(GPU) 환경에서 오픈 모델인 **[[Gemma 4 (젬마 4)]]**를 직접 호스팅하고 배포하는 전략을 정리한 기술 가이드입니다.
 
-## 🚀 배포 전략 비교: Ollama vs vLLM
+---
 
-| 특성 | **Ollama (이미지 내장형)** | **vLLM (스토리지 마운트형)** |
+## 🏗️ 핵심 아키텍처 비교
+
+이 가이드는 배포 환경의 목적에 따라 **[[Ollama]]**와 **[[vLLM]]** 두 가지 서빙 엔진 활용법을 제시합니다.
+
+| 비교 항목 | **[[Ollama]]** | **[[vLLM]]** |
 | :--- | :--- | :--- |
-| **적합한 환경** | 개발, PoC, 로컬 테스트 | 프로덕션(Production), 대규모 서비스 |
-| **모델 저장소** | Docker 컨테이너 이미지 내부 | Google Cloud Storage (GCS) |
-| **장점** | 초기 구동(Cold Start) 속도 우수 | 메모리 효율(Page Attention), 유지보수 용이 |
-| **업대이트** | 컨테이너 이미지 전체 재빌드 필요 | GCS 버킷 내 가중치 파일만 교체 가능 |
+| **적합한 환경** | 개발, 시뮬레이션, PoC | 실제 서비스 생산(Production) |
+| **모델 관리** | 컨테이너 이미지 내에 모델 가중치 포함 | GCS 버킷에 보관 후 GCS Fuse로 마운트 |
+| **특징** | 설치 및 빌드가 매우 간단함 | Page Attention 기술로 메모리 효율 최적화 |
+| **장점** | 초기 구동(Cold Start) 속도가 빠름 | 이미지 재빌드 없이 모델 가중치만 교체 가능 |
 
-## 🛠️ 실전 배포 파이프라인
+---
 
-### 1. Ollama 방식 (사전 패키징)
-- **과정**: Ollama 서버 설치 ➔ `Ollama Pull gemma4` ➔ 모델이 포함된 Docker 이미지 빌드 ➔ Artifact Registry 푸시 ➔ Cloud Run GPU 배포.
-- **인사이트**: 모델 가중치가 이미지에 포함되어 있어 배포 직후 즉각적인 서비스가 가능합니다.
+## 🛠️ 서빙 기술 핵심 요약
 
-### 2. vLLM + GCS Fuse 방식 (유연한 확장)
-- **과정**: Hugging Face 가중치를 GCS 버킷에 업로드 ➔ vLLM 코어 엔진만 담긴 경량 Docker 이미지 빌드 ➔ Cloud Run 배포 ➔ **GCS Fuse**를 통해 버킷을 로컬 폴더로 마운트하여 모델 로드.
-- **인사이트**: **GCS Fuse**를 활용하면 수십 GB의 모델 가중치를 컨테이너 이미지에 넣지 않고도 로컬 파일처럼 접근할 수 있어 배포 유연성이 극대화됩니다.
+### 1. Ollama 기반 배포 (Quick & Simple)
+- 모델을 Docker 이미지 빌드 단계에서 `pull`하여 내장하는 방식입니다.
+- **아티팩트 레지스트리(Artifact Registry)**에 푸시 후 Cloud Run GPU 인스턴스에 즉시 배포 가능합니다.
 
-## 💡 에이전틱 시스템의 4가지 기둥
-이 튜토리얼에서는 성공적인 [[Agentic AI (에이전틱 AI)]] 관리를 위해 다음 4가지를 강조합니다:
-1. **비용/용량 최적화**: 사용량에 따라 GPU 자원을 할당하는 Serverless(Cloud Run) 활용.
-2. **모델 전략**: 보안이 중요한 데이터는 오픈 모델(Gemma)로 처리.
-3. **확장성 있는 서빙**: vLLM 등의 고성능 인퍼런스 엔진 사용.
-4. **관측 가능성(Observability)**: 모델 응답 속도 및 자원 소모 실시간 모니터링.
+### 2. vLLM + GCS Fuse 기반 배포 (Efficient & Scale)
+- **[[vLLM]]** 엔진만 포함된 가벼운 이미지를 사용합니다.
+- 모델 가중치는 GCS(Google Cloud Storage)에 저장하고, **GCS Fuse**를 통해 런타임 시 로컬 파일 시스템처럼 마운트하여 읽어옵니다.
+- 동적 배치(Dynamic Batching)를 지원하여 다중 요청 처리 성능이 뛰어납니다.
+
+---
+
+## 💡 인사이트 (후니님의 맥락 메모)
+오픈 모델을 서비스 환경에 올릴 때 엔진(Core)과 가중치(Weight)를 분리하여 관리하는 **vLLM + GCS Fuse** 방식이 실무적으로 훨씬 유연합니다. 모델 업데이트 시 대용량 이미지를 다시 빌드하고 푸시할 필요 없이 GCS 버킷의 파일만 교체하면 되기 때문입니다. 향후 위키용 자체 에이전트 구축 시 이 전략을 기본 채택할 예정입니다.
+
+---
 
 ## 🔗 연관 지식
-- [[Gemma 4 (젬마 4)]] - 최신 오픈소스 모델 엔티티
-- [[2026-04-20_Gemma_4_Cloud_Run_자가_호스팅_가이드]] - 구글의 서버리스 컨테이너 서비스
-- [[AI 인프라 레이스]] - 기업의 독자적 호스팅 환경 구축 트렌드
-- [[Ollama]] / [[vLLM]]
-
----
-> 출처: [[Gemma|Google Cloud Tech 핸즈온 튜토리얼 (2026-04-20)]]
+- [[Gemma 4 (젬마 4)]]
+- [[Google Cloud]]
+- [[Agentic AI (에이전틱 AI)]]
+- [[Cloud Run]]

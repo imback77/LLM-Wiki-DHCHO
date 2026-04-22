@@ -11,6 +11,24 @@ tags: ["auto-fixed"]
 
 ---
 
+## [2026-04-22] Ingest | 미처리 영상 노드 3종 딥 인제스트
+- **소스**: raw/videos/ (3개 파일)
+- **타입**: video-note (Deep Ingest)
+- **생성·업데이트 페이지** (10개): [[2026-04-20_Gemma_4_Cloud_Run_자가_호스팅_가이드]], [[2026-04-20_바이브 코딩과 솔로 프리뉴어 비즈니스 모델]], [[2026-04-21_코스피_최고치_경신_분석_및_배당주_매도_전략]], [[삼성전자 (Samsung Electronics)]], [[Gemma 4 (젬마 4)]], [[Ollama]], [[vLLM]], [[Cloud Run]], [[바이브 코딩 (Vibe Coding)]], [[시가배당률]]
+- **후니님 맥락**: 밀려있던 기술 튜토리얼과 상업적 케이스 스터디, 시장 전략 영상을 정밀 분석하여 지식 그래프로 변환함.
+
+## [2026-04-22] Ingest | AI 뉴스 다이제스트 라이트 인제스트
+- **소스**: raw/research/2026-04-22_AI_News_Digest.md
+- **타입**: research_summary (Lite Ingest)
+- **생성·업데이트 페이지** (8개): [[2026-04-22_AI_Industry_Trends]], [[OpenAI]], [[Anthropic (앤트로픽)]], [[Google Cloud]], [[Meta]], [[Microsoft]], [[Agentic AI (에이전틱 AI)]], [[피지컬 AI (Physical AI)]]
+- **후니님 맥락**: 수집된 10개 뉴스를 바탕으로 스텁 페이지를 채우고 핵심 엔티티를 최신화하여 토큰 효율적인 지식 복리를 수행함.
+
+## [2026-04-22] Ingest | 일일 시장 데일리 리캡 자동 업데이트
+- **소스**: Naver News API, KRX Market Data, Macro RSS Feeds
+- **타입**: automated_market_recap
+- **생성된 페이지** (1개): [[2026-04-22_Market_Recap]]
+- **후니님 맥락**: 반도체 사상 최고치 경신 및 스페이스X 모멘텀 등 시장 핵심 테마를 자동으로 인제스트하여 위키 지식 복리를 지속함.
+
 ## [2026-04-20] Ingest | 주동 섹터 및 보안 소프트웨어 분석
 - **소스**: raw/research/trends/2026-04-20_dynamic_trend.md
 - **타입**: trend_analysis
@@ -70,3 +88,4 @@ tags: ["auto-fixed"]
     - **인덱스 동기화**: 누락되었던 04-19 요약 페이지 및 오늘 생성된 핵심 분석 페이지들을 인덱스에 공식 등록함.
 - **후니님 확인 필요**: 
     - 대부분의 깨진 링크가 복구되었으나, 논리적으로 소스는 존재하나 파일명이 불분명한 일부 링크들은 향후 인제스트 과정에서 자연스럽게 채워질 예정입니다.
+| 2026-04-22 | Market | 주식 시장 데일리 리캡 | [Link](2026-04-22_Market_Recap.md) | 완료 |

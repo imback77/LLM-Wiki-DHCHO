@@ -8,7 +8,7 @@ created: 2026-04-20
 description: Google Cloud Run(GPU) 환경에서 Ollama와 vLLM을 활용하여 오픈 모델인 Gemma 4를 직접 호스팅하고 배포하는 방법을 다루는 핸즈온 튜토리얼
 tags:
   - raw/videos
-wiki_status: 미처리
+wiki_status: 완료
 ---
 ---
 
