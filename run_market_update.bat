@@ -17,8 +17,13 @@ echo [3/4] Collecting Macro ^& Risk Indicators...
 python tools/update_market_macro.py
 
 echo.
-echo [4/4] Synthesizing Daily Recap to Wiki...
+echo.
+echo [4/5] Synthesizing Daily Recap to Wiki...
 python tools/ingest_daily_recap.py
+
+echo.
+echo [5/5] Generating Watchlist Intelligence...
+python tools/update_watchlist_intelligence.py
 
 echo.
 echo [LLM Wiki] ==========================================
