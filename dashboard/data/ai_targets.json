@@ -1,0 +1,23 @@
+[
+    {
+        "code": "000270",
+        "name": "기아",
+        "predicted_entry_price": 153400,
+        "predicted_target_price": 168000,
+        "rationale": "현재가가 20일 이동평균선에 정밀하게 접촉하여 기술적 지지 반등 확률이 매우 높으며, 업종 내 최고 수준의 수익성과 밸류업 모멘텀이 유효합니다."
+    },
+    {
+        "code": "000250",
+        "name": "삼천당제약",
+        "predicted_entry_price": 411500,
+        "predicted_target_price": 490000,
+        "rationale": "RSI 25.5의 극심한 과매도 상태로 단기 낙폭이 과도하며, 20일선과의 이격도를 좁히려는 강력한 기술적 되돌림 반등이 예상되는 구간입니다."
+    },
+    {
+        "code": "012450",
+        "name": "한화에어로스페이스",
+        "predicted_entry_price": 1450000,
+        "predicted_target_price": 1600000,
+        "rationale": "방산 섹터의 압도적 대장주로 20일선 부근에서 견조한 눌림목 지지를 형성 중이며, 대규모 수주 잔고를 바탕으로 우상향 추세를 이어갈 가능성이 큽니다."
+    }
+]

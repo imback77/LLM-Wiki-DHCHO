@@ -1,0 +1,586 @@
+[
+    {
+        "name": "한화에어로스페이스",
+        "code": "012450",
+        "sector": "방산",
+        "close": 1463000,
+        "change_rate": 2.67,
+        "volume": 272846
+    },
+    {
+        "name": "현대로템",
+        "code": "064350",
+        "sector": "방산",
+        "close": 233000,
+        "change_rate": -1.06,
+        "volume": 1957754
+    },
+    {
+        "name": "LIG넥스원",
+        "code": "079550",
+        "sector": "방산",
+        "close": 989000,
+        "change_rate": 2.38,
+        "volume": 325655
+    },
+    {
+        "name": "한국항공우주(KAI)",
+        "code": "047810",
+        "sector": "방산",
+        "close": 171400,
+        "change_rate": -6.08,
+        "volume": 2626235
+    },
+    {
+        "name": "한화시스템",
+        "code": "272210",
+        "sector": "방산",
+        "close": 130400,
+        "change_rate": 0.23,
+        "volume": 680760
+    },
+    {
+        "name": "아이쓰리시스템",
+        "code": "214430",
+        "sector": "방산",
+        "close": 108400,
+        "change_rate": 2.65,
+        "volume": 64654
+    },
+    {
+        "name": "인텔리안테크",
+        "code": "189300",
+        "sector": "방산",
+        "close": 130400,
+        "change_rate": -3.19,
+        "volume": 142722
+    },
+    {
+        "name": "쎄트렉아이",
+        "code": "099320",
+        "sector": "방산",
+        "close": 172600,
+        "change_rate": -2.15,
+        "volume": 73305
+    },
+    {
+        "name": "SK하이닉스",
+        "code": "000660",
+        "sector": "반도체·장비",
+        "close": 1222000,
+        "change_rate": -0.24,
+        "volume": 3127857
+    },
+    {
+        "name": "한미반도체",
+        "code": "042700",
+        "sector": "반도체·장비",
+        "close": 295500,
+        "change_rate": 0.68,
+        "volume": 570284
+    },
+    {
+        "name": "이수페타시스",
+        "code": "007660",
+        "sector": "반도체·장비",
+        "close": 153400,
+        "change_rate": 2.13,
+        "volume": 1294903
+    },
+    {
+        "name": "주성엔지니어링",
+        "code": "036930",
+        "sector": "반도체·장비",
+        "close": 123900,
+        "change_rate": 6.63,
+        "volume": 3985537
+    },
+    {
+        "name": "리노공업",
+        "code": "058470",
+        "sector": "반도체·장비",
+        "close": 124400,
+        "change_rate": 0.89,
+        "volume": 827192
+    },
+    {
+        "name": "테크윙",
+        "code": "089030",
+        "sector": "반도체·장비",
+        "close": 61800,
+        "change_rate": 12.36,
+        "volume": 4983557
+    },
+    {
+        "name": "디아이",
+        "code": "003160",
+        "sector": "반도체·장비",
+        "close": 34650,
+        "change_rate": 8.62,
+        "volume": 912691
+    },
+    {
+        "name": "LG에너지솔루션",
+        "code": "373220",
+        "sector": "이차전지",
+        "close": 481000,
+        "change_rate": 3.11,
+        "volume": 402718
+    },
+    {
+        "name": "삼성SDI",
+        "code": "006400",
+        "sector": "이차전지",
+        "close": 641000,
+        "change_rate": 1.75,
+        "volume": 786062
+    },
+    {
+        "name": "에코프로비엠",
+        "code": "247540",
+        "sector": "이차전지",
+        "close": 208000,
+        "change_rate": 1.22,
+        "volume": 388962
+    },
+    {
+        "name": "포스코퓨처엠",
+        "code": "003670",
+        "sector": "이차전지",
+        "close": 252000,
+        "change_rate": 2.44,
+        "volume": 314656
+    },
+    {
+        "name": "엘앤에프",
+        "code": "066970",
+        "sector": "이차전지",
+        "close": 198500,
+        "change_rate": 4.97,
+        "volume": 891885
+    },
+    {
+        "name": "솔브레인",
+        "code": "357780",
+        "sector": "이차전지",
+        "close": 469000,
+        "change_rate": 1.96,
+        "volume": 30064
+    },
+    {
+        "name": "HD한국조선해양",
+        "code": "009540",
+        "sector": "조선·해양",
+        "close": 476000,
+        "change_rate": 3.25,
+        "volume": 267625
+    },
+    {
+        "name": "한화오션",
+        "code": "042660",
+        "sector": "조선·해양",
+        "close": 134900,
+        "change_rate": 0.37,
+        "volume": 1520273
+    },
+    {
+        "name": "삼성중공업",
+        "code": "010140",
+        "sector": "조선·해양",
+        "close": 34400,
+        "change_rate": 1.18,
+        "volume": 11182486
+    },
+    {
+        "name": "HD현대중공업",
+        "code": "329180",
+        "sector": "조선·해양",
+        "close": 671000,
+        "change_rate": 4.68,
+        "volume": 597616
+    },
+    {
+        "name": "성광벤드",
+        "code": "014620",
+        "sector": "조선·해양",
+        "close": 47550,
+        "change_rate": 19.02,
+        "volume": 2074374
+    },
+    {
+        "name": "태광",
+        "code": "023160",
+        "sector": "조선·해양",
+        "close": 47000,
+        "change_rate": 6.7,
+        "volume": 1385595
+    },
+    {
+        "name": "동성화인텍",
+        "code": "033500",
+        "sector": "조선·해양",
+        "close": 29700,
+        "change_rate": 3.48,
+        "volume": 372560
+    },
+    {
+        "name": "세진중공업",
+        "code": "075580",
+        "sector": "조선·해양",
+        "close": 21550,
+        "change_rate": 4.61,
+        "volume": 919642
+    },
+    {
+        "name": "HD현대일렉트릭",
+        "code": "267260",
+        "sector": "전력기기·전선",
+        "close": 1248000,
+        "change_rate": 10.54,
+        "volume": 280050
+    },
+    {
+        "name": "LS ELECTRIC",
+        "code": "010120",
+        "sector": "전력기기·전선",
+        "close": 226500,
+        "change_rate": 4.38,
+        "volume": 1695903
+    },
+    {
+        "name": "효성중공업",
+        "code": "298040",
+        "sector": "전력기기·전선",
+        "close": 3552000,
+        "change_rate": 8.69,
+        "volume": 95360
+    },
+    {
+        "name": "LS",
+        "code": "006260",
+        "sector": "전력기기·전선",
+        "close": 398500,
+        "change_rate": 6.55,
+        "volume": 223625
+    },
+    {
+        "name": "가온전선",
+        "code": "000080",
+        "sector": "전력기기·전선",
+        "close": 17180,
+        "change_rate": 0.41,
+        "volume": 78307
+    },
+    {
+        "name": "제룡전기",
+        "code": "033100",
+        "sector": "전력기기·전선",
+        "close": 55400,
+        "change_rate": 1.09,
+        "volume": 339086
+    },
+    {
+        "name": "일진전기",
+        "code": "103590",
+        "sector": "전력기기·전선",
+        "close": 96500,
+        "change_rate": 5.12,
+        "volume": 1079541
+    },
+    {
+        "name": "두산에너빌리티",
+        "code": "034020",
+        "sector": "원전·SMR",
+        "close": 127100,
+        "change_rate": 3.67,
+        "volume": 5682618
+    },
+    {
+        "name": "한전KPS",
+        "code": "051600",
+        "sector": "원전·SMR",
+        "close": 63500,
+        "change_rate": 1.28,
+        "volume": 228556
+    },
+    {
+        "name": "비에이치아이",
+        "code": "083650",
+        "sector": "원전·SMR",
+        "close": 98300,
+        "change_rate": -3.06,
+        "volume": 856261
+    },
+    {
+        "name": "우진",
+        "code": "105840",
+        "sector": "원전·SMR",
+        "close": 28750,
+        "change_rate": -0.17,
+        "volume": 766865
+    },
+    {
+        "name": "보성파워텍",
+        "code": "006910",
+        "sector": "원전·SMR",
+        "close": 12110,
+        "change_rate": 2.02,
+        "volume": 11202690
+    },
+    {
+        "name": "현대차",
+        "code": "005380",
+        "sector": "자동차·전장부품",
+        "close": 513000,
+        "change_rate": -3.57,
+        "volume": 1228355
+    },
+    {
+        "name": "기아",
+        "code": "000270",
+        "sector": "자동차·전장부품",
+        "close": 153400,
+        "change_rate": -3.16,
+        "volume": 1088654
+    },
+    {
+        "name": "현대모비스",
+        "code": "012330",
+        "sector": "자동차·전장부품",
+        "close": 422500,
+        "change_rate": -4.52,
+        "volume": 436579
+    },
+    {
+        "name": "HL만도",
+        "code": "204320",
+        "sector": "자동차·전장부품",
+        "close": 53000,
+        "change_rate": -0.75,
+        "volume": 168604
+    },
+    {
+        "name": "명신산업",
+        "code": "009900",
+        "sector": "자동차·전장부품",
+        "close": 12000,
+        "change_rate": 0.0,
+        "volume": 715272
+    },
+    {
+        "name": "삼성바이오로직스",
+        "code": "207940",
+        "sector": "제약·바이오",
+        "close": 1528000,
+        "change_rate": 0.92,
+        "volume": 59422
+    },
+    {
+        "name": "셀트리온",
+        "code": "068270",
+        "sector": "제약·바이오",
+        "close": 209000,
+        "change_rate": 1.46,
+        "volume": 448117
+    },
+    {
+        "name": "알테오젠",
+        "code": "196170",
+        "sector": "제약·바이오",
+        "close": 369000,
+        "change_rate": 3.22,
+        "volume": 333849
+    },
+    {
+        "name": "유한양행",
+        "code": "000100",
+        "sector": "제약·바이오",
+        "close": 94800,
+        "change_rate": 0.11,
+        "volume": 170005
+    },
+    {
+        "name": "리가켐바이오",
+        "code": "141080",
+        "sector": "제약·바이오",
+        "close": 200000,
+        "change_rate": -0.74,
+        "volume": 242608
+    },
+    {
+        "name": "에스티팜",
+        "code": "237690",
+        "sector": "제약·바이오",
+        "close": 148000,
+        "change_rate": 0.0,
+        "volume": 93763
+    },
+    {
+        "name": "한미약품",
+        "code": "128940",
+        "sector": "제약·바이오",
+        "close": 497500,
+        "change_rate": 1.53,
+        "volume": 72984
+    },
+    {
+        "name": "삼천당제약",
+        "code": "000250",
+        "sector": "제약·바이오",
+        "close": 411500,
+        "change_rate": 8.29,
+        "volume": 569981
+    },
+    {
+        "name": "보로노이",
+        "code": "310210",
+        "sector": "제약·바이오",
+        "close": 306500,
+        "change_rate": -3.01,
+        "volume": 61772
+    },
+    {
+        "name": "펩트론",
+        "code": "087010",
+        "sector": "제약·바이오",
+        "close": 278500,
+        "change_rate": 10.08,
+        "volume": 273608
+    },
+    {
+        "name": "KB금융",
+        "code": "105560",
+        "sector": "금융·밸류업",
+        "close": 157400,
+        "change_rate": -0.38,
+        "volume": 1072760
+    },
+    {
+        "name": "메리츠금융지주",
+        "code": "138040",
+        "sector": "금융·밸류업",
+        "close": 114500,
+        "change_rate": -2.05,
+        "volume": 228353
+    },
+    {
+        "name": "하나금융지주",
+        "code": "086790",
+        "sector": "금융·밸류업",
+        "close": 123300,
+        "change_rate": 1.99,
+        "volume": 796290
+    },
+    {
+        "name": "신한지주",
+        "code": "055550",
+        "sector": "금융·밸류업",
+        "close": 100000,
+        "change_rate": 0.1,
+        "volume": 1046117
+    },
+    {
+        "name": "키움증권",
+        "code": "039490",
+        "sector": "금융·밸류업",
+        "close": 449500,
+        "change_rate": 0.67,
+        "volume": 96220
+    },
+    {
+        "name": "삼성화재",
+        "code": "000810",
+        "sector": "금융·밸류업",
+        "close": 456000,
+        "change_rate": -1.51,
+        "volume": 166309
+    },
+    {
+        "name": "실리콘투",
+        "code": "257720",
+        "sector": "K-뷰티·소비재",
+        "close": 48800,
+        "change_rate": 1.99,
+        "volume": 854247
+    },
+    {
+        "name": "삼양식품",
+        "code": "003230",
+        "sector": "K-뷰티·소비재",
+        "close": 1315000,
+        "change_rate": -2.16,
+        "volume": 44440
+    },
+    {
+        "name": "코스맥스",
+        "code": "192820",
+        "sector": "K-뷰티·소비재",
+        "close": 227000,
+        "change_rate": 3.89,
+        "volume": 115728
+    },
+    {
+        "name": "한국콜마",
+        "code": "161890",
+        "sector": "K-뷰티·소비재",
+        "close": 91600,
+        "change_rate": 4.09,
+        "volume": 281632
+    },
+    {
+        "name": "클리오",
+        "code": "237880",
+        "sector": "K-뷰티·소비재",
+        "close": 13410,
+        "change_rate": 6.43,
+        "volume": 234544
+    },
+    {
+        "name": "아이패밀리에스씨",
+        "code": "114840",
+        "sector": "K-뷰티·소비재",
+        "close": 11170,
+        "change_rate": 7.51,
+        "volume": 235669
+    },
+    {
+        "name": "NAVER",
+        "code": "035420",
+        "sector": "인터넷·AI 소프트웨어",
+        "close": 214000,
+        "change_rate": -1.61,
+        "volume": 476096
+    },
+    {
+        "name": "카카오",
+        "code": "035720",
+        "sector": "인터넷·AI 소프트웨어",
+        "close": 48050,
+        "change_rate": -0.72,
+        "volume": 1064052
+    },
+    {
+        "name": "더존비즈온",
+        "code": "012510",
+        "sector": "인터넷·AI 소프트웨어",
+        "close": 119000,
+        "change_rate": -0.25,
+        "volume": 3405
+    },
+    {
+        "name": "루닛",
+        "code": "328130",
+        "sector": "인터넷·AI 소프트웨어",
+        "close": 36450,
+        "change_rate": 1.96,
+        "volume": 281672
+    },
+    {
+        "name": "뷰노",
+        "code": "338220",
+        "sector": "인터넷·AI 소프트웨어",
+        "close": 19230,
+        "change_rate": -1.03,
+        "volume": 93358
+    }
+]

@@ -1,0 +1,6 @@
+streamlit
+python-frontmatter
+pandas
+requests
+python-dotenv
+pyyaml

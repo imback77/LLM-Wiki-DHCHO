@@ -1,4 +1,4 @@
-﻿---
+---
 type: "article"
 title: "Project Glasswing — Anthropic leads critical software security initiative"
 source: "https://www.anthropic.com/glasswing"
